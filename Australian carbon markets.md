@@ -10,7 +10,7 @@ The [Emissions Reduction Fund](http://www.cleanenergyregulator.gov.au/ERF/About-
 
 Activities that are eligible under the scheme can earn Australian carbon credit units (ACCUs) for emissions reductions. One ACCU is earned for each tonne of carbon dioxide equivalent (tCO2-e) stored or avoided by a project. ACCUs can be sold to generate income, either to the government through a carbon abatement contract, or in the secondary market.
 
-ACCUs provide a source of revenue that can assist 
+ACCUs provide a source of revenue that can assist industries fund reductions in carbon dioxide equivalent emissions. The Australian Government acts as a market maker for ACCUs. This will operate via the [Australian carbon exchange](http://www.cleanenergyregulator.gov.au/Infohub/Markets/australian-carbon-exchange) 
 
 # LGCs
-
+The [Renewable Energy Target](http://www.cleanenergyregulator.gov.au/RET/About-the-Renewable-Energy-Target) is a mandatory scheme that requires large carbon dioxide equivalent emitters to purc, which creates a demand for LGCs. The RET works by allowing both large-scale power stations and the owners of small-scale systems to create large-scale generation certificates and small-scale technology certificates for every megawatt hour of power they generate. Certificates are then purchased by electricity retailers (who supply electricity to householders and businesses) and submitted to the Clean Energy Regulator to meet the retailers' legal obligations under the Renewable Energy Target. This creates a market which provides financial incentives to both large-scale renewable energy power stations and the owners of small-scale renewable energy systems.
