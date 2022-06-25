@@ -6,6 +6,11 @@ The funds are the:
 - Renewable Energy Target, which creates tradable large-scale generation certificates, #LGC, and small-scale technology certificates, #STC.
 
 # ACCUs
+The [Emissions Reduction Fund](http://www.cleanenergyregulator.gov.au/ERF/About-the-Emissions-Reduction-Fund) is a voluntary scheme that aims to provide incentives for a range of organisations and individuals to adopt new practices and technologies to reduce their carbon dioxide equivalent emissions.
+
+Activities that are eligible under the scheme can earn Australian carbon credit units (ACCUs) for emissions reductions. One ACCU is earned for each tonne of carbon dioxide equivalent (tCO2-e) stored or avoided by a project. ACCUs can be sold to generate income, either to the government through a carbon abatement contract, or in the secondary market.
+
+ACCUs provide a source of revenue that can assist 
 
 # LGCs
 
