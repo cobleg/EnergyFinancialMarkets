@@ -10,4 +10,6 @@ The pool is not a physical thing, but a set of procedures that AEMO manages in l
 # Demand and supply of electricity
 The balance between the demand and supply of electricity determines the wholesale electricity price. This induces a derived demand for fuels such as #coal, #gas and #diesel in so-called thermal electricity generation. 
 
-Over time, there has been a gradual substitution of fuel-based electricity generation for renewable e
+Over time, there has been a gradual substitution of fuel-based electricity generation for renewable electricity generation, mainly solar and wind power. 
+
+This has created interesting and at times, highly volatile, wholesale electricity prices

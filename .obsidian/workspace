@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "National Electricity Market.md",
+            "file": "small-scale technology certificates.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AEMO",
+                "query": "tag:#ACCU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "National Electricity Market.md",
+                "file": "small-scale technology certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,10 +90,13 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
+    "small-scale technology certificates.md",
+    "Australian carbon markets.md",
+    "large-scale generation certificates.md",
+    "Australian carbon credit units.md",
     "National Electricity Market.md",
     "markets are interconnected.md",
     "Australian domestic gas market.md",
-    "Australian carbon markets.md",
     "_Welcome.md"
   ]
 }
