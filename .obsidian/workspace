@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Australian domestic gas market.md",
+            "file": "National Electricity Market.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#AEMO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Australian domestic gas market.md",
+                "file": "National Electricity Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +90,9 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
-    "Australian domestic gas market.md",
+    "National Electricity Market.md",
     "markets are interconnected.md",
+    "Australian domestic gas market.md",
     "Australian carbon markets.md",
     "_Welcome.md"
   ]

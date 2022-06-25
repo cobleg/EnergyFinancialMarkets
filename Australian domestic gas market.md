@@ -9,4 +9,4 @@ Australia is a large exporter of gas as Liquified Natural Gas, #LNG. The Eastern
 
 Coal-seam gas is regarded as an [unconventional gas resource](https://energyinformationaustralia.com.au/conventional-vs-unconventional/) and is distinctly different to so-called coventional gas basins (e.g. the [Cooper Basin](https://en.wikipedia.org/wiki/Cooper_Basin)).  A key point is that the exporter of coal-seam gas compete with domestic gas consumers, which has increased the price of domestic gas used in electricity generation and industry [Queensland LNG deal could lead to even higher gas prices](https://www.leadingedgeenergy.com.au/blog/lng-queensland-deal/). 
 
-This has been a direct contributor to higher #NEM wholesale electricity prices. 
+This has been a direct contributor to higher #NEM wholesale electricity prices [Australian Energy Council, Inflation, interest rates, commodity prices and electricity prices](https://www.energycouncil.com.au/analysis/inflation-interest-rates-commodity-prices-and-electricity-prices/). 
