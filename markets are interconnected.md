@@ -12,3 +12,4 @@ The regulated and interconnected markets are the:
 - [[National Electricity Market]]
 - [[Australian carbon markets]]
 - [[Australian domestic gas market]]
+- [[Australian domestic coal market]] 
