@@ -3,7 +3,7 @@ Welcome to my notebook for Energy Financial Markets. In this notebook, you will 
 
 Since the course is about managing financial risks for energy market participants in the National Electricity Market ( #NEM) that will be our focus in this notebook. 
 
-In all that follows, remember that markets are interconnected. Therefore, in order to understand what the financial risks are, we need to understand what is causing those
+In all that follows, remember that [[markets are interconnected]]. Therefore, in order to understand what the [[financial risks]] are, we need to understand what are the potential risks and what causes those risks to be realised. In developing this understanding, we will also consider [[market dynamics]]. 
 
 # Real world events
 ## Coal generation issues in the National Electricity Market
