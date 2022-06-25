@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markets are interconnected.md",
+            "file": "Australian carbon markets.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markets are interconnected.md",
+                "file": "Australian carbon markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
+    "Australian carbon markets.md",
     "markets are interconnected.md",
     "_Welcome.md"
   ]

@@ -8,4 +8,7 @@ According to Investopedia:
 ## Australian energy markets 
 Both regulated and unregulated energy markets exist in Australia. We will focus on the regulated market known as the National Electricity Market, #NEM.
 
-
+The regulated and interconnected markets are the:
+- [[National Electricity Market]]
+- [[Australian carbon markets]]
+- [[Australian domestic gas market]]
