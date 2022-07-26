@@ -17,5 +17,14 @@ On 7 June 2022, the AEMO released a speech by Daniel Westerman, in which these p
   >[AEMO, Daniel Westerman’s Australian Energy Week speech: Orchestrating the pace of change so the energy system stays functional through the transition](https://aemo.com.au/newsroom/news-updates/orchestrating-the-pace-of-change)
   
   
+# Capacity investment issues
+Changing electricity generation technology is raising issues in relation to the performance of Australian electricity grids. In particular, the rapid deployment of [[Variable Renewable Energy ]](VRE) systems (e.g. solar power and wind power systems). 
+
+Core issues are:
+1. The change from on-demand technology such as fuel-based electricity generators (e.g. coal-fueled steam boiler and turbines, gas-fuelled turbines) to when-available energy (e.g. solar and wind). Electricity system operators may use the terms `dispatchable` and `non-dispatchable` to make the same distinction.
+2. Unbundling of services such as energy, inertia, frequency services. Fuel-based generators typically provide all three services simultaneously. By constrast, VRE systems only provide energy services. 
+3. VRE systems do not emit carbon dioxide equivalent emissions
+
+These core issues
   
   
