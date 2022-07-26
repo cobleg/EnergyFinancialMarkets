@@ -22,9 +22,21 @@ Changing electricity generation technology is raising issues in relation to the 
 
 Core issues are:
 1. The change from on-demand technology such as fuel-based electricity generators (e.g. coal-fueled steam boiler and turbines, gas-fuelled turbines) to when-available energy (e.g. solar and wind). Electricity system operators may use the terms `dispatchable` and `non-dispatchable` to make the same distinction.
-2. Unbundling of services such as energy, inertia, frequency services. Fuel-based generators typically provide all three services simultaneously. By constrast, VRE systems only provide energy services. 
-3. VRE systems do not emit carbon dioxide equivalent emissions
+2. Unbundling of services such as energy, inertia, frequency services. Fuel-based generators typically provide all three services simultaneously. By constrast, VRE systems only provide energy services. The implication being that both types of electricity generation technologies are needed, but that the combination implies a higher cost electricity system.
+3. VRE systems do not emit carbon dioxide equivalent emissions, nor any other pollutants such as nitrous oxide. By contrast, fuel-based electricity generators do emit these unwanted byproducts - with the exception of hydrogen-based electricity generators.
 
-These core issues
+These core issues are forcing a trade-off between  affordability and reliability. 
+
+## Energy storage solutions
+Energy storage solutions are an obvious response to VRE, but this further makes achieving the twin goals of affordability and reliability more difficult. Energy storage solutions are typically expensive relative to the incremental cost of continuing fuel-based power systems.
+
+# Strategic interactions between competitors
+The facilities-based competition paradigm established in the [[National Electricity Market]] leads to various strategic interactions between electricity producers, suppliers and consumers. 
+
+Assessing the implications of strategic interactions is helped by applying two distinct paradigms:
+1. [[Systems thinking and systems dynamics
+2. Game theory
+
+
   
   
