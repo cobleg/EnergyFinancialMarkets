@@ -34,8 +34,10 @@ Energy storage solutions are an obvious response to VRE, but this further makes 
 The facilities-based competition paradigm established in the [[National Electricity Market]] leads to various strategic interactions between electricity producers, suppliers and consumers. 
 
 Assessing the implications of strategic interactions is helped by applying two distinct paradigms:
-1. [[Systems thinking and systems dynamics
-2. Game theory
+1. [[Systems thinking]] and [[systems dynamics]]
+2. [[game theory]]
+
+
 
 
   
