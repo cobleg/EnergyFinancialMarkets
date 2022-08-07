@@ -5,6 +5,17 @@ Since the course is about managing financial risks for energy market participant
 
 In all that follows, remember that [[markets are interconnected]]. Therefore, in order to understand what the [[financial risks]] are, we need to understand what are the potential risks and what causes those risks to be realised. In developing this understanding, we will also consider [[market dynamics]]. 
 
+# Managing financial risks
+Wholesale energy prices are volatile and this poses substantial financial risk for market participants. There are various financial instruments available to help manage these risks:
+- [[swaps]]
+- [[caps]]
+- [[collars]]
+- [[floors]]
+
+The effectiveness of these instruments will be determined by a range of factors such as:
+- the sophistication of the financial risk managers and traders
+- market liquidity
+
 # Real world events
 ## Coal generation issues in the National Electricity Market
 On 29 April 2022, the AEMO reported:
@@ -39,7 +50,8 @@ Assessing the implications of strategic interactions is helped by applying two d
 
 These conceptual paradigms provide frameworks within which to analyse and synthesise the interactions between energy market participants across multiple energy markets.
 
+# Further reading
 
-
+Darryl R. Biggar, Mohammad Reza Hesamzadeh (2014). Managing Intertemporal Price Risks (Chapter 13), in [*The Economics of Electricity Markets*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118775745), John Wiley & Sons, Print ISBN:9781118775752 |Online ISBN:9781118775745 |DOI:10.1002/9781118775745
   
   
