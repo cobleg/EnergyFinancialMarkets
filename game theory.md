@@ -11,4 +11,12 @@ A [[game]] is a framework for analysing the strategic interactions between agent
 Each player forms a plan, which can be either a pure [[strategy]],  a mixed  [[strategy]], or a behavioural [[strategy]]. 
 
 # Application to energy markets
-Energy markets involve a few types of players (e.g. consumers, suppliers, market makers, government etc). Interactions between players generate complex market dynamics. For example, a low-cost electricity supplier could decide to partially withdraw offers to supply electricity. During a period of high demand and restricted supply, this would likely cause a price spike. The electricity supplier would benefit from increased revenue while incurring les
+Energy markets involve a few types of players (e.g. consumers, suppliers, market makers, government etc). Interactions between players generate complex market dynamics. For example, a low-cost electricity supplier could decide to partially withdraw offers to supply electricity. During a period of high demand and restricted supply, this would likely cause a price spike. The electricity supplier would benefit from increased revenue while incurring less cost of supply.
+
+This situation creates a zero-sum game between the supplier and electricity buyers. The supplier benefits at the cost of the buyers. Since buyers know that this could happen, they could credibly threaten to seek retribution or financial compensation from the supplier via litigation. The costly litigation is a burden to both the supplier and the buyers. 
+
+Buyers are rewarded if the court determines that the supplier violated a market rule when it withheld supply. Otherwise, the buyers lose, incurring both the original higher cost of supply plus the cost of litigation. 
+
+A supplier seeking to manipulate prices would need to make a calculation about whether to withhold supply based on their assessment of eventually successfully defending the litigation.
+
+Hence, the decision to withhold supply is based on expected payoffs. 
