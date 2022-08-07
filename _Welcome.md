@@ -37,6 +37,7 @@ Assessing the implications of strategic interactions is helped by applying two d
 1. [[Systems thinking]] and [[systems dynamics]]
 2. [[game theory]]
 
+These conceptual paradigms provide frameworks within which to analyse and synthesise the interactions between energy market participants across multiple energy markets.
 
 
 
