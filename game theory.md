@@ -19,4 +19,4 @@ Buyers are rewarded if the court determines that the supplier violated a market 
 
 A supplier seeking to manipulate prices would need to make a calculation about whether to withhold supply based on their assessment of eventually successfully defending the litigation.
 
-Hence, the decision to withhold supply is based on expected payoffs. 
+Hence, the decision to withhold supply is based on expected payoffs after accounting for other players' likely responses. 
