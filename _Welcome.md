@@ -15,6 +15,10 @@ Wholesale energy prices are volatile and this poses substantial financial risk f
 The effectiveness of these instruments will be determined by a range of factors such as:
 - the sophistication of the financial risk managers and traders
 - market liquidity
+- market efficiency
+- credit rating and financial standing of the market participants
+- degree of market power exercised in risk markets
+
 
 # Real world events
 ## Coal generation issues in the National Electricity Market
