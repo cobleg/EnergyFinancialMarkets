@@ -3,7 +3,12 @@ A cap is a financial agreement in which one party agrees to pay the difference b
 
 The payment from the cap buyer to the cap seller is defined as:
 
-$$ Cap(P,X,S,P_c) = \left\{ \begin{array} (S-P)X+P_cX} \end{array}}$$
+$$ Cap(P,X,S,P_c) = \begin{cases} (S-P)X+P_cX & P \ge S \\
+(S-P)X
+\end{cases} $$
+
+$$ y = \begin{cases} 3 & (x = 1) \\ 4 & (x < 4) \end{cases}$$
+
 
 **Source**
 Darryl R. Biggar, Mohammad Reza Hesamzadeh (2014). Managing Intertemporal Price Risks (Chapter 13), in [*The Economics of Electricity Markets*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118775745), John Wiley & Sons, Print ISBN:9781118775752 |Online ISBN:9781118775745 |DOI:10.1002/9781118775745
