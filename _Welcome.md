@@ -7,8 +7,8 @@ In all that follows, remember that [[markets are interconnected]]. Therefore, in
 
 # Managing financial risks
 Wholesale energy prices are volatile and this poses substantial financial risk for market participants. There are various financial instruments available to help manage these risks:
-- [[swaps]]
-- [[caps]]
+- [[swap]]
+- [[cap]]
 - [[collars]]
 - [[floors]]
 

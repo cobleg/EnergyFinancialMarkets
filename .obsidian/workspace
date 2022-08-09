@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "swaps.md",
+            "file": "cap.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "swaps.md",
+                "file": "cap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
-    "_Welcome.md",
-    "swaps.md",
+    "swap.md",
+    "cap.md",
     "forward contract.md",
+    "_Welcome.md",
     "game theory.md",
     "market dynamics.md",
     "National Electricity Market.md",
     "markets are interconnected.md",
     "Australian domestic coal market.md",
-    "Australian domestic gas market.md",
-    "small-scale technology certificates.md"
+    "Australian domestic gas market.md"
   ]
 }
