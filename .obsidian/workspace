@@ -7,12 +7,8 @@
         "id": "25a911e644f65365",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "value-at-risk.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "value-at-risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +85,7 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
+    "value-at-risk.md",
     "financial risks.md",
     "cap.md",
     "swap.md",
@@ -98,7 +94,6 @@
     "game theory.md",
     "market dynamics.md",
     "National Electricity Market.md",
-    "markets are interconnected.md",
-    "Australian domestic coal market.md"
+    "markets are interconnected.md"
   ]
 }
