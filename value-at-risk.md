@@ -16,8 +16,16 @@ VaR is calculated via this procedure:
 Spot wholesale electricity prices in the Queensland region of the [[National Electricity Market]] has traded with an average of $83.70 per MWh and a standard deviation of $340 per MWh. Assume a Normal distribution for spot prices and a 1% cut-off probability level for VaR. 
 Q1. Calculate the cut-off price level.
 
+In Excel set up a table with the mean price, standard deviation, the cut-off probability and the cut-off price. The cut-off price is initially any plausible number. 
 
+Use the NormDist function in Excel to calculate the probability of encountering a spot price that is at or below a probability of the cut-off price. 
 
+Then use Solver to adjust the value of the cut-off price that matches the cut-off probability threshold. The derived cut-off price is -$707.26 per MWh. 
+
+The negative price might be surprising and requires checking. However, wholesale electricity prices have fallen below zero across NEM regions on multiple occasions during calendar year 2021. 
+![[VaR calculation in Excel 1.png]]
+
+![[Excel Solver screenshot 1.png]]
 # References
 Johnathan Mun (2006). [*Modelling risk: applying Monte Carlo simulation, real options analysis, forecasting, and optimization techniques*](https://books.google.com.au/books?id=hBHBBwZx7YkC&printsec=frontcover#v=onepage&q&f=false), John Wiley & Sons; ISBN-13 978-0-471-78900-0
 
