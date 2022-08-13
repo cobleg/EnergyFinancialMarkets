@@ -56,8 +56,9 @@ These conceptual paradigms provide frameworks within which to analyse and synthe
 
 # Sources of information
 There are several helpful websites that provide helpful information about the Australian electricity industry, including:
-- The Australian Energy Regulator, particularly the [Australian Energy Regulator “State of the Energy Market Report”: https://www.aer.gov.au/publications/state-of-the-energy-market-reports)
-
+- The Australian Energy Regulator, particularly the [Australian Energy Regulator “State of the Energy Market Report”](https://www.aer.gov.au/publications/state-of-the-energy-market-reports) 
+- The Australian Securities Exchange [Introductory videos on Australian Electricity](https://www2.asx.com.au/markets/trade-our-derivatives-market/overview/energy-derivatives)
+- The [Australian Electricity Market Operator](https://www.aemo.com.au/)
 
 # Further reading
 
