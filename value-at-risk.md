@@ -31,18 +31,18 @@ The negative price might be surprising and requires checking. However, wholesale
 ![[VaR normal distribution 1.png]]
 
 
-Q2. Assume that an electricity supplier has a contract to sell 100MW electricity at $60 per MWh for one month. What is the VaR?
+**Q2. Assume that an electricity supplier has a contract to sell 100 MW of electricity at $60 per MWh for one month. What is the VaR?**
 
 The value-at-risk is: Contract Price less the Cut-off Price, which in this example is $$ $60 - -$707.26/MWh = $60/MWh + $707.26/MWh = $767.26/MWh $$
-This suggests that in the worst-case scenario, the electricity supplier could realise a *gain* of $767.26 per MWh by keeping the $60 per MWh under contract and being paid to purchase electricity from the wholesale market. 
+This suggests that in the worst-case scenario, the electricity supplier could realise a *gain* of $767.26 per MWh by keeping the $60 per MWh under contract and being paid to take electricity from the wholesale market. 
 
-A more sensible consideration would be to calculate the cash flow at risk. Assume at that it costs $35 per MWh to supply electricity. The net cash flow assuming the spot price is at or above $60 per MWh is equal to 
+A more sensible consideration would be to calculate the cash flow at risk. Assume that it costs $35 per MWh to supply electricity. The net cash flow assuming the spot price is at or above $60 per MWh is equal to 
 
 $$ $60/MWh - $35/MWh = $25/MWh $$
 Now calculate the same cash flow at the worst case scenario. The electricity supplier would receive a cashflow equal to
 
 $$ -$707/MWh - $35/MWh = -$742.26/MWh $$
-That is, the electricity supplier is compelled to pay $742.26/MWh under the contract at the worst-case scenario. Assuming the electricity supplier is not a [[must-run generator]], it is better off by purchasing electricity from the wholesale market and receiving total cash flow of:
+That is, the electricity supplier is compelled to pay $742.26/MWh under the contract at the worst-case scenario. Assuming the electricity supplier is not a [[must-run generator]], it is better off by purchasing electricity to net off its obligation to supply from the wholesale market and receiving total cash flow of:
 
 $$ $707.26/MWh + $60/MWh = $767.26/MWh $$ 
 
