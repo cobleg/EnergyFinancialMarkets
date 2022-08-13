@@ -54,6 +54,11 @@ Assessing the implications of strategic interactions is helped by applying two d
 
 These conceptual paradigms provide frameworks within which to analyse and synthesise the interactions between energy market participants across multiple energy markets.
 
+# Sources of information
+There are several helpful websites that provide helpful information about the Australian electricity industry, including:
+- The Australian Energy Regulator, particularly the [Australian Energy Regulator “State of the Energy Market Report”: https://www.aer.gov.au/publications/state-of-the-energy-market-reports)
+
+
 # Further reading
 
 Darryl R. Biggar, Mohammad Reza Hesamzadeh (2014). Managing Intertemporal Price Risks (Chapter 13), in [*The Economics of Electricity Markets*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118775745), John Wiley & Sons, Print ISBN:9781118775752 |Online ISBN:9781118775745 |DOI:10.1002/9781118775745
