@@ -29,8 +29,8 @@ The negative price might be surprising and requires checking. However, wholesale
 
 Q2. Assume that an electricity supplier has a contract to sell electricity at $60 per MWh. What is the VaR?
 
-The value-at-risk is: Contract Price less the Cut-off Price, which in this example is $$ $60-$707.26 = -$647.26 $$
-
+The value-at-risk is: Contract Price less the Cut-off Price, which in this example is $$ $60 - -$707.26 = $60 + $707.26 = $767.26 $$
+This suggests that in the worst-case scenario, the electricity supplier could realise a loss of $767.26 per MWh to supply electricity. 
 
 # References
 Johnathan Mun (2006). [*Modelling risk: applying Monte Carlo simulation, real options analysis, forecasting, and optimization techniques*](https://books.google.com.au/books?id=hBHBBwZx7YkC&printsec=frontcover#v=onepage&q&f=false), John Wiley & Sons; ISBN-13 978-0-471-78900-0
