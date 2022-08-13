@@ -29,10 +29,16 @@ The negative price might be surprising and requires checking. However, wholesale
 
 Q2. Assume that an electricity supplier has a contract to sell electricity at $60 per MWh. What is the VaR?
 
-The value-at-risk is: Contract Price less the Cut-off Price, which in this example is $$ $60 - -$707.26 = $60 + $707.26 = $767.26 $$
-This suggests that in the worst-case scenario, the electricity supplier could realise a loss of $767.26 per MWh to supply electricity. 
+The value-at-risk is: Contract Price less the Cut-off Price, which in this example is $$ $60 - -$707.26/MWh = $60/MWh + $707.26/MWh = $767.26/MWh $$
+This suggests that in the worst-case scenario, the electricity supplier could realise a *gain* of $767.26 per MWh by keeping the $60 per MWh under contract and being paid to purchase electricity from the wholesale market. 
+
+A more sensible consideration would be to calculate the cash flow at risk. Assume at that it costs $35 per MWh to supply electricity. The net cash flow assuming the spot price is at or above $60 per MWh is equal to 
+
+$$ $60/MWh - $35/MWh = $25/MWh $$
 
 # References
+Colleen Cassidy, Marianne Gizycki (1997). [Measuring Traded Market Risk: Value-At-Risk and Backtesting Techniques](https://www.rba.gov.au/publications/rdp/1997/pdf/rdp9708.pdf), Research Discussion Paper 9708, Reserve Bank of Australia
+
 Johnathan Mun (2006). [*Modelling risk: applying Monte Carlo simulation, real options analysis, forecasting, and optimization techniques*](https://books.google.com.au/books?id=hBHBBwZx7YkC&printsec=frontcover#v=onepage&q&f=false), John Wiley & Sons; ISBN-13 978-0-471-78900-0
 
 Simon Benninga (2014). [*Financial modeling*](https://www.academia.edu/37352998/Simon_Benninga_Financial_Modeling_4th_edition) —Fourth edition, MIT Press; ISBN 978-0-262-02728-1
