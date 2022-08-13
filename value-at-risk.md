@@ -27,7 +27,10 @@ The negative price might be surprising and requires checking. However, wholesale
 
 ![[Excel Solver screenshot 1.png]]
 
-Q2. Assume that an electricity supplier has a contract to sell electricity at $60 per MWh. What is the VaR?
+![[VaR normal distribution 1.png]]
+
+
+Q2. Assume that an electricity supplier has a contract to sell 100MW electricity at $60 per MWh for one month. What is the VaR?
 
 The value-at-risk is: Contract Price less the Cut-off Price, which in this example is $$ $60 - -$707.26/MWh = $60/MWh + $707.26/MWh = $767.26/MWh $$
 This suggests that in the worst-case scenario, the electricity supplier could realise a *gain* of $767.26 per MWh by keeping the $60 per MWh under contract and being paid to purchase electricity from the wholesale market. 
