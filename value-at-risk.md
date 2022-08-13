@@ -13,8 +13,9 @@ VaR is calculated via this procedure:
 3. Determine the downside cut-off probability as a quantile (e.g. 1 %). The question is, what is the value of the asset at the cut-off period. The VaR is the difference between the current value and the value at the 1% cutoff.
 
 # Worked example
-Spot wholesale electricity prices in the Queensland region of the [[National Electricity Market]]  traded around an average of $83.70 per MWh and a standard deviation of $340 per MWh over calendar year 2021. Assume a Normal distribution for spot prices and a 1% cut-off probability level for VaR. 
-Q1. Calculate the cut-off price level.
+Hourly wholesale spot electricity prices in the Queensland region of the [[National Electricity Market]]  traded around an average of $83.70 per MWh and a standard deviation of $340 per MWh over calendar year 2021. Assume a Normal distribution for spot prices and a 1% cut-off probability level for VaR. 
+
+**Q1. Calculate the cut-off price level.**
 
 In Excel set up a table with the mean price, standard deviation, the cut-off probability and the cut-off price. Set the cut-off price at any plausible number. 
 
