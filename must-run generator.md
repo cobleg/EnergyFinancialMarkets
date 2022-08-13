@@ -5,3 +5,5 @@ There can be a variety of issues requiring `must-run generation` such as:
 - system inertia requirements
 - hydro-power which must release water required for irrigation or environmental purposes.
 
+# References
+[Regulatory Must-Run Generation](https://www.glossaria.net/en/energy-engineering/regulatory-must-run-generation) 
