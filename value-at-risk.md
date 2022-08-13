@@ -35,6 +35,12 @@ This suggests that in the worst-case scenario, the electricity supplier could re
 A more sensible consideration would be to calculate the cash flow at risk. Assume at that it costs $35 per MWh to supply electricity. The net cash flow assuming the spot price is at or above $60 per MWh is equal to 
 
 $$ $60/MWh - $35/MWh = $25/MWh $$
+Now calculate the same cash flow at the worst case scenario. The electricity supplier would receive a cashflow equal to
+
+$$ -$707/MWh - $35/MWh = -$742.26/MWh $$
+That is, the electricity supplier is compelled to pay $742.26/MWh under the contract at the worst-case scenario. Assuming the electricity supplier is not a [[must-run generator]], it is better off by purchasing electricity from the wholesale market and receiving total cash flow of:
+
+$$ $707.26/MWh + $60/MWh = $767.26/MWh $$ 
 
 # References
 Colleen Cassidy, Marianne Gizycki (1997). [Measuring Traded Market Risk: Value-At-Risk and Backtesting Techniques](https://www.rba.gov.au/publications/rdp/1997/pdf/rdp9708.pdf), Research Discussion Paper 9708, Reserve Bank of Australia
