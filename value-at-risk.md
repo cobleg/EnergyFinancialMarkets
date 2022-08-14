@@ -20,8 +20,12 @@ In estimation, we make simplifying assumptions:
 
 With these stringent (i.e. unlikely to be realistic) we can develop an `order-of-magnitude` estimate. 
 
-Let's set a confidence interval of 95% since that implies a cut-off distance of 2 standard deviations less than the mean. 
+Let's set a confidence interval of 95% since that implies a cut-off distance of 2 standard deviations less than the mean. This in turn implies a multiple of 1.645 of the actual distance between the standard deviation and the mean.
 
+In calendar year 2021, hourly wholesale spot electricity prices in South Australia averaged $54 per MWh with a standard deviation of $216 per MWh. This implies the cut-off value is:
+
+$$ (54 - 216) \times 1.645  = -$266.49 $$
+Assuming a holding period of 1 business day out of 252 business days in a year. Then the cut-off value
 
 ## Worked example - calculating using a PDF
 Hourly wholesale spot electricity prices in the Queensland region of the [[National Electricity Market]]  traded around an average of $83.70 per MWh and a standard deviation of $340 per MWh over calendar year 2021. Assume a Normal distribution for spot prices and a 1% cut-off probability level for VaR. 
