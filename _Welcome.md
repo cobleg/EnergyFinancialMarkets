@@ -63,5 +63,7 @@ There are several helpful websites that provide helpful information about the Au
 # Further reading
 
 Darryl R. Biggar, Mohammad Reza Hesamzadeh (2014). Managing Intertemporal Price Risks (Chapter 13), in [*The Economics of Electricity Markets*](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118775745), John Wiley & Sons, Print ISBN:9781118775752 |Online ISBN:9781118775745 |DOI:10.1002/9781118775745
+
+Paul McArdle (August 3, 2018), [Beginner’s Guide to how dispatch works in the NEM, and hence how prices are set](https://wattclarity.com.au/articles/2018/08/beginners-guide-to-how-dispatch-works-in-the-nem-and-hence-how-prices-are-set/)
   
   
