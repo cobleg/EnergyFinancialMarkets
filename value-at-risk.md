@@ -20,14 +20,16 @@ In estimation, we make simplifying assumptions:
 
 With these stringent (i.e. unlikely to be realistic) we can develop an `order-of-magnitude` estimate. 
 
-Let's set a confidence interval of 95% since that implies a cut-off distance of 2 standard deviations less than the mean. This in turn implies a multiple of 1.645 of the actual distance between the standard deviation and the mean.
+Let's set a confidence interval of 95% since that implies a cut-off distance of 2 standard deviations less than the mean. This in turn implies a multiple of 1.645 of the actual distance between the standard deviation and the mean (assuming a [one-tailed test](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/)).
 
 In calendar year 2021, hourly wholesale spot electricity prices in South Australia averaged $54 per MWh with a standard deviation of $216 per MWh. This implies the cut-off value is:
 
 $$ (54 - 216) \times 1.645  = -$266.49 $$
-Assuming a holding period of 1 business day out of 252 business days in a year. Then the cut-off value for 1 day is
+This is the VaR result assuming a holding period of just one hour. For 1 business day we need to adjust the value. There are 24 hours in the day, so the adjustment factor is:
 
-$$ \sqrt{\frac{1}{252}} $$
+$$ -266.49 \times \sqrt{24} = -266.49 \times 4.898979 = -$1,305.53 $$
+However, there is a [[spot price floor]] imposed in the [[National Electricity Market]] wholesale market of $ $-1,000$ so this is the worst possible case, not the answer we calculated.
+
 
 ## Worked example - calculating using a PDF
 Hourly wholesale spot electricity prices in the Queensland region of the [[National Electricity Market]]  traded around an average of $83.70 per MWh and a standard deviation of $340 per MWh over calendar year 2021. Assume a Normal distribution for spot prices and a 1% cut-off probability level for VaR. 
