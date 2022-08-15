@@ -28,7 +28,7 @@ $$ (54 - 216) \times 1.645  = -$266.49 $$
 This is the VaR result assuming a holding period of just one hour. For 1 business day we need to adjust the value. There are 24 hours in the day, so the adjustment factor is:
 
 $$ -266.49 \times \sqrt{24} = -266.49 \times 4.898979 = -$1,305.53 $$
-However, there is a [[spot price floor]] imposed in the [[National Electricity Market]] wholesale market of $ $-1,000$ so this is the worst possible case, not the answer we calculated.
+However, there is a [[spot price floor]] imposed in the [[National Electricity Market]] [wholesale market price floor of -$1,000](https://aemo.com.au/-/media/Files/Electricity/NEM/National-Electricity-Market-Fact-Sheet.pdf) so this is the worst possible case, not the answer we calculated.
 
 
 ## Worked example - calculating using a PDF
