@@ -3,9 +3,10 @@ Value-at-Risk (VaR) measures the capital reserves at risk given a defined holdin
 
 This metric was developed by J.P. Morgan in the 1990s as part of its [RiskMetrics](https://en.wikipedia.org/wiki/RiskMetrics) methodology.
 
-VaR is focused on quantifying the risk of financial loss at the end of a holding period (e.g. 1 month). 
+VaR is focused on quantifying the risk of financial loss at the end of a holding period (e.g. 1 month) the results from trading in financial instruments. 
 
 Advantages of VaR include simple to calculate and understand. Some disadvantages are that it is subject to change (which can be unpredictable) and requires a judgement of what *normal market* conditions look like in terms of a proabability distribution. Also, it implies an assumption of a stable probability distribution over the holding period (i.e. a constant mean and standard deviation). 
+
 # Calculating VaR
 VaR is calculated via this procedure:
 1. Define the holding period, e.g. 1 month or 1 year
