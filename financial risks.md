@@ -12,6 +12,6 @@ There are a variety of analytical methods for asessing financial risk:
 Other methods include [[sensitivity analysis]]. 
 
 # Derivatives and hedging
-There are both over-the-counter and exchange traded derivatives available to hedge exposure to the wholesale electricity market.
+There are both over-the-counter and exchange traded derivatives available to [[hedge]] exposure to the wholesale electricity market.
 
 For exchange traded derivatives, the Australian Securities Exchange (ASX) provides helpful information, such as this web page: [Australian Electricity Derivatives](https://www.asxenergy.com.au/products/electricity_futures). 
