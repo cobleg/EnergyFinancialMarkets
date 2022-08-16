@@ -4,3 +4,5 @@
 > Hedging is the practice of taking a position in one market to offset and balance against the risk adopted by assuming a position in a contrary or opposing market or investment. The word hedge is from Old English _hecg_, originally any fence, living or artificial. The first known use of the word as a verb meaning 'dodge, evade' dates from the 1590s; that of 'insure oneself against loss,' as in a bet, is from the 1670s.
 > [Wikipedia](https://en.wikipedia.org/wiki/Hedge_(finance))
 
+Wholesale electricity trading implies exposure to highly volatile spot prices. Spot prices can vary between -$1,000 to $15,100 per MWh. 
+
