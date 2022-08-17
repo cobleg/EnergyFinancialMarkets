@@ -3,9 +3,9 @@
 > 
 > [Ceren Oral, G. CenkAkkaya, Cash Flow at Risk: A Tool for Financial Planning, Procedia Economics and Finance, Volume 23, 2015, Pages 262-266, ISSN 2212-5671, https://doi.org/10.1016/S2212-5671(15)00358-5.](https://www.sciencedirect.com/science/article/pii/S2212567115003585)
 
-CFaR and be contrasted to [[value-at-risk]] (VaR) - the underlying objective is the same, but CFaR goes beyond VaR to examine the overall risk of a firm's total cashflow. By contrast, VaR is focused on financial risks emanating from traded financial instruments, which is a subset of a firm's total cashflow.
+CFaR can be contrasted to [[value-at-risk]] (VaR) - the underlying objective is the same, but CFaR goes beyond VaR to examine the overall risk of a firm's total cashflow. By contrast, VaR is focused on financial risks emanating from traded financial instruments, which is a subset of a firm's total cashflow.
 
-CFaR is useful for firms that have incurred debt as part of their financial structure. CFaR helps balance the benefits of debt against the risk of it imposing a shortfall of cash. The risk of cash shortfall arises because debt payments are fixed whereas revenue can be variable. 
+CFaR is useful for firms that have incurred debt as part of their financial structure, helping to balance the benefits of debt against the risk of it imposing a shortfall of cash. The risk of cash shortfall arises because debt payments are typically fixed whereas revenue can be variable. 
 
 
 

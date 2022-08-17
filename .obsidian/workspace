@@ -7,8 +7,12 @@
         "id": "25a911e644f65365",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "cap.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +90,15 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
+    "cashflow-at-risk.md",
+    "gross-margin-at-risk.md",
+    "gross margin.md",
+    "gross profit.md",
     "hedge.md",
     "value-at-risk.md",
     "financial risks.md",
-    "gross-margin-at-risk.md",
-    "cashflow-at risk.md",
     "swap.md",
     "forward contract.md",
-    "spot price floor.md",
-    "_Welcome.md",
-    "must-run generator.md"
+    "spot price floor.md"
   ]
 }

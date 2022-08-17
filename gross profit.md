@@ -1,0 +1,2 @@
+# Definition
+Gross profit is determined by deducting the direct costs associated with selling goods or services from revenue received. For example, in supplying electricity to the wholesale gross pool, an electricity supplier incurs the cost of fuel, which varies in proportion to the duration of generator run-time. So gross profit would be the revenue received for generating electricity less the cost of the fuel used to supply that electricity.

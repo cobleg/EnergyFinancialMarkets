@@ -9,7 +9,7 @@ Advantages of VaR include simple to calculate and understand. Some disadvantages
 
 Another key disadvantage is that it applies only to market-based risks and is used as a mark-to-market measure. There may be situations in which risk emanates from a source that does not have an active market that can be referenced to assess valuation risk.
 
-However, the benefit of VaR can be carried over to non-market applications such as [[cashflow-at risk]] and [[gross-margin-at-risk]] metrics.
+However, the benefit of VaR can be carried over to non-market applications such as [[cashflow-at-risk]] and [[gross-margin-at-risk]] metrics.
 
 # Calculating VaR
 VaR is calculated via this procedure:

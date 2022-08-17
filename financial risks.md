@@ -7,7 +7,7 @@ These will likely be contingency based, with a key distinction made between a no
 There are a variety of analytical methods for asessing financial risk:
 - [[value-at-risk]] (VaR)
 - [[gross-margin-at-risk]] (GMaR)
-- [[cashflow-at risk]] (CFaR)
+- [[cashflow-at-risk]] (CFaR)
 
 Other methods include [[sensitivity analysis]]. 
 
