@@ -1,13 +1,13 @@
 # Overview
-Value-at-Risk (VaR) measures the capital reserves at risk given a defined holding period and at a specified probability of loss. In other words, VaR is the worst expected loss under *normal market conditions* over a specified time interval at a given level of confidence.
+Value-at-Risk (VaR) measures the capital reserves at risk given a defined `holding period` and at a specified probability of loss. In other words, VaR is the worst expected loss under *normal market conditions* over a specified time interval at a given level of confidence.
 
-This metric was developed by J.P. Morgan in the 1990s as part of its [RiskMetrics](https://en.wikipedia.org/wiki/RiskMetrics) methodology.
+This metric was developed by [J.P. Morgan](https://www.jpmorgan.com/AU/en/about-us) in the 1990s as part of its [RiskMetrics](https://en.wikipedia.org/wiki/RiskMetrics) methodology.
 
 VaR is focused on quantifying the risk of financial loss at the end of a holding period (e.g. 1 month) that is associated with trading in financial instruments. 
 
 Advantages of VaR include simple to calculate and understand. Some disadvantages are that it is subject to change (which can be unpredictable) and requires a judgement of what *normal market* conditions look like in terms of a proabability distribution. Also, it implies an assumption of a stable probability distribution over the holding period (i.e. a constant mean and standard deviation). 
 
-Another key disadvantage is that it applies only to market-based risks and is used as a mark-to-market measure. There may be situations in which risk emanates from a source that does not have an active market that can be referenced to assess valuation risk.
+Another key disadvantage is that it applies only to market-based risks and is used as a [mark-to-market](https://www.investopedia.com/terms/m/marktomarket.asp) measure. There may be situations in which risk emanates from a source that does not have an actively traded market.
 
 However, the benefit of VaR can be carried over to non-market applications such as [[cashflow-at-risk]] and [[gross-margin-at-risk]] metrics.
 
@@ -23,7 +23,7 @@ In estimation, we make simplifying assumptions:
 1. The variation is random which is captured by the Normal distribution.
 2. Evolution of variation is purely random.
 
-With these stringent (i.e. unlikely to be realistic) we can develop an `order-of-magnitude` estimate. 
+With these stringent (i.e. unlikely to be realistic) assumptions we can develop an `order-of-magnitude` estimate. 
 
 Let's set a confidence interval of 95% since that implies a cut-off distance of 2 standard deviations less than the mean. This in turn implies a multiple of 1.645 of the actual distance between the standard deviation and the mean (assuming a [one-tailed test](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/)).
 

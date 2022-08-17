@@ -1,5 +1,5 @@
 # Overview
-A cap is a financial agreement in which one party agrees to pay the difference between the spot price at a pre-determined market interval and a given strike price multiplied by a predetermined quantity. Another name for a cap is a *[call option](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/call-option/)*.
+A `cap` is a financial agreement in which one party agrees to pay the difference between the spot price at a pre-determined market interval and a given strike price multiplied by a predetermined quantity. Another name for a cap is a *[call option](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/call-option/)*.
 
 The payment from the cap seller to the cap buyer is defined as:
 
@@ -17,6 +17,8 @@ In words, this equation says that the cap buyer will receive a payment from the 
 The term `cap` refers to the buyer's perspective since by buying this contract, the buyer is capping the uncertain spot price. This is achieved by passing on the liability of paying the difference between a high spot price and the strike price to a third party (i.e. the cap seller).
 
 The cap seller gains when the high price event fails to be realised. A smart cap seller will ensure that the probability of a high price event (i.e. higher than the strike price) occuring is low.
+
+A `cap` is a type of [[hedge]] instrument equivalent to one part of a [[swap]]. 
 
 # Worked example
 
