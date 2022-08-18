@@ -20,7 +20,7 @@ VaR is calculated via this procedure:
 # Worked examples
 ## Worked example - estimating
 In estimation, we make simplifying assumptions:
-1. The variation is random which is captured by the Normal distribution.
+1. The variation is random which is captured by the [Normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp).
 2. Evolution of variation is purely random.
 
 With these stringent (i.e. unlikely to be realistic) assumptions we can develop an `order-of-magnitude` estimate. 
