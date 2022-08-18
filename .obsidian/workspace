@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "coordination failure.md",
+            "file": "game theory.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coordination failure.md",
+                "file": "game theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "25a911e644f65365",
   "lastOpenFiles": [
+    "coordination failure.md",
     "game theory.md",
     "strategy.md",
     "game.md",
@@ -98,7 +99,6 @@
     "cap.md",
     "cashflow-at-risk.md",
     "gross-margin-at-risk.md",
-    "gross margin.md",
-    "gross profit.md"
+    "gross margin.md"
   ]
 }
