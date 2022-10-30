@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variable Renewable Energy.md",
+                "file": "VRE.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firming capacity.md",
+                "file": "Firm capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable Renewable Energy.md",
+                "file": "Firm capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25a911e644f65365",
+  "active": "775344be2671c230",
   "lastOpenFiles": [
-    "Variable Renewable Energy.md",
-    "Firming capacity.md",
+    "VRE.md",
+    "Firm capacity.md",
+    "Variable.md",
     "Systems thinking.md",
     "Exercises.md",
     "financial risks.md",
     "cap.md",
     "game theory.md",
     "coordination failure.md",
-    "strategy.md",
-    "game.md"
+    "strategy.md"
   ]
 }
