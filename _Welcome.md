@@ -33,7 +33,7 @@ On 7 June 2022, the AEMO released a speech by Daniel Westerman, in which these p
   
   
 # Capacity investment issues
-Changing electricity generation technology is raising issues in relation to the performance of Australian electricity grids. In particular, the rapid deployment of [[VRE ]](VRE) systems (e.g. solar power and wind power systems). 
+Changing electricity generation technology is raising issues in relation to the performance of Australian electricity grids. In particular, the rapid deployment of [[VRE ]](variable renewable energy) systems (e.g. solar power and wind power systems). 
 
 Core issues are:
 1. The change from on-demand technology such as fuel-based electricity generators (e.g. coal-fueled steam boiler and turbines, gas-fuelled turbines) to when-available energy (e.g. solar and wind). Electricity system operators may use the terms `dispatchable` and `non-dispatchable` to make the same distinction.

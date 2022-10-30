@@ -7,7 +7,7 @@ The term `firm capacity` refers to the ability to deliver the contracted level o
 Note that an augmentation to a VRE system that improves its reliability is referred to as `firming capacity`. 
 
 # Examples
-The primary example of firming capacity is the addition of a battery or some other form of energy storage. However, the term can also be applied to non-renewable energy systems such as open-cycle gas turbines.
+The primary example of `firming capacity` is the addition of a battery or some other form of energy storage. However, the term can also be applied to non-renewable energy systems such as open-cycle gas turbines.
 
 
 
