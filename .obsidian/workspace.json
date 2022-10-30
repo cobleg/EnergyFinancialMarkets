@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "925c7bfba53eddbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +108,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "25a911e644f65365",
+  "active": "925c7bfba53eddbc",
   "lastOpenFiles": [
+    "financial risks.md",
+    "cap.md",
     "game theory.md",
     "coordination failure.md",
     "strategy.md",
     "game.md",
     "value-at-risk.md",
     "_Welcome.md",
-    "cap.md",
     "cashflow-at-risk.md",
-    "gross-margin-at-risk.md",
-    "gross margin.md"
+    "gross-margin-at-risk.md"
   ]
 }

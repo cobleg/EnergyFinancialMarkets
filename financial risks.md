@@ -5,13 +5,13 @@ These will likely be contingency based, with a key distinction made between a no
 
 # Risk analytic methods
 There are a variety of analytical methods for asessing financial risk:
-- [[value-at-risk]] (VaR)
-- [[gross-margin-at-risk]] (GMaR)
-- [[cashflow-at-risk]] (CFaR)
+- [[value-at-risk]] [VaR](value-at-risk.md) 
+- [[gross-margin-at-risk]] [GMaR](gross-margin-at-risk.md)
+- [[cashflow-at-risk]] [CFaR](cashflow-at-risk)
 
-Other methods include [[sensitivity analysis]]. 
+Other methods include [[sensitivity analysis]] [SA](sensitivity analysis.md). 
 
 # Derivatives and hedging
-There are both over-the-counter and exchange traded derivatives available to [[hedge]] exposure to the wholesale electricity market.
+There are both over-the-counter and exchange traded derivatives available to [[hedge]][](hedge.md) exposure to the wholesale electricity market.
 
 For exchange traded derivatives, the Australian Securities Exchange (ASX) provides helpful information, such as this web page: [Australian Electricity Derivatives](https://www.asxenergy.com.au/products/electricity_futures). 
