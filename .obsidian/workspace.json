@@ -11,8 +11,12 @@
             "id": "25a911e644f65365",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Variable Renewable Energy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firming capacity.md",
+                "file": "Variable Renewable Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "775344be2671c230",
+  "active": "25a911e644f65365",
   "lastOpenFiles": [
+    "Variable Renewable Energy.md",
+    "Firming capacity.md",
+    "Systems thinking.md",
     "Exercises.md",
     "financial risks.md",
     "cap.md",
     "game theory.md",
     "coordination failure.md",
     "strategy.md",
-    "game.md",
-    "value-at-risk.md",
-    "_Welcome.md",
-    "cashflow-at-risk.md"
+    "game.md"
   ]
 }
