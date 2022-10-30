@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "775344be2671c230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Firming capacity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "925c7bfba53eddbc",
             "type": "leaf",
             "state": {
@@ -26,19 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fdad1c094f7355c1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises.md",
+                "file": "Firming capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdad1c094f7355c1",
+  "active": "775344be2671c230",
   "lastOpenFiles": [
+    "Exercises.md",
     "financial risks.md",
     "cap.md",
     "game theory.md",
@@ -125,7 +128,6 @@
     "game.md",
     "value-at-risk.md",
     "_Welcome.md",
-    "cashflow-at-risk.md",
-    "gross-margin-at-risk.md"
+    "cashflow-at-risk.md"
   ]
 }
