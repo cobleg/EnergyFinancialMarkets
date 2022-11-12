@@ -33,8 +33,11 @@ One of the contributors to the increase in wholesale electricity prices during t
 	**Answer**: By 2016-17 the domestic gas price hight $10 per GJ. By 2021-22, the gas price  exceeded $20 per GJ [@GasMarketPrices2020] 
     
 3.  Why were international prices higher than domestic prices, and to what extent?
-    **Answer**: International natural gas prices are tradititionally linked to the internation oil price, but more recently, competition for LNG has increased as various nations, particularly in Europe express a preference for natural gas over petroleum and other oil-based products. The Russia-Ukraine
+    **Answer**: International natural gas prices are tradititionally linked to the internation oil price, but more recently, competition for LNG has increased as various nations, particularly in Europe express a preference for natural gas over petroleum and other oil-based products. The Russia-Ukraine conflict, circa 2021-2022 has also contributed to higher LNG prices. [@WhyAreGlobal2022]
     
 4.  In what ways can gas prices impact electricity prices?
+    **Answer**: natural gas is used as a primary energy source in electricity generation, so a change in natural gas prices will likely be passed on to the wholesale gross pool market in the form of higher offers. Also, since CO2-e gas are emitted, higher gas prices may induce less generation from gas-fuelled generators, leading to a reduction in demand for LGCs and other carbon abatement certificates.
     
 5.  What do you think are the risks to future gas prices (both in terms of potential drivers of higher and lower gas prices)? 
+	**Answer**: with natural gas prices so high, it is likely that energy consumers will seek alternative sources of energy, either via renewable energy such as solar power and wind power or by implementing energy efficiency programs to reduce energy demand. 
+	Higher natural gas prices would ordinarily stimulate investment in bringing on new gas supplies. However, given consumers preference for renewable energy, investors might be reluctant to add new gas supply, which causes a continued upward trend.
