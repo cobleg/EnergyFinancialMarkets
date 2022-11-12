@@ -30,9 +30,10 @@ One of the contributors to the increase in wholesale electricity prices during t
     **Answer**: Exposed the domestic gas market to international competition
     
 2.  To what price did the domestic gas price rise and converge to?
-	**Answer**: 
+	**Answer**: By 2016-17 the domestic gas price hight $10 per GJ. By 2021-22, the gas price  exceeded $20 per GJ [@GasMarketPrices2020] 
     
 3.  Why were international prices higher than domestic prices, and to what extent?
+    **Answer**: International natural gas prices are tradititionally linked to the internation oil price, but more recently, competition for LNG has increased as various nations, particularly in Europe express a preference for natural gas over petroleum and other oil-based products. The Russia-Ukraine
     
 4.  In what ways can gas prices impact electricity prices?
     
