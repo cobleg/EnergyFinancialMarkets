@@ -7,9 +7,15 @@ You have just started a role as Environmental Advisor for BHP, who has [pledged
 
 [@BHPClimateChange] 
 
+
+
 ## Key points
 Available environmental markets:
 - [Large-scale generation certificate scheme](large-scale-generation-certificates.md) 
 - [ACCU market](Australian-carbon-credit-units.md)
 
 A few key risks
+- Cessation of the scheme such as the Emissions Trading Scheme, the NSW Greenhouse Gas Abatement Scheme etc
+- Reputational issues such as scandals related to scheme rorts
+- Price risk since ACCUs and LGCs are subjected to market forces, which implies price volatility induced by imbalances between the demand and supply of certificates.
+	- International competition for certificates, pushing up the price
