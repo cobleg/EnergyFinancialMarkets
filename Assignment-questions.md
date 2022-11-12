@@ -17,6 +17,8 @@ The retirement of coal-fired power stations will likely change electricity spot 
 	- Coal fuelled generation facilities are not designed for intermittent use, resulting (or risking) increased fuel consumed for given electrical power output. 
 	- Aging facility typically incur higher maintenance costs
 	- Increasing CO2-e would incur high LGC certificate obligations and LGC prices have been trending higher.
+	- Relatively high prices for coal internationally could squeeze domestic coal consumers on the buy side.
+	- Remaining coal fuelled generators could benefit from reduced competition from retiring coal fuelled generators. However, this would be impacted by the other factors listed above.
 	 **References**
 [@edistristanFastErosionCoal2021]
 Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
@@ -26,7 +28,8 @@ Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits i
 Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a simple hedge portfolio of 1,000 MW in flat swaps with an average strike price of $60/MWh for the next 12 months (8,760hrs). Spark Energy’s risk manager wishes to calculate the VaR associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
 
 1.  Using market research to establish realistic volatility parameters, determine a simple VaR for the existing hedge portfolio **(4 marks)**  
-    
+	**Key points**
+	Face value of contracts (FV) = 1,500 MW x $60/MWh (Price) X 8760 hours
 
 2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
     
