@@ -3,7 +3,7 @@ The Australian Government is facilitating the expansion of the renewable energy 
 
 The funds are the:
 - Emissions Reduction Fund, which supplies [[Australian-carbon-credit-units]], #ACCU; and
-- Renewable Energy Target, which creates tradable [[large-scale generation certificates]], #LGC, and [[small-scale technology certificates]], #STC.
+- Renewable Energy Target, which creates tradable [[large-scale-generation-certificates]], #LGC, and [[small-scale technology certificates]], #STC.
 
 
 
