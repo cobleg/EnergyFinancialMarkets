@@ -10,8 +10,9 @@ The retirement of coal-fired power stations will likely change electricity spot 
 
 2.  What are the main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plant. **(2 marks)**  
     #### References
-    
-
+    [@edistristanFastErosionCoal2021]
+	Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
+	
 #### 1.2 Market risk in the NEM (9 marks total)  
 
 Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a simple hedge portfolio of 1,000 MW in flat swaps with an average strike price of $60/MWh for the next 12 months (8,760hrs). Spark Energy’s risk manager wishes to calculate the VaR associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
