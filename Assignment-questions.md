@@ -8,12 +8,18 @@ The retirement of coal-fired power stations will likely change electricity spot 
     [@OpenNEMFacilitiesNEM]
     “OpenNEM Facilities: NEM.” n.d. Accessed November 12, 2022. [https://opennem.org.au](https://opennem.org.au).
 
-2.  What are the main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plant. **(2 marks)** 
- ### Key points 
-4. 
-    #### References
-    [@edistristanFastErosionCoal2021]
-	Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
+2.  What are the main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plant. **(2 marks)**
+
+	 **Key points**
+	- New facility investment in renewable electricity generation is growing faster than retirement of old facilities
+	- Demand growth is slowing, in part due to distributed energy resources at load sites reducing grid-sourced electricity demand
+	- Resulting in increased competition when solar and wind energy is abundant.
+	- Coal fuelled generation facilities are not designed for intermittent use, resulting (or risking) increased fuel consumed for given electrical power output. 
+	- Aging facility typically incur higher maintenance costs
+	- Increasing CO2-e would incur high LGC certificate obligations and LGC prices have been trending higher.
+	 **References**
+[@edistristanFastErosionCoal2021]
+Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
 	
 #### 1.2 Market risk in the NEM (9 marks total)  
 
