@@ -43,8 +43,12 @@
             "id": "604759615caa09a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Australian carbon credit units.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Australian carbon credit units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba31154013c566e7",
+  "active": "604759615caa09a3",
   "lastOpenFiles": [
     "templates/citation template.md",
     "Exercises.md",
