@@ -12,4 +12,4 @@ Professor Andrew Macintosh, an environmental law and policy expert, has cited th
 - Serious integrity issues with either the design or administration of the scheme. For example, the human-induced forest regeneration projects have not delivered a material increase in forest area.
 
 [@mortonAustraliaCarbonCredit2022] 
-
+Morton, Alastair. 2022. “Australia’s Carbon Credit Scheme ‘Largely a Sham,’ Says Whistleblower Who Tried to Rein It In’.” _The Guardian_, March 23, 2022. [https://www.theguardian.com/environment/2022/mar/23/australias-carbon-credit-scheme-largely-a-sham-says-whistleblower-who-tried-to-rein-it-in](https://www.theguardian.com/environment/2022/mar/23/australias-carbon-credit-scheme-largely-a-sham-says-whistleblower-who-tried-to-rein-it-in).

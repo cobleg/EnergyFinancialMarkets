@@ -1,5 +1,5 @@
 # Overview
-Game theory provides a framework in which to analyse, understand and predict the outcomes of agents interacting with each other. For example, economics includes many examples of applied game theory to analyse situations such as [[coordination failure]]. 
+Game theory provides a framework in which to analyse, understand and predict the outcomes of agents interacting with each other. For example, economics includes many examples of applied game theory to analyse situations such as [[coordination-failure]]. 
 
 A [[game]] is a framework for analysing the strategic interactions between agents (AKA players).  A game consists of:
 - `Players`: a collection of decision-makers otherwise known as agents

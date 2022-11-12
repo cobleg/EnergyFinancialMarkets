@@ -3,7 +3,7 @@ Welcome to my notebook for Energy Financial Markets. In this notebook, you will 
 
 Since the course is about managing financial risks for energy market participants in the National Electricity Market ( #NEM) that will be our focus in this notebook. 
 
-In all that follows, remember that [[markets are interconnected]]. Therefore, in order to understand what the [[financial risks]] are, we need to understand what are the potential risks and what causes those risks to be realised. In developing this understanding, we will also consider [[market dynamics]]. 
+In all that follows, remember that [[markets-are-interconnected]]. Therefore, in order to understand what the [[financial-risks]] are, we need to understand what are the potential risks and what causes those risks to be realised. In developing this understanding, we will also consider [[market-dynamics]]. 
 
 # Managing financial risks
 Wholesale energy prices are volatile and this poses substantial financial risk for market participants. There are various financial instruments available to help manage these risks:
@@ -46,11 +46,11 @@ These core issues are forcing a trade-off between  affordability and reliability
 Energy storage solutions are an obvious response to VRE, but this further makes achieving the twin goals of affordability and reliability more difficult. Energy storage solutions are typically expensive relative to the incremental cost of continuing fuel-based power systems.
 
 # Strategic interactions between competitors
-The facilities-based competition paradigm established in the [[National Electricity Market]] leads to various strategic interactions between electricity producers, suppliers and consumers. 
+The facilities-based competition paradigm established in the [[National-Electricity-Market]] leads to various strategic interactions between electricity producers, suppliers and consumers. 
 
 Assessing the implications of strategic interactions is helped by applying two distinct paradigms:
-1. [[Systems thinking]] and [[systems dynamics]]
-2. [[game theory]]
+1. [[Systems-thinking]] and [[systems dynamics]]
+2. [[game-theory]]
 
 These conceptual paradigms provide frameworks within which to analyse and synthesise the interactions between energy market participants across multiple energy markets.
 

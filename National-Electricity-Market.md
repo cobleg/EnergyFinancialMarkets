@@ -12,4 +12,4 @@ The balance between the demand and supply of electricity determines the wholesal
 
 Over time, there has been a gradual substitution of fuel-based electricity generation for renewable electricity generation, mainly solar and wind power. 
 
-This has created interesting and at times, highly volatile, wholesale electricity prices. One interesting aspect of these market dynamics are the apparent increasing dependence on the [[Australian domestic gas market]]. This is in part driven by the reduction in demand for coal, suppressing the [[Australian domestic coal market]]. 
+This has created interesting and at times, highly volatile, wholesale electricity prices. One interesting aspect of these market dynamics are the apparent increasing dependence on the [[Australian-domestic-gas-market]]. This is in part driven by the reduction in demand for coal, suppressing the [[Australian-domestic-coal-market]]. 
