@@ -1,4 +1,4 @@
-# Topic 1
+ # Topic 1
 
 1.  How do you think households and other electricity end-consumers can face such stable retail prices for electricity given the volatility in wholesale prices? Hint: think about the role of derivative contracts such as _**forward contracts and swaps, which convert floating cashflows into fixed cashflows**_. 
 
