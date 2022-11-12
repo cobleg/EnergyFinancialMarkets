@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Australian carbon credit units.md",
+                "file": "Australian-carbon-credit-units.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9cf966b1f7dc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Australian carbon credit units.md",
+                "file": "Workshop questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fc38d27354d45a00",
+  "active": "1f9cf966b1f7dc02",
   "lastOpenFiles": [
+    "Australian-carbon-credit-units.md",
+    "Workshop questions.md",
+    "'Australian.md",
+    "ACCUs.md",
     "Australian domestic coal market.md",
     "Australian carbon markets.md",
-    "Australian carbon credit units.md",
     "_Welcome.md",
     "templates/citation template.md",
     "Exercises.md",
-    "VRE.md",
-    "Firm capacity.md",
-    "Variable.md",
-    "Systems thinking.md"
+    "VRE.md"
   ]
 }

@@ -9,7 +9,7 @@ ACCUs provide a source of revenue that can assist industries fund reductions in 
 # Issues
 Professor Andrew Macintosh, an environmental law and policy expert, has cited the following problems with the ACCU scheme as currently implemented:
 - Most of the carbon credits that have been approved did not represent real or new cuts in greenhouse gas emissions.
-- Serious integrity issues with either the design or administration of the scheme
+- Serious integrity issues with either the design or administration of the scheme. For example, the human-induced forest regeneration projects have not delivered a material increase in forest area.
 
 [@mortonAustraliaCarbonCredit2022] 
 
