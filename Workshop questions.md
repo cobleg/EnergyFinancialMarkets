@@ -41,3 +41,4 @@ One of the contributors to the increase in wholesale electricity prices during t
 5.  What do you think are the risks to future gas prices (both in terms of potential drivers of higher and lower gas prices)? 
 	**Answer**: with natural gas prices so high, it is likely that energy consumers will seek alternative sources of energy, either via renewable energy such as solar power and wind power or by implementing energy efficiency programs to reduce energy demand. 
 	Higher natural gas prices would ordinarily stimulate investment in bringing on new gas supplies. However, given consumers preference for renewable energy, investors might be reluctant to add new gas supply, which causes a continued upward trend.
+
