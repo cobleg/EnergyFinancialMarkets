@@ -129,14 +129,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "604759615caa09a3",
+  "active": "fc38d27354d45a00",
   "lastOpenFiles": [
     "Australian domestic coal market.md",
     "Australian carbon markets.md",

@@ -5,5 +5,11 @@ The credits are produced via activities that are eligible under the scheme. One 
 
 ACCUs provide a source of revenue that can assist industries fund reductions in carbon dioxide equivalent emissions. The Australian Government acts as a market maker for ACCUs. This will operate via the [Australian carbon exchange](http://www.cleanenergyregulator.gov.au/Infohub/Markets/australian-carbon-exchange) 
 
+---
+# Issues
+Professor Andrew Macintosh, an environmental law and policy expert, has cited the following problems with the ACCU scheme as currently implemented:
+- Most of the carbon credits that have been approved did not represent real or new cuts in greenhouse gas emissions.
+- Serious integrity issues with either the design or administration of the scheme
 
+[@mortonAustraliaCarbonCredit2022] 
 
