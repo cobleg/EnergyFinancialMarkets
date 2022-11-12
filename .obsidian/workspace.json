@@ -120,6 +120,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "fc38d27354d45a00",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
           }
         ]
       }
