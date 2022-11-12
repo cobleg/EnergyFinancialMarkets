@@ -29,6 +29,9 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 
 1.  Using market research to establish realistic volatility parameters, determine a simple VaR for the existing hedge portfolio **(4 marks)**  
 	**Key points**
+	Value-at-Risk = FV x HPV x z
+		FV = face value of contracts
+		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$
 	Face value of contracts (FV) = 1,500 MW x $60/MWh (Price) X 8760 hours
 
 2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
