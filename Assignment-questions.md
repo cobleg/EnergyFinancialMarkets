@@ -9,6 +9,7 @@ The retirement of coal-fired power stations will likely change electricity spot 
     “OpenNEM Facilities: NEM.” n.d. Accessed November 12, 2022. [https://opennem.org.au](https://opennem.org.au).
 
 2.  What are the main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plant. **(2 marks)**  
+    #### References
     
 
 #### 1.2 Market risk in the NEM (9 marks total)  
