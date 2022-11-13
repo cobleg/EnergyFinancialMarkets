@@ -31,13 +31,16 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	**Key points**
 	[Value-at-Risk](value-at-risk.md) = FV x HPV x z
 		FV = face value of contracts
-		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$ where $h$ is holding period, $T$ is the total number of intervals in a year and $\sigma$ is the annualised volatility. That is, HPV = $\sqrt{1/12}$
-	Face value of contracts (FV) = 1,500 MW x $60/MWh (Price) X 8760 hours
+		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$ where $h$ is holding period, $T$ is the total number of intervals in a year and $\sigma$ is the annualised volatility. 
+		z 
+		That is, HPV = $\sqrt{1/12} \times 0.44 \times 1.645$
+		Face value of contracts (FV) = (1,500 MW - 1,000 MW) x $60/MWh (Price) X 12 months
 	
 
-2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is cons  idering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
-    
-3.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
+2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
+	**Key points**
+	- 
+1.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
     
 
 #### 1.3 Spot price risk in the NEM (6 marks total)
