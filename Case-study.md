@@ -47,7 +47,13 @@ Undertake some desktop research to answer the following questions:  
     
 3.  Why did LNG netback prices fall between late-2018 and mid-2020? **(2 marks)** 
     **Answer** falling LNG prices
+    [@pendleburyCurrentTrendsOperation2021]
+    Pendlebury, Russell, Meredith Mayes, Daniela Moraes, and Ryan Esplin. 2021. “Current Trends in the Operation of East Coast Gas Markets and Next Steps in Enhancing the Gas Sector.” AEMC. 2021. [https://www.aemc.gov.au/current-trends-operation-east-coast-gas-markets-and-next-steps-enhancing-gas-sector](https://www.aemc.gov.au/current-trends-operation-east-coast-gas-markets-and-next-steps-enhancing-gas-sector).
     
 4.  Why have LNG netback prices risen since mid-2020? **(2 marks)** 
-    
+	**Key points**
+	- Russia-Ukraine conflict resulted in a reduction in availability of natural gas via the LNG market, pusing prices higher.
+	- NEM electricity generators are exposed to international LNG prices via the LNG netback pricing for domestic natural gas. In other words, domestic natural gas users in the NEM are competing with foreigners for Australian natural gas.
+[@murphyAustralianVotersWere2022]
+Murphy, Katharine. 2022. “Australian Voters Were Betrayed on Energy Prices, but Not by Labor’s Budget.” _The Guardian: Australia News_, October 26, 2022. [https://www.theguardian.com/australia-news/2022/oct/26/australian-voters-betrayed-energy-prices-peter-dutton-labor-budget-anthony-albanese](https://www.theguardian.com/australia-news/2022/oct/26/australian-voters-betrayed-energy-prices-peter-dutton-labor-budget-anthony-albanese).
 5.  Is the LNG forward curve (as shown above) in contango or backwardation? Why? **(2 marks)**
