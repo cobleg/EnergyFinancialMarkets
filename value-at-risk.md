@@ -13,9 +13,13 @@ However, the benefit of VaR can be carried over to non-market applications such 
 
 # Calculating VaR
 VaR is calculated via this procedure:
-1. Define the holding period, e.g. 1 month or 1 year
-2. Create a probability density function (can be a simple histogram of historical returns or asset prices)
-3. Determine the downside cut-off probability as a quantile (e.g. 1 %). The question is, what is the value of the asset at the cut-off period. The VaR is the difference between the current value and the value at the 1% cutoff.
+1. Define the holding period ($h$), e.g. 1 month or 1 year
+2. Create a probability density function (can be a simple histogram of historical returns or asset prices) to get a volatility estimate $\sigma$ 
+3. Use the volatility estimate and a probability density function to determine the confidence interval. Determine the downside cut-off probability as a quantile (e.g. 1 %). The question is, what is the value of the asset at the cut-off period. The VaR is the difference between the current value and the value at the 1% cutoff.
+4. Calculate the holding period volatility ($HPV$) = $\sqrt{h/T} \times \sigma$
+5. Multiply the face value of contracts ($FV$) that embody the adverse risk with 
+
+Once
 
 # Worked examples
 ## Worked example - estimating
