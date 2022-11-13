@@ -46,7 +46,10 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	- Another disadvantage is that the parallel shift might not be readily understood or accepted by senior management. This may require discussion and agreement for something that is an ad-hoc, one-off issue. 
 1.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
 	**Key points**
-	- 
+	- [Cash flow at risk](cashflow-at-risk.md), which focuses on the cashflow rather than the mark-to-market valuation. Cash is likely to be more important to Spark Energy.
+	- [Conditional VaR](https://www.investopedia.com/terms/c/conditional_value_at_risk.asp#:~:text=Conditional%20Value%20at%20Risk%20(CVaR)%2C%20also%20known%20as%20the,risk%20an%20investment%20portfolio%20has.) (aka Expected Tail Loss) which measures the expected loss in a tail risk event. This is helpful in providing insight into distress event management and provides a focus on proactive measurement. Also, likely to use obervable metrics to anticipate shifts or changing shape of the risk profile.
+	- [Alpha](https://www.investopedia.com/terms/r/riskmeasures.asp), which measures the risk relative to the market
+	- [Beta](https://www.investopedia.com/terms/r/riskmeasures.asp#Beta), which measures the systematic risk of loss
     
 
 #### 1.3 Spot price risk in the NEM (6 marks total)
