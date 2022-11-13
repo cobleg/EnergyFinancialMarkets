@@ -15,7 +15,7 @@ However, the benefit of VaR can be carried over to non-market applications such 
 VaR is calculated via this procedure:
 1. Define the holding period ($h$), e.g. 1 month or 1 year
 2. Create a probability density function (can be a simple histogram of historical returns or asset prices) to get a volatility estimate $\sigma$ 
-3. Use the volatility estimate and the chosen probability density function to determine the confidence interval $z$. Determine the downside cut-off probability as a quantile (e.g. 1 % or 5%). For the normal distribution, the 95% confidence interval is $z=1.645$. For non-normal distributions, it is usual to simulate the probability density function.
+3. Use the volatility estimate and the chosen probability density function to determine the confidence interval $z$. Determine the downside cut-off probability as a quantile (e.g. 1 % or 5%). For the normal distribution, the 95% confidence interval is $z=1.645$. For non-normal distributions, it is usual to conduct a [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method) to estimate the probability density function.
 4. Calculate the holding period volatility ($HPV$) = $\sqrt{h/T} \times \sigma$ where $T$ is the total number of time intervals over a standard period, typically one year.
 5. Multiply the face value of contracts ($FV$) that embody the adverse risk by the $HPV$ and $z$. That is, $VaR=FV \times HPV \times z$. In words, this calculation determines the change in value of an at-risk-asset given a credible worst case scenario. 
 
