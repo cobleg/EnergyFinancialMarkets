@@ -92,7 +92,8 @@ As a result, she has decided to propose _N-1_ volume limits as the methodology
 	- Electricity price: $60/MWh
 	**Key points**
 	- N-1 capacity: 3 x 250 MW = 750 MW
-	- Maximum sent-out capacity = (1-0.04)x0.95
+	- Maximum sent-out capacity = (1-0.04) x 0.95 x 750 MW x 1 hour = 684 MWh
+	- 
 	
 1.  Identify two reasons influencing Bec’s decision to select _N-1_ as her preferred initial approach. (2 marks)
 	**Key points**
@@ -101,4 +102,4 @@ As a result, she has decided to propose _N-1_ volume limits as the methodology
 1.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
 	**Key points**
 	- There is a location risk assuming that all of the units are behind the same connection point. Still vulnerable to a loss of a transmission line. 
-	- 
+	- Assuming each unit has 95% reliability in a standard year, continous use of 3 units implies $0.95^{3} \approx 0.86%$ 
