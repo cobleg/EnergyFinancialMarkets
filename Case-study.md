@@ -5,6 +5,7 @@ You have recently been appointed the trading manager for a private company calle
     
 
 2.  In another dispatch interval, the spot price again spiked to $15,000/MWh due to hot weather-induced increase in demand. This hot weather also resulted in an outage on one of Mcap's units. How (if any) does your answer to Q1 change given this? **(3 marks)**  
+	
 	a) Market-based risks **(2 marks)**
 	
 	b) Credit-based risks. (**2 marks)**
@@ -40,10 +41,15 @@ _Try to be as specific as you can in answering i.e., don’t just say “LGC dem
 Undertake some desktop research to answer the following questions:  
 
 1.  Why is the price of domestic gas linked to the price of gas exports? **(2 marks)** 
-    **Answer** traditionally natural gas was a substitute for oil
+    **Answer** 
+    Australian LNG producers were permitted to export Australia's domestic gas reserves 
     
-2.  What has been the impact on the domestic gas contract prices and terms? **(2 marks)**
-    **Answer** domestic gas contract prices are higher for a given term of contract
+	[@deatholiaUnderstandingEastCoast2021]
+	Atholia, Timoth de, and Aaron Walker. 2021. “Understanding the East Coast Gas Market | Bulletin – March 2021,” March. [https://www.rba.gov.au/publications/bulletin/2021/mar/understanding-the-east-coast-gas-market.html](https://www.rba.gov.au/publications/bulletin/2021/mar/understanding-the-east-coast-gas-market.html).
+	
+2. What has been the impact on the domestic gas contract prices and terms? **(2 marks)**
+    **Answer** 
+    Domestic gas contract prices are linked to the LNG netback price 
     
 3.  Why did LNG netback prices fall between late-2018 and mid-2020? **(2 marks)** 
     **Answer** falling LNG prices
@@ -54,6 +60,12 @@ Undertake some desktop research to answer the following questions:  
 	**Key points**
 	- Russia-Ukraine conflict resulted in a reduction in availability of natural gas via the LNG market, pusing prices higher.
 	- NEM electricity generators are exposed to international LNG prices via the LNG netback pricing for domestic natural gas. In other words, domestic natural gas users in the NEM are competing with foreigners for Australian natural gas.
-[@murphyAustralianVotersWere2022]
-Murphy, Katharine. 2022. “Australian Voters Were Betrayed on Energy Prices, but Not by Labor’s Budget.” _The Guardian: Australia News_, October 26, 2022. [https://www.theguardian.com/australia-news/2022/oct/26/australian-voters-betrayed-energy-prices-peter-dutton-labor-budget-anthony-albanese](https://www.theguardian.com/australia-news/2022/oct/26/australian-voters-betrayed-energy-prices-peter-dutton-labor-budget-anthony-albanese).
-5.  Is the LNG forward curve (as shown above) in contango or backwardation? Why? **(2 marks)**
+	[@murphyAustralianVotersWere2022]
+	Murphy, Katharine. 2022. “Australian Voters Were Betrayed on Energy Prices, but Not by Labor’s Budget.” _The Guardian: Australia News_, October 26, 2022. [https://www.theguardian.com/australia-news/2022/oct/26/australian-voters-betrayed-energy-prices-peter-dutton-labor-budget-anthony-albanese](https://www.theguardian.com/australia-news/2022/oct/26/australian-voters-betrayed-energy-prices-peter-dutton-labor-budget-anthony-albanese).
+5. Is the LNG forward curve (as shown above) in contango or backwardation? Why? **(2 marks)**
+	**Key points**
+	- Contango occurs when the forward price is higher than the spot price.
+	- Backwardation occurs when the forward price is lower than the spot price.
+	- The LNG forward curve is upward sloping, implying contango.
+	[@WhatContangoBackwardation]
+	“What Is Contango and Backwardation - CME Group.” n.d. Accessed November 13, 2022. [https://www.cmegroup.com/education/courses/introduction-to-ferrous-metals/what-is-contango-and-backwardation.html](https://www.cmegroup.com/education/courses/introduction-to-ferrous-metals/what-is-contango-and-backwardation.html).
