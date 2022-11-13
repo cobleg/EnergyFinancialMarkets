@@ -66,7 +66,9 @@ Five-minute settlement was introduced on 1 October 2021.  
 		“Five Minute Settlement.” n.d. AEMC. Accessed November 13, 2022. [https://www.aemc.gov.au/rule-changes/five-minute-settlement](https://www.aemc.gov.au/rule-changes/five-minute-settlement).
 
 2.  Using actual 5-minute spot price data for VIC, produce summary statistics (average, standard deviation, etc.) for the historical spot price distribution, dividing your data into the following two time periods: (i) 12am on 1 October 2020 to 11.55pm on 31 March 2021, and (ii) 12am on 1 October 2021 to 11.55pm on 31 March 2022. Explain any discernible differences in spot price outcomes between the two periods. Data can be sourced from AEMO (https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data). **(4 marks)**  
-    
+
+	**Notes**
+	- Five minute data not available until 1 October 2021. Need to use 30 minutes and aggregate the second data sample to 30 minutes.
 
 #### 1.4 Setting portfolio limits for Diverse Energy  (6 marks total) 
 
@@ -76,8 +78,12 @@ Bec Sharp is conscious that her budget for establishing trading infrastructure a
 
 As a result, she has decided to propose _N-1_ volume limits as the methodology for AMBER1’s electricity trading portfolio limits.
 
-  
-
 1.  Using the limited data available to Bec, calculate and propose an _N-1_ volume limit for Diverse Energy’s electricity hedging portfolio limit. **(2 marks)** 
-2.  Identify two reasons influencing Bec’s decision to select _N-1_ as her preferred initial approach. (2 marks)
-3.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
+	**Notes**
+	- Diverse Energy case study is the course notes, Topic 2, Lesson 2.5
+	- Debt to equity ratio: 60:40
+	- Number of units: 4
+	- 
+	
+1.  Identify two reasons influencing Bec’s decision to select _N-1_ as her preferred initial approach. (2 marks)
+2.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
