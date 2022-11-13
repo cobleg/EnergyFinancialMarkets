@@ -58,7 +58,12 @@ Five-minute settlement was introduced on 1 October 2021.  
 
 1.  Identify two of the anticipated benefits of the change. **(2 marks)**
     - Removes a mismatch between settlemtent and dispatch
-    - Improve pricing behaviour among large generators, who had 
+    - Improve price signals
+    - Improve bidding incentives among large generators, who may have had an incentive to:
+	    - Bid extreme high prices in the first five minutes and then bid extremely low for the remainder of the 30 minute interval. This may have been done to exploit market power during specific market conditions, e.g. temporary loss of an interconnector.
+	    - Conduct strategic late rebidding with withdrawal of generation capacity to influence the spot price.
+	- Encourage investment in fast response generation and demand side response. This would help improve system security [@FiveMinuteSettlement] 
+		“Five Minute Settlement.” n.d. AEMC. Accessed November 13, 2022. [https://www.aemc.gov.au/rule-changes/five-minute-settlement](https://www.aemc.gov.au/rule-changes/five-minute-settlement).
 
 2.  Using actual 5-minute spot price data for VIC, produce summary statistics (average, standard deviation, etc.) for the historical spot price distribution, dividing your data into the following two time periods: (i) 12am on 1 October 2020 to 11.55pm on 31 March 2021, and (ii) 12am on 1 October 2021 to 11.55pm on 31 March 2022. Explain any discernible differences in spot price outcomes between the two periods. Data can be sourced from AEMO (https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data). **(4 marks)**  
     
