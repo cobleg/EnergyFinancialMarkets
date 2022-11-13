@@ -43,8 +43,10 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	- Use of forward prices captures the market's risk bias, which may efficiently reflect all relevant information about future risk.
 	- Parallel shift in the forward curve would capture an instantaneous change in future risk profile. One advantage is the shift in the market's assessement of future risk.
 	- One disadvantage is that the parallel shift may not reflect an accurate measure of the change in credible (or likely) risk. The key is the magnitude of the shift - how is that determined?
-	- Another disadvantage is that the parallel shift might not be readily understood or accepted by senior management. This may require discussion and agreement for something that is an ad-hoc, one-off issue.
+	- Another disadvantage is that the parallel shift might not be readily understood or accepted by senior management. This may require discussion and agreement for something that is an ad-hoc, one-off issue. 
 1.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
+	**Key points**
+	- 
     
 
 #### 1.3 Spot price risk in the NEM (6 marks total)
