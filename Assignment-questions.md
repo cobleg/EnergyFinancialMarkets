@@ -34,7 +34,7 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$
 	Face value of contracts (FV) = 1,500 MW x $60/MWh (Price) X 8760 hours
 
-2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
+2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is cons  idering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
     
 3.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
     
