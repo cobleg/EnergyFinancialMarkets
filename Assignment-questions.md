@@ -32,14 +32,18 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	[Value-at-Risk](value-at-risk.md) = FV x HPV x z
 		FV = face value of contracts
 		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$ where $h$ is holding period, $T$ is the total number of intervals in a year and $\sigma$ is the annualised volatility. 
-		z 
-		That is, HPV = $\sqrt{1/12} \times 0.44 \times 1.645$
+		z = the 95% confidence interval
+		Using reasonable assumptions (normalised historical volatility over 2021-22 for NSW and normal distribution) HPV = $\sqrt{1/12} \times 0.44 \times 1.645$
 		Face value of contracts (FV) = (1,500 MW - 1,000 MW) x $60/MWh (Price) X 12 months
 	
 
 2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
 	**Key points**
-	- 
+	- Parallel shifts in the spot price reflect an instantaneous shift in the entire risk profile (measured by the average dispersion of the spot price). One advantage is the realistic reflection of an unplanned loss of a significant generation or load facility.
+	- Use of forward prices captures the market's risk bias, which may efficiently reflect all relevant information about future risk.
+	- Parallel shift in the forward curve would capture an instantaneous change in future risk profile. One advantage is the shift in the market's assessement of future risk.
+	- One disadvantage is that the parallel shift may not reflect an accurate measure of the change in credible (or likely) risk. The key is the magnitude of the shift - how is that determined?
+	- Another disadvantage is that the parallel shift might not be readily understood or accepted by senior management. This may require discussion and agreement for something that is an ad-hoc, one-off issue.
 1.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
     
 
