@@ -102,4 +102,5 @@ As a result, she has decided to propose _N-1_ volume limits as the methodology
 1.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
 	**Key points**
 	- There is a location risk assuming that all of the units are behind the same connection point. Still vulnerable to a loss of a transmission line. 
-	- Assuming each unit has 95% reliability in a standard year, continous use of 3 units implies $0.95^{3} \approx 0.86%$ 
+	- Assuming each unit has 95% reliability in a standard year, continous use of 3 units implies $0.95^{3} \approx 0.86$. This implies a unit will not be available for 14% of the year, which is the capacity factor of the fourth unit. There is an opportunity cost of 0.86 x  250 MW x 1 hour x 0.4 c.f. x $60/MWh =  $5,160 per hour when the unit is not being used.
+	- By contrast, employing four units would imply $0.95^4 \approx 0.81$ availability in a standard year. This implies that electricity would not be
