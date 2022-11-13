@@ -83,7 +83,18 @@ As a result, she has decided to propose _N-1_ volume limits as the methodology
 	- Diverse Energy case study is the course notes, Topic 2, Lesson 2.5
 	- Debt to equity ratio: 60:40
 	- Number of units: 4
-	- 
+	- Capacity of each unit: 250 MW
+	- Capacity factor: 40% to 50%
+	- Auxiliary consumption: 4%
+	- Marginal Loss Factor: 0.95
+	- Revenue mix: 50% domestic gas sales, 50% electricity generation
+	- Cost of gas: $6.50/GJ
+	- Electricity price: $60/MWh
+	**Key points**
+	- N-1 capacity: 3 x 250 MW = 750 MW
 	
 1.  Identify two reasons influencing Bec’s decision to select _N-1_ as her preferred initial approach. (2 marks)
-2.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
+	**Key points**
+	- N-1 is a simple risk management strategy to understand.
+	- If one unit fails, there is a spare unit to supply the required volume
+1.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
