@@ -31,8 +31,9 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	**Key points**
 	[Value-at-Risk](value-at-risk.md) = FV x HPV x z
 		FV = face value of contracts
-		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$ where $h$ is holding period, $T$ is the total number of intervals in a year and $\sigma$ is the annualised volatility
+		HPV = holding period volatility = $\sqrt{h/T} \times \sigma$ where $h$ is holding period, $T$ is the total number of intervals in a year and $\sigma$ is the annualised volatility. That is, HPV = $\sqrt{1/12}$
 	Face value of contracts (FV) = 1,500 MW x $60/MWh (Price) X 8760 hours
+	
 
 2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is cons  idering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
     

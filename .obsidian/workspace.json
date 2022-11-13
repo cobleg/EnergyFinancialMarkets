@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "value-at-risk.md",
+                "file": "Assignment-questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "value-at-risk.md",
+                "file": "Assignment-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +162,7 @@
   },
   "active": "cbd00f5baa84ec52",
   "lastOpenFiles": [
+    "value-at-risk.md",
     "Assignment-questions.md",
     "Australian-carbon-credit-units.md",
     "'Australian.md",
@@ -170,7 +171,6 @@
     "spot-price-floor.md",
     "small-scale-technology-certificates.md",
     "National-Electricity-Market.md",
-    "must-run-generator.md",
-    "markets-are-interconnected.md"
+    "must-run-generator.md"
   ]
 }
