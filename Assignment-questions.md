@@ -5,6 +5,8 @@ The retirement of coal-fired power stations will likely change electricity spot 
 
 1.  Using credible reference material, establish the number of coal-fired generators in the NEM, noting announced closure dates, their respective capacity (MW), and their size relative to the total generation capacity by year. Present your findings in a chart or table. **(4 marks)**
     #### References
+   .
+    
     [@OpenNEMFacilitiesNEM]
     “OpenNEM Facilities: NEM.” n.d. Accessed November 12, 2022. [https://opennem.org.au](https://opennem.org.au).
 
@@ -57,12 +59,18 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 Five-minute settlement was introduced on 1 October 2021.  
 
 1.  Identify two of the anticipated benefits of the change. **(2 marks)**
+ **Key points**
     - Removes a mismatch between settlemtent and dispatch
-    - Improve price signals
+    - Improve price signals in terms of improved allocative and dynamic efficiency
     - Improve bidding incentives among large generators, who may have had an incentive to:
 	    - Bid extreme high prices in the first five minutes and then bid extremely low for the remainder of the 30 minute interval. This may have been done to exploit market power during specific market conditions, e.g. temporary loss of an interconnector.
 	    - Conduct strategic late rebidding with withdrawal of generation capacity to influence the spot price.
-	- Encourage investment in fast response generation and demand side response. This would help improve system security [@FiveMinuteSettlement] 
+	- Encourage investment in fast response generation and demand side response. This would help improve system security 
+	**References**
+	 [@FiveMinuteSettlement2016]
+    “Five Minute Settlement Working Group: Working Paper No. 1: Materiality of the Problem and Responsiveness of Generation and Load.” 2016. 1. [https://www.aemc.gov.au/sites/default/files/content/485b3c10-2746-4dc0-a9c2-e333cf1d54ad/Five-Minute-Settlement-Working-Paper-1-05-10-2016.pdf](https://www.aemc.gov.au/sites/default/files/content/485b3c10-2746-4dc0-a9c2-e333cf1d54ad/Five-Minute-Settlement-Working-Paper-1-05-10-2016.pdf)
+    
+	[@FiveMinuteSettlement] 
 		“Five Minute Settlement.” n.d. AEMC. Accessed November 13, 2022. [https://www.aemc.gov.au/rule-changes/five-minute-settlement](https://www.aemc.gov.au/rule-changes/five-minute-settlement).
 
 2.  Using actual 5-minute spot price data for VIC, produce summary statistics (average, standard deviation, etc.) for the historical spot price distribution, dividing your data into the following two time periods: (i) 12am on 1 October 2020 to 11.55pm on 31 March 2021, and (ii) 12am on 1 October 2021 to 11.55pm on 31 March 2022. Explain any discernible differences in spot price outcomes between the two periods. Data can be sourced from AEMO (https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data). **(4 marks)**  
