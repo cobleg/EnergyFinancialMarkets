@@ -48,8 +48,8 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	**Key points**
 	- [Cash flow at risk](cashflow-at-risk.md), which focuses on the cashflow rather than the mark-to-market valuation. Cash is likely to be more important to Spark Energy.
 	- [Conditional VaR](https://www.investopedia.com/terms/c/conditional_value_at_risk.asp#:~:text=Conditional%20Value%20at%20Risk%20(CVaR)%2C%20also%20known%20as%20the,risk%20an%20investment%20portfolio%20has.) (aka Expected Tail Loss) which measures the expected loss in a tail risk event. This is helpful in providing insight into distress event management and provides a focus on proactive measurement. Also, likely to use obervable metrics to anticipate shifts or changing shape of the risk profile.
-	- [Alpha](https://www.investopedia.com/terms/r/riskmeasures.asp), which measures the risk relative to the market
-	- [Beta](https://www.investopedia.com/terms/r/riskmeasures.asp#Beta), which measures the systematic risk of loss
+	- [Alpha](https://www.investopedia.com/terms/r/riskmeasures.asp), which measures the risk relative to the market. This can help identify any asset specific risks that could affect risk management strategies.
+	- [Beta](https://www.investopedia.com/terms/r/riskmeasures.asp#Beta), which measures the systematic risk of loss, which could be used to rank various assets used to manage risk.	- 
     
 
 #### 1.3 Spot price risk in the NEM (6 marks total)
@@ -57,7 +57,8 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 Five-minute settlement was introduced on 1 October 2021.  
 
 1.  Identify two of the anticipated benefits of the change. **(2 marks)**
-    
+    - Removes a mismatch between settlemtent and dispatch
+    - Improve pricing behaviour among large generators, who had 
 
 2.  Using actual 5-minute spot price data for VIC, produce summary statistics (average, standard deviation, etc.) for the historical spot price distribution, dividing your data into the following two time periods: (i) 12am on 1 October 2020 to 11.55pm on 31 March 2021, and (ii) 12am on 1 October 2021 to 11.55pm on 31 March 2022. Explain any discernible differences in spot price outcomes between the two periods. Data can be sourced from AEMO (https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data). **(4 marks)**  
     
