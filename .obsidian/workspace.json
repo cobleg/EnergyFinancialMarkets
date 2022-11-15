@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "short-versus-long.md",
+                "file": "long-versus-short.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "short-versus-long.md",
+                "file": "long-versus-short.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
