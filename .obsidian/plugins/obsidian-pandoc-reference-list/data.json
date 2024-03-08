@@ -5,16 +5,17 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1709880851815
+      "lastUpdate": 1709881461082
     }
   ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
-  "pathToBibliography": "C:\\Bibliography\\My Library.bib",
+  "pathToBibliography": "C:\\Bibliography\\MyLibrary.bib",
   "showCitekeyTooltips": true,
-  "pullFromZotero": false,
+  "pullFromZotero": true,
   "enableCiteKeyCompletion": true,
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date-16th-edition.csl",
-  "cslStylePath": "C:\\Bibliography\\chicago-author-date-16th-edition.csl"
+  "cslStylePath": "C:\\Bibliography\\chicago-author-date-16th-edition.csl",
+  "hideLinks": true
 }
