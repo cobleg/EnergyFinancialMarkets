@@ -7,5 +7,14 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-pandoc-reference-list:focus-reference-list-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

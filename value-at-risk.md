@@ -5,7 +5,7 @@ This metric was developed by [J.P. Morgan](https://www.jpmorgan.com/AU/en/about-
 
 VaR is focused on quantifying the risk of financial loss at the end of a holding period (e.g. 1 month) that is associated with trading in financial instruments. 
 
-Advantages of VaR include simple to calculate and understand. Some disadvantages are that it is subject to change (which can be unpredictable) and requires a judgement of what *normal market* conditions look like in terms of a proabability distribution. Also, it implies an assumption of a stable probability distribution over the holding period (i.e. a constant mean and standard deviation). 
+Advantages of VaR include simple to calculate and understand. Some disadvantages are that it is subject to change (which can be unpredictable) and requires a judgement of what *normal market* conditions look like in terms of a probability distribution. Also, it implies an assumption of a stable probability distribution over the holding period (i.e. a constant mean and standard deviation). 
 
 Another key disadvantage is that it applies only to market-based risks and is used as a [mark-to-market](https://www.investopedia.com/terms/m/marktomarket.asp) measure. There may be situations in which risk emanates from a source that does not have an actively traded market.
 
