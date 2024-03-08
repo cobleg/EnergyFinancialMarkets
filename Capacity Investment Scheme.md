@@ -11,7 +11,13 @@ The objective is to:
 
 # Design principles
 The design principles guiding the CIS are:
-- **Maintaining momentum** by accelerating the investment timeline for projects alreding in the advanced planning stage to deliver new CO2-e emissions-free electricity supply capacity.
+- **Maintaining momentum** by accelerating the investment timeline for projects alreding in the advanced planning stage to deliver new $CO_2$-e emissions-free electricity supply capacity.
 - **Stimulate investment** by providing long-term certainty for financiers through a combination of long-term financial underwriting offered to Projects and a clear, transparent tender process used to set key commercial terms in the CIS agreement (CISA).
 - **Complementing existing market operations** by avoiding imposing operational conditions that may conflict with existing operating rules. The CISA can be integrated into a portfolio of [[swap]] contracts and [[tolling agreements]]. 
+- **Tender product adaptability** which will select projects that support energy system reliability and lower electricity prices.
+- **Supporting local communities and first nations people**
+[@ImplementationDesignPaper]
+
+# Key commercial terms
+
 
