@@ -5,8 +5,7 @@ The retirement of coal-fired power stations will likely change electricity spot 
 
 1.  Using credible reference material, establish the number of coal-fired generators in the NEM, noting announced closure dates, their respective capacity (MW), and their size relative to the total generation capacity by year. Present your findings in a chart or table. **(4 marks)**
     #### References
-   .
-    
+      
     [@OpenNEMFacilitiesNEM]
     “OpenNEM Facilities: NEM.” n.d. Accessed November 12, 2022. [https://opennem.org.au](https://opennem.org.au).
 
@@ -16,13 +15,13 @@ The retirement of coal-fired power stations will likely change electricity spot 
 	- New facility investment in renewable electricity generation is growing faster than retirement of old facilities
 	- Demand growth is slowing, in part due to distributed energy resources at load sites reducing grid-sourced electricity demand
 	- Resulting in increased competition when solar and wind energy is abundant.
-	- Coal fuelled generation facilities are not designed for intermittent use, resulting (or risking) increased fuel consumed for given electrical power output. 
+	- Coal fueled generation facilities are not designed for intermittent use, resulting (or risking) increased fuel consumed for given electrical power output. 
 	- Aging facility typically incur higher maintenance costs
-	- Increasing CO2-e would incur high LGC certificate obligations and LGC prices have been trending higher.
+	- Increasing $CO_2$-e would incur high LGC certificate obligations and LGC prices have been trending higher.
 	- Relatively high prices for coal internationally could squeeze domestic coal consumers on the buy side.
-	- Remaining coal fuelled generators could benefit from reduced competition from retiring coal fuelled generators. However, this would be impacted by the other factors listed above.
+	- Remaining coal fueled generators could benefit from reduced competition from retiring coal fueled generators. However, this would be impacted by the other factors listed above.
 	 **References**
-[@edistristanFastErosionCoal2021]
+[@edistristanFastErosionCoal2021] 
 Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
 	
 #### 1.2 Market risk in the NEM (9 marks total)  
