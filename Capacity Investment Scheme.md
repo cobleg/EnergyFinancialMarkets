@@ -24,7 +24,7 @@ There are two defined products:
 
 Eligible facilities have the following properties:
 - Registered or intended to be registered with the Australian Electricity Market Operator (AEMO) as a generator.
-- Will be dispatched for a minimum of more than 75% of P90 operational demand each year)
+- 
 # Payment mechanisms
 ## Generation CISA
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
@@ -33,5 +33,7 @@ The Generation CISA will provide revenue underwriting for net revenue per MWh of
 
 
 # Key commercial terms
-
+The following are the commercial terms:
+- Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
+- 
 
