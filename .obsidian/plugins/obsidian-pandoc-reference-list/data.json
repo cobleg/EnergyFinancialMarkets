@@ -1,6 +1,10 @@
 {
   "pathToPandoc": "C:\\Program Files\\Pandoc\\pandoc.EXE",
   "tooltipDelay": 800,
-  "pathToBibliography": "C:\\Users\\User\\Google Drive\\Bibliography\\Bibliography1.bib",
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "C:\\Bibliography\\My Library.bib",
   "showCitekeyTooltips": true
 }

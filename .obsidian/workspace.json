@@ -98,9 +98,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db8004ec61a8c39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capacity Investment Scheme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "long-versus-short.md",
+                "file": "Capacity Investment Scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,17 +188,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "fc38d27354d45a00",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,8 +205,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cf28a3db70b42750",
+  "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
+    "long-versus-short.md",
+    "Capacity Investment Scheme.md",
     "value-at-risk.md",
     "Assignment-questions.md",
     "Case-study.md",
