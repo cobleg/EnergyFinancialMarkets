@@ -6,9 +6,15 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #1",
+      "name": "Format #2",
       "format": "formatted-citation",
       "cslStyle": "chicago-author-date-16th-edition"
+    },
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "cslStyle": "chicago-author-date-16th-edition",
+      "brackets": true
     }
   ],
   "exportFormats": [],

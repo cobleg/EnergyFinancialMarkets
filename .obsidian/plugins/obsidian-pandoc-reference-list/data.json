@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1709878750141
+      "lastUpdate": 1709879063760
     }
   ],
   "renderCitations": true,
@@ -15,6 +15,6 @@
   "showCitekeyTooltips": true,
   "pullFromZotero": true,
   "enableCiteKeyCompletion": true,
-  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date-16th-edition.csl",
   "cslStylePath": "C:\\Bibliography\\chicago-author-date-16th-edition.csl"
 }
