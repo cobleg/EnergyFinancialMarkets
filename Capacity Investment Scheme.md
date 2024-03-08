@@ -15,6 +15,19 @@ The design principles guiding the CIS are:
 - **Supporting local communities and first nations people**
 [[@ImplementationDesignPaper]] 
 
+In short, the CIS design aims to reduce risks for proponents of renewable energy and clean dispatchable projects while preserving existing electricity market signals.
+
+# CISA products
+There are two defined products:
+- **Clean Dispatchable CISA** applies to a *clean dispatchable generator* at a registered capacity for 2 or more hours. The contract term is 15 years.
+- **Generation CISA** applies
+# Payment mechanisms
+## Generation CISA
+The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
+![Generation CISA](Generation%20CISA.png)]
+
+
+
 # Key commercial terms
 
 
