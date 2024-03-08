@@ -16,7 +16,7 @@ The design principles guiding the CIS are:
 - **Complementing existing market operations** by avoiding imposing operational conditions that may conflict with existing operating rules. The CISA can be integrated into a portfolio of [[swap]] contracts and [[tolling agreements]]. 
 - **Tender product adaptability** which will select projects that support energy system reliability and lower electricity prices.
 - **Supporting local communities and first nations people**
-[@ImplementationDesignPaper]
+[[@ImplementationDesignPaper]] 
 
 # Key commercial terms
 
