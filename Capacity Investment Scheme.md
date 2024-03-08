@@ -19,12 +19,16 @@ In short, the CIS design aims to reduce risks for proponents of renewable energy
 
 # CISA products
 There are two defined products:
-- **Clean Dispatchable CISA** applies to a *clean dispatchable generator* at a registered capacity for 2 or more hours. The contract term is 15 years.
-- **Generation CISA** applies
+- **Clean Dispatchable CISA** applies to a *clean dispatchable generator* (e.g. battery and pumped hydro) at a registered capacity for 2 or more hours. The contract term is 15 years. 
+- **Generation CISA** applies to generators (i.e. solar and wind power stations)
+
+Eligible facilities have the following properties:
+- Registered or intended to be registered with the Australian Electricity Market Operator (AEMO) as a generator.
+- Will be dispatched for a minimum of more than 75% of P90 operational demand each year)
 # Payment mechanisms
 ## Generation CISA
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
-![Generation CISA](Generation%20CISA.png)]
+![Generation CISA](Generation%20CISA.png)
 
 
 
