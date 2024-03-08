@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8da3827db69c838d",
@@ -178,14 +179,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacity Investment Scheme.md",
+                "file": "long-versus-short.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -205,10 +206,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db8004ec61a8c39e",
+  "active": "cf28a3db70b42750",
   "lastOpenFiles": [
-    "tolling agreements.md",
     "Capacity Investment Scheme.md",
+    "tolling agreements.md",
     "swap.md",
     "long-versus-short.md",
     "value-at-risk.md",

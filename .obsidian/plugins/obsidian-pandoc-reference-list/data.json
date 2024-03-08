@@ -5,13 +5,13 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1709877569067
+      "lastUpdate": 1709878173392
     }
   ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
-  "pathToBibliography": "C:\\Bibliography\\My Library.bib",
+  "pathToBibliography": "C:\\Bibliography\\My Library.json",
   "showCitekeyTooltips": true,
   "pullFromZotero": true,
   "enableCiteKeyCompletion": true,

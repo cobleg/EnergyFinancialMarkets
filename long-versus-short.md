@@ -5,7 +5,7 @@ Financial market terms can be confusing. This articule explains what is mean by 
 A `long position` describes a situation in which a trader possesses an asset prior to establishing an obligation to sell that asset at a specified delivery date. 
 
 Electricity suppliers that have the facilities required to supply electricity have a `long position` with respect to the physical supply of electricity.
-[@LongPositionDefinition]
+[[@LongPositionDefinition]] 
 # Short position
 A `short position` describes a situation in which a trader has an obligation to sell an asset at a specified delivery date first without possessing the promised asset. The short trader needs to buy the required asset by the required delivery date to deliver on the obligation. [@ShortShortPosition]
 
