@@ -19,9 +19,9 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
+      "name": "Import paper",
+      "outputPathTemplate": "inbox/{{title}}.md",
+      "imageOutputPathTemplate": "media/zotero/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "cslStyle": "chicago-author-date-16th-edition"
     }

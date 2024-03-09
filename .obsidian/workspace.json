@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/----.md",
+                "file": "templates/paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/----.md",
+                "file": "templates/paper.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,10 +149,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db8004ec61a8c39e",
+  "active": "ba31154013c566e7",
   "lastOpenFiles": [
+    "media",
+    "inbox",
     "templates/citation template.md",
-    "templates/----.md",
+    "templates/paper.md",
     "P90.md",
     "Capacity Investment Scheme.md",
     "images/Generation CISA.png",
