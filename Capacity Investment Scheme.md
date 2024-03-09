@@ -16,6 +16,7 @@ The design principles guiding the CIS are:
 - **Tender product adaptability** which will select projects that support energy system reliability and lower electricity prices.
 - **Supporting local communities and first nations people**
 [[@ImplementationDesignPaper]] 
+(Parkinson 2014) 
 In short, the CIS design aims to reduce risks for proponents of renewable energy and clean dispatchable projects while preserving existing electricity market signals.
 
 # CISA products
