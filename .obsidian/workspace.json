@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Capacity Investment Scheme - energy.gov.au.md",
+                "file": "Australian-domestic-gas-market.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "economics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Capacity Investment Scheme - energy.gov.au.md",
+                "file": "Australian-domestic-gas-market.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,14 +151,18 @@
   },
   "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
+    "market-dynamics.md",
+    "gross-margin.md",
+    "game-theory.md",
+    "Capacity Investment Scheme.md",
+    "inbox/Assessing Australia’s Innovative Capacity in the 21st Century.md",
     "templates/import paper.md",
+    "inbox/Capacity Investment Scheme - energy.gov.au.md",
     "templates/citation template.md",
     "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
     "templates/paper2.md",
-    "inbox/Capacity Investment Scheme - energy.gov.au.md",
     "inbox/Implementation Design Paper - Capacity Investment Scheme.md",
     "inbox/A Review on the Degradation Implementation for the Operation of Battery Energy Storage Systems.md",
-    "Capacity Investment Scheme.md",
     "@ImplementationDesignPaper.md",
     "media/zotero/ImplementationDesignPaper",
     "media/zotero",
@@ -180,7 +184,6 @@
     "cashflow-at-risk.md",
     "'Australian.md",
     "Workshop-questions.md",
-    "Systems-thinking.md",
-    "spot-price-floor.md"
+    "Systems-thinking.md"
   ]
 }
