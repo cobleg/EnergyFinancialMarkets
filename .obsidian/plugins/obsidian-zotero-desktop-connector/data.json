@@ -6,15 +6,9 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #2",
+      "name": "cite",
       "format": "formatted-citation",
       "cslStyle": "chicago-author-date-16th-edition"
-    },
-    {
-      "name": "Pandoc",
-      "format": "pandoc",
-      "cslStyle": "chicago-author-date-16th-edition",
-      "brackets": true
     }
   ],
   "exportFormats": [
@@ -23,7 +17,8 @@
       "outputPathTemplate": "inbox/{{title}}.md",
       "imageOutputPathTemplate": "media/zotero/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "cslStyle": "chicago-author-date-16th-edition"
+      "cslStyle": "chicago-author-date-16th-edition",
+      "templatePath": "templates/import paper.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

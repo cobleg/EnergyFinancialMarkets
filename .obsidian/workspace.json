@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/paper.md",
+                "file": "Capacity Investment Scheme.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/paper.md",
+                "file": "Capacity Investment Scheme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,14 +149,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba31154013c566e7",
+  "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
+    "@ImplementationDesignPaper.md",
+    "inbox/Implementation Design Paper - Capacity Investment Scheme.md",
+    "Capacity Investment Scheme.md",
+    "inbox/Capacity Investment Scheme - energy.gov.au.md",
+    "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
+    "media/zotero/ImplementationDesignPaper",
+    "templates/citation template.md",
+    "templates/import paper.md",
+    "templates/paper2.md",
+    "media/zotero",
     "media",
     "inbox",
-    "templates/citation template.md",
-    "templates/paper.md",
     "P90.md",
-    "Capacity Investment Scheme.md",
     "images/Generation CISA.png",
     "images",
     "New folder",

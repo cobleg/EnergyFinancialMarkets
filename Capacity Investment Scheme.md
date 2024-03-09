@@ -1,5 +1,7 @@
 # Definition
 > The Capacity Investment Scheme (CIS) is a national framework and an Australian Government initiative to encourage new investment in renewable capacity, such as wind and solar, and clean dispatchable capacity.
+
+[Implementation Design Paper - Capacity Investment Scheme](Implementation%20Design%20Paper%20-%20Capacity%20Investment%20Scheme.md) 
 # Objective
 The objective is to:
 - Deliver an additional 32 GW of new capacity by 2030
@@ -14,7 +16,6 @@ The design principles guiding the CIS are:
 - **Tender product adaptability** which will select projects that support energy system reliability and lower electricity prices.
 - **Supporting local communities and first nations people**
 [[@ImplementationDesignPaper]] 
-
 In short, the CIS design aims to reduce risks for proponents of renewable energy and clean dispatchable projects while preserving existing electricity market signals.
 
 # CISA products
