@@ -1,0 +1,2 @@
+> The **Australian Energy Market Commission** (AEMC) is an independent statutory body that works for Australia's future productivity and living standards by contributing to a decarbonising, affordable and reliable energy system for consumers.
+Source: [AEMC](https://www.aemc.gov.au/about-us)  

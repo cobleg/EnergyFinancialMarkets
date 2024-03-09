@@ -47,12 +47,8 @@
             "id": "db8004ec61a8c39e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Australian-domestic-gas-market.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Australian-domestic-gas-market.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,10 +146,14 @@
   },
   "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
+    "inbox/About Us - AEMC.md",
+    "Capacity Investment Scheme.md",
+    "P90.md",
+    "Australian-domestic-gas-market.md",
+    "AEMC.md",
     "market-dynamics.md",
     "gross-margin.md",
     "game-theory.md",
-    "Capacity Investment Scheme.md",
     "inbox/Assessing Australia’s Innovative Capacity in the 21st Century.md",
     "templates/import paper.md",
     "inbox/Capacity Investment Scheme - energy.gov.au.md",
@@ -168,7 +167,6 @@
     "media/zotero",
     "media",
     "inbox",
-    "P90.md",
     "images/Generation CISA.png",
     "images",
     "New folder",
@@ -181,9 +179,6 @@
     "tolling agreements.md",
     "swap.md",
     "Case-study.md",
-    "cashflow-at-risk.md",
-    "'Australian.md",
-    "Workshop-questions.md",
-    "Systems-thinking.md"
+    "cashflow-at-risk.md"
   ]
 }
