@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P90.md",
+                "file": "templates/----.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8da3827db69c838d",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P90.md",
+                "file": "templates/----.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +151,10 @@
   },
   "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
-    "Capacity Investment Scheme.md",
+    "templates/citation template.md",
+    "templates/----.md",
     "P90.md",
+    "Capacity Investment Scheme.md",
     "images/Generation CISA.png",
     "images",
     "New folder",
