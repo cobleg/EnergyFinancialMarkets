@@ -15,8 +15,8 @@ The design principles guiding the CIS are:
 - **Complementing existing market operations** by avoiding imposing operational conditions that may conflict with existing operating rules. The CISA can be integrated into a portfolio of [[swap]] contracts and [[tolling agreements]]. 
 - **Tender product adaptability** which will select projects that support energy system reliability and lower electricity prices.
 - **Supporting local communities and first nations people**
-[[@ImplementationDesignPaper]] 
-(Parkinson 2014) 
+Source: [Implementation Design Paper | Capacity Investment Scheme](Implementation%20Design%20Paper%20-%20Capacity%20Investment%20Scheme.md) 
+
 In short, the CIS design aims to reduce risks for proponents of renewable energy and clean dispatchable projects while preserving existing electricity market signals.
 
 # CISA products
@@ -32,7 +32,7 @@ Eligible facilities have the following properties:
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
 ![Generation CISA](Generation%20CISA.png)
 
-
+Source: [Implementation Design Paper - Capacity Investment Scheme](Implementation%20Design%20Paper%20-%20Capacity%20Investment%20Scheme.md) 
 
 # Key commercial terms
 The following are the commercial terms:

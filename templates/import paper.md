@@ -22,3 +22,6 @@ type: paper
 {{abstractNote}}
 {% endif %}
 
+# Tags
+{% for t in tags %}{{t.tag}}{% if not loop.last %}, {% endif %}{% endfor %}
+
