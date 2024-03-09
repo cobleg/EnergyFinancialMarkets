@@ -133,17 +133,8 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "2fc100cd01f5a973",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

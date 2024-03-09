@@ -1,7 +1,5 @@
 [
   "obsidian-git",
   "obsidian-pandoc",
-  "obsidian-pandoc-reference-list",
-  "obsidian-zotero-desktop-connector",
-  "obsidian-citation-plugin"
+  "obsidian-zotero-desktop-connector"
 ]
