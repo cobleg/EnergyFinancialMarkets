@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capacity Investment Scheme.md",
+                "file": "Energy Transition.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacity Investment Scheme.md",
+                "file": "Energy Transition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +152,13 @@
   },
   "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
-    "financeability.md",
     "Capacity Investment Scheme.md",
+    "Energy Transition.md",
+    "Scope 1 emissions.md",
+    "inbox/The Safeguard Mechanism.md",
+    "financeability.md",
     "inbox/Finance and financeability.md",
     "inbox/Federal Government's new $10 billion Capacity Investment Scheme.md",
-    "Scope 1 emissions.md",
     "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
     "PPA.md",
     "Systems-thinking.md",
@@ -177,8 +179,6 @@
     "gross-margin.md",
     "game-theory.md",
     "inbox/Assessing Australia’s Innovative Capacity in the 21st Century.md",
-    "templates/import paper.md",
-    "inbox/Capacity Investment Scheme - energy.gov.au.md",
     "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
     "media/zotero/ImplementationDesignPaper",
     "media/zotero",
