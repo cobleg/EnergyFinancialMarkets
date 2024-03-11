@@ -79,6 +79,7 @@ The following are the defined commercial terms:
 # Discussion
 The intent of the CIS is to simulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]] in Australia.
 
-The scheme favors dispatchable or firm capacity. Also, there is a focus on 
+The scheme favors dispatchable or firm capacity. Also, there is a focus on least-cost and there is an implied enhanced [contestability](https://www.investopedia.com/terms/c/contestablemarket.asp) between eligible projects via a competitive tender.
+
 
 #CIS
