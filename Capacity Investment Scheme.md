@@ -37,13 +37,23 @@ Source: [Implementation Design Paper - Capacity Investment Scheme](Implementatio
 
 # Key commercial terms
 The following are the defined commercial terms:
-- **Minimum dispatch**: Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
+- 
 - **Project characteristics**: are required (e.g. nameplate capacity).
 - **Support term**: spans up to maximum of 15 years.
 - **Payment mechanism**: 
 	- Quarterly payments for the first three quarters of the financial year. An annual reconciliation payment (Annual Adjustment Payment) will be made, subject to an annual cap.
 	- Payments made according to the Project's revenue for each period, compared to its revenue floor and ceiling.
-	- The underwriting mechanism is based on a project's net revenue, which is the sum of all revenue for the project minus cos
-- 
+	- The underwriting mechanism is based on a project's net revenue, which is the sum of all revenue for the project minus costs from:
+		- For storage projects, costs in relation to the import of electricity from the network.
+		- Costs for Ancillary Services Network Support Services, or System Support Services.
+		- Other costs incurred under the National Electricity Rules (excluding fines or penalties)
+		- Any payments under and Eligible Wholesale Contract (excluding liquidated damages, warranty payments, or non-performance payments).
+- **Contracted Percentage**: up to a maximum of the Project's capacity.
+- **Escalation**: The Floor Price and Sharing/Ceiling Price will be bid ($/MWh) for each supported year. Escalation is allowed as a bid negotiation point.
+- **Performance pay requirements**: the Project Operator must:
+	- Operate the project following best industry practice, including maximising availability of the Project and revenues for the Project.
+	- Respond to price signals in the electricity market.
+	- **Minimum dispatch**: Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
+	- **Performance Event**: the project must bid at least 50% of its contracted 
 
 #CIS
