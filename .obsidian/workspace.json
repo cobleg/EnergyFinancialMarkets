@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPA.md",
+                "file": "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPA.md",
+                "file": "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +152,9 @@
   },
   "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
-    "Capacity Investment Scheme.md",
     "PPA.md",
+    "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
+    "Capacity Investment Scheme.md",
     "Systems-thinking.md",
     "NEM.md",
     "National-Electricity-Market.md",
@@ -179,7 +180,6 @@
     "templates/paper2.md",
     "inbox/Implementation Design Paper - Capacity Investment Scheme.md",
     "inbox/A Review on the Degradation Implementation for the Operation of Battery Energy Storage Systems.md",
-    "@ImplementationDesignPaper.md",
     "media/zotero/ImplementationDesignPaper",
     "media/zotero",
     "media",
