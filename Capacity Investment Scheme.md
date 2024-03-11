@@ -35,9 +35,15 @@ The Generation CISA will provide revenue underwriting for net revenue per MWh of
 
 Source: [Implementation Design Paper - Capacity Investment Scheme](Implementation%20Design%20Paper%20-%20Capacity%20Investment%20Scheme.md) 
 
+## Cle
 # Key commercial terms
 The following are the defined commercial terms:
-- 
+- **Ownership structure**: A project must be owned by a [[SPV]] that has all the assets required to undertake the project. The [[SPV]] must  be:
+	- the Project Operator for the CISA
+	- a registered [[NEM]] participant and receive all financial value associated with the Project.
+	The Project Operator must:
+		- be the counterparty to all revenue contracts (e.g. for a [[PPA]] )
+		- must not carry on any other business other than the Project.
 - **Project characteristics**: are required (e.g. nameplate capacity).
 - **Support term**: spans up to maximum of 15 years.
 - **Payment mechanism**: 
@@ -53,7 +59,11 @@ The following are the defined commercial terms:
 - **Performance pay requirements**: the Project Operator must:
 	- Operate the project following best industry practice, including maximising availability of the Project and revenues for the Project.
 	- Respond to price signals in the electricity market.
+For the Generation CISA, the performance criteria are:
 	- **Minimum dispatch**: Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
-	- **Performance Event**: the project must bid at least 50% of its contracted 
+For the Clean Dispatchable CISA, the performance criteria are:
+	- **Performance Event**: the project must bid at least 50% of its contracted capacity during an actual Lack of Reserve (LoR) 3 event.
+	- **Storage capacity**: the project must have a tested storage capacity of at least the CISA schedule capacity.
+	- **Availability**: the project must be available at least 90% during the support year.
 
 #CIS
