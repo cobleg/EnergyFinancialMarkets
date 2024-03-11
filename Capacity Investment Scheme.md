@@ -24,10 +24,11 @@ There are two defined products:
 - **Clean Dispatchable CISA** applies to a *clean dispatchable generator* (e.g. battery and pumped hydro) at a registered capacity for 2 or more hours. The contract term is 15 years. 
 - **Generation CISA** applies to generators (i.e. solar and wind power stations)
 
-Eligible facilities have the following properties:
+Eligible projects (i.e. facilities) have the following properties:
 - Registered or intended to be registered with the Australian Electricity Market Operator (AEMO) as a generator.
 - Are facilities that *do not* emit $CO_2$-e gases. 
-- Are commercially defined as defined in the section: [Capacity Investment Scheme#Key Commercial Terms](Capacity%20Investment%20Scheme.md)
+- Are commercially defined as defined in the section: [Key commercial terms](#Key%20commercial%20terms) 
+- Have a minimum capacity of at least
 # Payment mechanisms
 ## Generation CISA
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
@@ -67,5 +68,6 @@ The following are the defined commercial terms:
 	- **Performance Event**: the project must bid at least 50% of its contracted capacity during an actual Lack of Reserve (LoR) 3 event.
 	- **Storage capacity**: the project must have a tested storage capacity of at least the CISA schedule capacity.
 	- **Availability**: the project must be available at least 90% during the support year.
-
+# Discussion
+The intent of the CIS is to simulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]]. 
 #CIS
