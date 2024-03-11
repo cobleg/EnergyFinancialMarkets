@@ -47,8 +47,12 @@
             "id": "db8004ec61a8c39e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capacity Investment Scheme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Australian-carbon-credit-units.md",
+                "file": "Capacity Investment Scheme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
