@@ -26,7 +26,7 @@ There are two defined products:
 
 Eligible projects (i.e. facilities) have the following properties:
 - Registered or intended to be registered with the Australian Electricity Market Operator (AEMO) as a generator.
-- Are facilities that *do not* emit $CO_2$-e gases. That is the project has a fuel source that has not [[Scope 1 emissions]].
+- Are facilities that *do not* emit $CO_2$-e gases. That is the project has a fuel source that is not included in [[Scope 1 emissions]].
 - Are commercially defined as defined in the section: [Key commercial terms](#Key%20commercial%20terms) 
 - Have a minimum capacity of 30 MW
 - Can sustain continuous operation for a duration of at least 4 hours
@@ -98,3 +98,4 @@ One caveat is that the introduction could introduce a 'moral hazard' issue given
 
 
 #CIS
+#CISA 
