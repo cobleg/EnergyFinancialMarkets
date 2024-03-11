@@ -61,9 +61,9 @@ The following are the defined commercial terms:
 - **Performance pay requirements**: the Project Operator must:
 	- Operate the project following best industry practice, including maximising availability of the Project and revenues for the Project.
 	- Respond to price signals in the electricity market.
-For the Generation CISA, the performance criteria are:
+	For the Generation CISA, the performance criteria are:
 	- **Minimum dispatch**: Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
-For the Clean Dispatchable CISA, the performance criteria are:
+	For the Clean Dispatchable CISA, the performance criteria are:
 	- **Performance Event**: the project must bid at least 50% of its contracted capacity during an actual Lack of Reserve (LoR) 3 event.
 	- **Storage capacity**: the project must have a tested storage capacity of at least the CISA schedule capacity.
 	- **Availability**: the project must be available at least 90% during the support year.

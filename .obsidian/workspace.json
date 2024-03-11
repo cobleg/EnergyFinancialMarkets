@@ -47,8 +47,12 @@
             "id": "db8004ec61a8c39e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PPA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NEM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PPA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,14 +150,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b220c0dc1929f29",
+  "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
+    "Capacity Investment Scheme.md",
+    "PPA.md",
+    "Systems-thinking.md",
     "NEM.md",
     "National-Electricity-Market.md",
     "Australian-domestic-gas-market.md",
     "_Welcome.md",
     "inbox/National Electricity Market (NEM).md",
-    "Capacity Investment Scheme.md",
     "inbox/EPC and EPCM delivery models - Engineering, Procurement and Construction (EPC) Contracts in the power sector.md",
     "tolling agreements.md",
     "SPV.md",
@@ -179,8 +186,6 @@
     "inbox",
     "images/Generation CISA.png",
     "images",
-    "New folder",
-    "Australian-carbon-credit-units.md",
-    "Exercises.md"
+    "New folder"
   ]
 }
