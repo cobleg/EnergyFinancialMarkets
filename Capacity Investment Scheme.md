@@ -91,6 +91,10 @@ The underlying assumption is that all investment grade projects will be financed
 Taking this rather indirect approach contrasts with an alternative in which the Australian Government directly builds and owns its own facilities. The assumed benefits are:
 - Incurring less than 100% of the cost of each facility.
 - Avoidance of 'picking winners' in relation to choosing between specific projects.
-- 
+- Remaining technology agnostic by defining the properties of the desired operational outcomes (e.g. supply of clean, reliable power) rather than defining the technological inputs (e.g. wind, solar, battery storage, nuclear etc).
+- Does not interfere with (or crowd out) other investments in power infrastructure.
+
+One caveat is that the introduction could introduce a 'moral hazard' issue given that the scheme explicitly transfers the risk of revenue under-recovery to Australian taxpayers. The design of the scheme imposes a variety of constraints for known moral hazard issues, but may not prevent some yet-to-be discovered loophole from being exploited. 
+
 
 #CIS
