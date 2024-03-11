@@ -26,9 +26,17 @@ There are two defined products:
 
 Eligible projects (i.e. facilities) have the following properties:
 - Registered or intended to be registered with the Australian Electricity Market Operator (AEMO) as a generator.
-- Are facilities that *do not* emit $CO_2$-e gases. 
+- Are facilities that *do not* emit $CO_2$-e gases. That is the project has a fuel source that has not [[Scope 1 emissions]].
 - Are commercially defined as defined in the section: [Key commercial terms](#Key%20commercial%20terms) 
-- Have a minimum capacity of at least
+- Have a minimum capacity of 30 MW
+- For storage-only projects, the project is capable of charging only from the grid
+- The project can demonstrate that it contributes to system reliability (this excludes stand-alone wind or solar PV projects from being eligible for the CIS)
+- There is evidence of secure access to land, a planning pathway with relevant planning approvals, and a viable grid connection
+- The project has adopted established, proven technologies where delivery risk and the project's commissioning dates are reasonably assessable.
+
+Projects that already receive revenue support from either the Commonwealth, State or Territory Governments, that operate similarly to the CIS as a periodic or ongoing payment, will be ineligible for CIS tenders. However, the receipt of [large-scale-generation-certificates](large-scale-generation-certificates.md) (LGCs), [ARENA](https://arena.gov.au/about/) or [Clean Energy Finance Corporation](https://www.cefc.com.au/) grants will not affect eligibility.
+
+Source: [Federal Government's new $10 billion Capacity Investment Scheme](Federal%20Government's%20new%20$10%20billion%20Capacity%20Investment%20Scheme.md) 
 # Payment mechanisms
 ## Generation CISA
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
@@ -69,5 +77,8 @@ The following are the defined commercial terms:
 	- **Storage capacity**: the project must have a tested storage capacity of at least the CISA schedule capacity.
 	- **Availability**: the project must be available at least 90% during the support year.
 # Discussion
-The intent of the CIS is to simulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]]. 
+The intent of the CIS is to simulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]] in Australia.
+
+The scheme favors dispatchable or firm capacity. Also, there is a focus on 
+
 #CIS
