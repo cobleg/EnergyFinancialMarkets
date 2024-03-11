@@ -1,0 +1,3 @@
+> A Special Purpose Vehicle (**SPV**) is an entity set up by a parent company to undertake a specific project or business activity. SPVs can take many forms, such as trusts or partnerships, but are often structured as [subsidiary companies](https://legalvision.com.au/what-is-a-subsidiary-company/). When formed as a subsidiary company, an SPV operates as a separate entity from its parent company which can help shield the parent company from risk and attract investment opportunities.
+
+Source: 

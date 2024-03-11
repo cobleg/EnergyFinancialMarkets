@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capacity Investment Scheme.md",
+                "file": "SPV.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacity Investment Scheme.md",
+                "file": "SPV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,10 @@
   },
   "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
-    "inbox/About Us - AEMC.md",
     "Capacity Investment Scheme.md",
+    "SPV.md",
+    "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
+    "inbox/About Us - AEMC.md",
     "P90.md",
     "Australian-domestic-gas-market.md",
     "AEMC.md",
@@ -183,7 +185,6 @@
     "long-versus-short.md",
     "tolling agreements.md",
     "swap.md",
-    "Case-study.md",
-    "cashflow-at-risk.md"
+    "Case-study.md"
   ]
 }

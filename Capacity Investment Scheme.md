@@ -35,7 +35,9 @@ The Generation CISA will provide revenue underwriting for net revenue per MWh of
 
 Source: [Implementation Design Paper - Capacity Investment Scheme](Implementation%20Design%20Paper%20-%20Capacity%20Investment%20Scheme.md) 
 
-## Cle
+## Clean Dispatchable CISA
+The Clean Dispatch CISA is similar in design
+![Clean Dispatchable CISA revenue underwriting design instrument](Clean%20Dispatchable%20CISA%20revenue%20underwriting%20design%20instrument.png)
 # Key commercial terms
 The following are the defined commercial terms:
 - **Ownership structure**: A project must be owned by a [[SPV]] that has all the assets required to undertake the project. The [[SPV]] must  be:
