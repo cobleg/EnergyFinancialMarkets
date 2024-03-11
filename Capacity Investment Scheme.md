@@ -29,6 +29,7 @@ Eligible projects (i.e. facilities) have the following properties:
 - Are facilities that *do not* emit $CO_2$-e gases. That is the project has a fuel source that has not [[Scope 1 emissions]].
 - Are commercially defined as defined in the section: [Key commercial terms](#Key%20commercial%20terms) 
 - Have a minimum capacity of 30 MW
+- Can sustain continuous operation for a duration of at least 4 hours
 - For storage-only projects, the project is capable of charging only from the grid
 - The project can demonstrate that it contributes to system reliability (this excludes stand-alone wind or solar PV projects from being eligible for the CIS)
 - There is evidence of secure access to land, a planning pathway with relevant planning approvals, and a viable grid connection
@@ -36,7 +37,9 @@ Eligible projects (i.e. facilities) have the following properties:
 
 Projects that already receive revenue support from either the Commonwealth, State or Territory Governments, that operate similarly to the CIS as a periodic or ongoing payment, will be ineligible for CIS tenders. However, the receipt of [large-scale-generation-certificates](large-scale-generation-certificates.md) (LGCs), [ARENA](https://arena.gov.au/about/) or [Clean Energy Finance Corporation](https://www.cefc.com.au/) grants will not affect eligibility.
 
-Source: [Federal Government's new $10 billion Capacity Investment Scheme](Federal%20Government's%20new%20$10%20billion%20Capacity%20Investment%20Scheme.md) 
+Source: 
+[Federal Government's new $10 billion Capacity Investment Scheme](Federal%20Government's%20new%20$10%20billion%20Capacity%20Investment%20Scheme.md) 
+
 # Payment mechanisms
 ## Generation CISA
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
@@ -81,5 +84,6 @@ The intent of the CIS is to simulate additional investment in electricity supply
 
 The scheme favors dispatchable or firm capacity. Also, there is a focus on least-cost and there is an implied enhanced [contestability](https://www.investopedia.com/terms/c/contestablemarket.asp) between eligible projects via a competitive tender.
 
+The underlying [[swap]] structure is intended to reassign financial risk associated with operating the project (facility). The risk of revenue under-recovery is assumed by the Australian Government while the risk of revenue over-recovery is assumed by the [[SPV]] as Project Owner. The effect is to reduce the uncertainty of future revenue variability and thus enhance the financeability of the projects. 
 
 #CIS
