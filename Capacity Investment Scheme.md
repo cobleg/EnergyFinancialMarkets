@@ -82,8 +82,15 @@ The following are the defined commercial terms:
 # Discussion
 The intent of the CIS is to simulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]] in Australia.
 
-The scheme favors dispatchable or firm capacity. Also, there is a focus on least-cost and there is an implied enhanced [contestability](https://www.investopedia.com/terms/c/contestablemarket.asp) between eligible projects via a competitive tender.
+The scheme favors dispatchable or firm capacity. Also, there is a focus on least-cost procurement via an implied enhanced [contestability](https://www.investopedia.com/terms/c/contestablemarket.asp) between eligible projects via a competitive tender.
 
-The underlying [[swap]] structure is intended to reassign financial risk associated with operating the project (facility). The risk of revenue under-recovery is assumed by the Australian Government while the risk of revenue over-recovery is assumed by the [[SPV]] as Project Owner. The effect is to reduce the uncertainty of future revenue variability and thus enhance the financeability of the projects. 
+The underlying [[swap]] structure is intended to reassign financial risk associated with operating the project (facility). The risk of revenue under-recovery is assumed by the Australian Government while the risk of revenue over-recovery is assumed by the [[SPV]] as Project Owner. The effect is to reduce the uncertainty of future revenue variability and thus enhance the [[financeability]] of the projects. 
+
+The underlying assumption is that all investment grade projects will be financed, constructed and become operational at an earlier date than would otherwise occur. 
+
+Taking this rather indirect approach contrasts with an alternative in which the Australian Government directly builds and owns its own facilities. The assumed benefits are:
+- Incurring less than 100% of the cost of each facility.
+- Avoidance of 'picking winners' in relation to choosing between specific projects.
+- 
 
 #CIS
