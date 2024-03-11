@@ -27,7 +27,7 @@ There are two defined products:
 Eligible facilities have the following properties:
 - Registered or intended to be registered with the Australian Electricity Market Operator (AEMO) as a generator.
 - Are facilities that *do not* emit $CO_2$-e gases. 
-- 
+- Are commercially defined as defined in the section: [Capacity Investment Scheme#Key Commercial Terms](Capacity%20Investment%20Scheme.md)
 # Payment mechanisms
 ## Generation CISA
 The Generation CISA will provide revenue underwriting for net revenue per MWh of generation sent out by a facility. This contract structure is shown below:
