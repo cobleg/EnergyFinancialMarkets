@@ -37,8 +37,13 @@ Source: [Implementation Design Paper - Capacity Investment Scheme](Implementatio
 
 # Key commercial terms
 The following are the defined commercial terms:
-- Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
-- **Project characteristics** are required (e.g. nameplate capacity)
+- **Minimum dispatch**: Satisfy the performance pay requirement of being dispatched for at least 75% of [[P90]] operational demand each year).
+- **Project characteristics**: are required (e.g. nameplate capacity).
+- **Support term**: spans up to maximum of 15 years.
+- **Payment mechanism**: 
+	- Quarterly payments for the first three quarters of the financial year. An annual reconciliation payment (Annual Adjustment Payment) will be made, subject to an annual cap.
+	- Payments made according to the Project's revenue for each period, compared to its revenue floor and ceiling.
+	- The underwriting mechanism is based on a project's net revenue, which is the sum of all revenue for the project minus cos
 - 
 
 #CIS
