@@ -79,7 +79,7 @@ The following are the defined commercial terms:
 	- **Storage capacity**: the project must have a tested storage capacity of at least the CISA schedule capacity.
 	- **Availability**: the project must be available at least 90% during the support year.
 # Discussion
-The intent of the CIS is to simulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]] in Australia.
+The intent of the CIS is to stimulate additional investment in electricity supply infrastructure that will accelerate the [[Energy Transition]] in Australia.
 
 The scheme favors dispatchable or firm capacity. Also, there is a focus on least-cost procurement via an implied enhanced [contestability](https://www.investopedia.com/terms/c/contestablemarket.asp) between eligible projects via a competitive tender.
 
