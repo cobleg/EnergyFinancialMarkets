@@ -3,7 +3,7 @@
 
 [Implementation Design Paper - Capacity Investment Scheme](Implementation%20Design%20Paper%20-%20Capacity%20Investment%20Scheme.md) 
 # Objective
-The objective is to:
+The CIS objective is to:
 - Deliver an additional 32 GW of new capacity by 2030
 - Supporting electricity generation growth and reliability in Australia's rapidly changing electricity markets as aging thermal power stations exit.
 - Support the delivery of the Australian Government's 82% renewable electricity by 2030 target.
