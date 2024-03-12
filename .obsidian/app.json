@@ -3,5 +3,12 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachments",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
