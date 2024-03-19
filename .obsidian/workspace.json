@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
+                "file": "Capacity Investment Scheme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,11 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aea1c9ba0a6e16ae",
+  "active": "db8004ec61a8c39e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
     "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "Untitled.md",
-    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
     "Excalidraw",
     "Capacity Investment Scheme.md",
     "Energy Transition.md",

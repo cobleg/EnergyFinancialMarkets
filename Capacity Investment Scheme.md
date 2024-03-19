@@ -95,6 +95,14 @@ Taking this rather indirect approach contrasts with an alternative in which the 
 
 One caveat is that the introduction could introduce a 'moral hazard' issue given that the scheme explicitly transfers the risk of revenue under-recovery to Australian taxpayers. The design of the scheme imposes a variety of constraints for known moral hazard issues, but may not prevent some yet-to-be discovered loophole from being exploited. 
 
+### Impact of forward contracts on the spot price
+Forward sales of intermittent output is risky since failure to supply from an intermittent generator exposes the generator's owner to the wholesale spot market. This implies an incentive by the generator's owner to over-build capacity, thus skewing risk to intermittent over-supply relative to under-supply.
+
+Fluctuations in the over-supply of electricity would spill into the wholesale spot market. Depending on seasonal factors, availability of other generators, this could lead to a reduced spot price. In turn hollowing out the potential revenue for subsequent new capacity.
+
+The end result could be a more volatile spot price with windfall gains accruing to incumbent generators as the investment in new generation capacity is reduced. 
+
+The CIS potentially offers a way of offsetting this dynamic since it provides an additional source of revenue to prospective new generators. The net result could be reduced volatility and a lower expected spot price.
 
 #CIS
 #CISA 
