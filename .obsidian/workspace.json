@@ -66,12 +66,22 @@
             }
           },
           {
-            "id": "4901d0b2217e901a",
+            "id": "49286f68fc48c5db",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-27 11.48.43.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5cb70d83afc5d9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Offer Construction Guideline.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,12 +93,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md"
+                "file": "Excalidraw/Concept Map - Elements of Electricity System.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,12 +144,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 341.5
   },
   "right": {
     "id": "8da3827db69c838d",
@@ -155,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-03-27 11.48.43.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +192,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faabad49861fc373",
+  "active": "49286f68fc48c5db",
   "lastOpenFiles": [
-    "Capacity Investment Scheme.md",
-    "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
+    "Excalidraw/Concept Map - Elements of Electricity System.md",
+    "Excalidraw/Offer Construction Guideline.md",
     "Untitled.md",
+    "Excalidraw/Drawing 2024-03-27 11.48.43.excalidraw.md",
+    "inbox/Offer Construction Guideline.md",
+    "media/zotero/energymarketsdivisionOfferConstructionGuideline2023/image-19-x34-y196.png",
+    "media/zotero/energymarketsdivisionOfferConstructionGuideline2023",
+    "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
+    "Capacity Investment Scheme.md",
+    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "Excalidraw",
     "Energy Transition.md",
     "Scope 1 emissions.md",
@@ -211,9 +225,6 @@
     "inbox/Pros and Cons of a Special Purpose Vehicle - LegalVision.md",
     "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
     "inbox/About Us - AEMC.md",
-    "P90.md",
-    "AEMC.md",
-    "market-dynamics.md",
     "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
     "media/zotero/ImplementationDesignPaper",
     "media/zotero",
