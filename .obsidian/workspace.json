@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "faabad49861fc373",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "4901d0b2217e901a",
             "type": "leaf",
             "state": {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacity Investment Scheme.md",
+                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,13 +183,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db8004ec61a8c39e",
+  "active": "faabad49861fc373",
   "lastOpenFiles": [
+    "Capacity Investment Scheme.md",
+    "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
     "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
     "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "Untitled.md",
     "Excalidraw",
-    "Capacity Investment Scheme.md",
     "Energy Transition.md",
     "Scope 1 emissions.md",
     "inbox/The Safeguard Mechanism.md",
