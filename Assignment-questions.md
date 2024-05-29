@@ -1,15 +1,82 @@
 ## Short answer questions
+
+#### 1.1 Coal Plants in the NEM 
+
+The retirement of coal-fired power stations is one of the key fundamental changes in the NEM, historically and going forward.    
+
+1.1. Using AER data and [AEMO’s Generation Information](https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information) page, determine the number of coal-fired generators in the NEM, their respective capacity (MW), their size relative to the total generation capacity by year, and their announced closure dates. Present your findings in a chart or table. **(4 marks)**    
+[[Answer 1.1.1]] 
+1.2. Identify two main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plants? **(3 marks)** 
+[[Answer 1.1.2]] 
+
+Consider the following chart (source: [Figure 1 from AEMO’s Draft 2024 ISP](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2023/draft-2024-isp-consultation/draft-2024-isp.pdf)):
+![Chart from AEMOs Draft 2024 ISP](Chart%20from%20AEMOs%20Draft%202024%20ISP.png)
+Use this chart and some desktop research to answer the following questions: 
+3. Explain the two sets of changes from “Announced retirements (Draft 2022 ISP)” to “Announced retirements (Draft 2024 ISP)
+           (i)               the shift up, between 2029-30 and 2032-33. **(2 marks)**
+          (ii)             the shift down, between 2035-36 to 2047-48. **(2 marks)** 
+ [[Answer 1.1.3]] 
+ 
+ 4. ”Why is “Step Change” (line chart) so much lower than both “Announced retirements” series? (**2 marks)**
+ [[Answer 1.1.4]] 
+ 5. Why is “Green Energy Exports” even lower than “Step Change”? **(1 mark)**
+
+These dates are easier to see when viewed in the [2024 Draft ISP Excel file](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2023/draft-2024-isp-consultation/supporting-materials/draft-2024-isp-chart-data.xlsx)**.**
+ 
+#### 1.2 Market risk in the NEM (9 marks total)  
+
+Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a hedge portfolio consisting solely of 1,000 MW in flat swaps with an average strike price of $130/MWh for Q1 2025 (2,160 hrs). Spark Energy’s risk manager wishes to calculate the value-at-risk (VaR) associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
+
+1. Using prices for [**ASX-listed futures**](https://prolearn.mq.edu.au/mod/page/view.php?id=46635) available on ProLearn to determine the volatility parameter, determine the VaR ([value-at-risk](value-at-risk.md)) for the existing hedge portfolio. **(4 marks)** 
+[[Answer 1.2.1]] 
+2. Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(3 marks)**
+3. Name two ’at risk’ metrics that might be useful to Spark Energy’s risk manager in addition to VaR. What are their respective advantages? **(2 marks)**      
+
+#### 1.3 Price and volume risk faced by renewables (8 marks total)
+
+In February 2024, Neoen signed a 70MW flat swap with BHP, starting 01 July 2025. This swap will be defended by Neoen’s Goyder South Stage 1 wind farm (203MW) coupled with its Blyth battery storage facility (200MW, 2hr). This is reportedly the first renewables transaction where a non-generation following hedge has been used.
+
+1. Why would variable renewable energy projects be reluctant to sell flat swaps or flat caps? What about load-following contracts? **(3 marks)** 
+2. Consider the following hypothetical example: 03 July 2025 is an unexpectedly still day in the Goyder region of South Australia. Goyder South’s output is therefore 0MW. How would Neoen seek to defend its 70MW flat swap? What price and volume risks would it face in doing so? **(3 marks)** 
+3. Historically, battery storage projects have also been reluctant to sell firm swaps or caps. Why? **(2 marks)**
+
+#### 1.4 Setting portfolio limits for Diverse Energy  (9 marks total) 
+
+Ahead of the commissioning of AMBER1, Diverse recruited Ms Bec Sharp, an experienced risk manager in the Australian energy sector. Bec Sharp’s immediate role is to establish a governance framework and trading infrastructure for managing the market risk exposures of Diverse Energy and its AMBER1 generation portfolio.
+
+Bec Sharp is conscious that her budget for establishing trading infrastructure and placing human resources in risk and analytical roles is limited. Her experience with acquiring sophisticated energy risk systems is that they are expensive and have a long lead time before they can be successfully delivered into production. She is also aware that skilled human resources will be required to ensure that the inputs and risk parameters of these systems undergo calibration and recalibration.
+
+As a result, she has decided to propose N-1 volume limits as the methodology for AMBER1’s electricity trading portfolio limits.
+
+1. Using the limited data available to Bec, calculate an N-1 volume limit for Diverse Energy’s electricity hedging portfolio limit. **(3 marks)**
+2. Identify two reasons influencing Bec’s decision to select N-1 as her preferred initial approach. **(2 marks)   
+3. Identify one pro and one con of a N-1 vs. a N-2 volume limit. **(2 marks) 
+4. Identify two issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. **(2 marks)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ~~Short answer questions (old)
 #### 1.1 Coal plants in the NEM (6 Marks total)
 
-The retirement of coal-fired power stations will likely change electricity spot price outcomes in the NEM.     
+~~The retirement of coal-fired power stations will likely change electricity spot price outcomes in the NEM.     
 
-1.  Using credible reference material, establish the number of coal-fired generators in the NEM, noting announced closure dates, their respective capacity (MW), and their size relative to the total generation capacity by year. Present your findings in a chart or table. **(4 marks)**
+1.  ~~Using credible reference material, establish the number of coal-fired generators in the NEM, noting announced closure dates, their respective capacity (MW), and their size relative to the total generation capacity by year. Present your findings in a chart or table. **(4 marks)**
     #### References
       
     [@OpenNEMFacilitiesNEM]
     “OpenNEM Facilities: NEM.” n.d. Accessed November 12, 2022. [https://opennem.org.au](https://opennem.org.au).
 
-2.  What are the main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plant. **(2 marks)**
+2.  ~~What are the main factors determining the profitability of coal-fired generation? What impact will retirement of coal-fired generation have on the profitability of the remaining coal-fired generation plant. **(2 marks)**
 
 	 **Key points**
 	- New facility investment in renewable electricity generation is growing faster than retirement of old facilities
@@ -24,9 +91,9 @@ The retirement of coal-fired power stations will likely change electricity spot 
 [@edistristanFastErosionCoal2021] 
 Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
 	
-#### 1.2 Market risk in the NEM (9 marks total)  
+#### 1.2 ~~Market risk in the NEM (9 marks total)  
 
-Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a simple hedge portfolio of 1,000 MW in flat swaps with an average strike price of $60/MWh for the next 12 months (8,760hrs). Spark Energy’s risk manager wishes to calculate the VaR associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
+~~Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a simple hedge portfolio of 1,000 MW in flat swaps with an average strike price of $60/MWh for the next 12 months (8,760hrs). Spark Energy’s risk manager wishes to calculate the VaR associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
 
 1.  Using market research to establish realistic volatility parameters, determine a simple VaR for the existing hedge portfolio **(4 marks)**  
 	**Key points**
@@ -38,14 +105,14 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 		Face value of contracts (FV) = (1,500 MW - 1,000 MW) x $60/MWh (Price) X 12 months
 	
 
-2.  Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
+2.  ~~Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(2 marks)**
 	**Key points**
 	- Parallel shifts in the spot price reflect an instantaneous shift in the entire risk profile (measured by the average dispersion of the spot price). One advantage is the realistic reflection of an unplanned loss of a significant generation or load facility.
 	- Use of forward prices captures the market's risk bias, which may efficiently reflect all relevant information about future risk.
 	- Parallel shift in the forward curve would capture an instantaneous change in future risk profile. One advantage is the shift in the market's assessement of future risk.
 	- One disadvantage is that the parallel shift may not reflect an accurate measure of the change in credible (or likely) risk. The key is the magnitude of the shift - how is that determined?
 	- Another disadvantage is that the parallel shift might not be readily understood or accepted by senior management. This may require discussion and agreement for something that is an ad-hoc, one-off issue. 
-1.  What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
+1.  ~~What other ’at risk’ metrics might be useful to Spark Energy’s risk manager in addition to VaR and what are their advantages? **(3 marks)** 
 	**Key points**
 	- [Cash flow at risk](cashflow-at-risk.md), which focuses on the cashflow rather than the mark-to-market valuation. Cash is likely to be more important to Spark Energy.
 	- [Conditional VaR](https://www.investopedia.com/terms/c/conditional_value_at_risk.asp#:~:text=Conditional%20Value%20at%20Risk%20(CVaR)%2C%20also%20known%20as%20the,risk%20an%20investment%20portfolio%20has.) (aka Expected Tail Loss) which measures the expected loss in a tail risk event. This is helpful in providing insight into distress event management and provides a focus on proactive measurement. Also, likely to use obervable metrics to anticipate shifts or changing shape of the risk profile.
@@ -53,9 +120,9 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 	- [Beta](https://www.investopedia.com/terms/r/riskmeasures.asp#Beta), which measures the systematic risk of loss, which could be used to rank various assets used to manage risk.	- 
     
 
-#### 1.3 Spot price risk in the NEM (6 marks total)
+#### 1.3 ~~Spot price risk in the NEM (6 marks total)
 
-Five-minute settlement was introduced on 1 October 2021.  
+~~Five-minute settlement was introduced on 1 October 2021.  
 
 1.  Identify two of the anticipated benefits of the change. **(2 marks)**
  **Key points**
@@ -77,15 +144,15 @@ Five-minute settlement was introduced on 1 October 2021.  
 	**Notes**
 	- Five minute data not available until 1 October 2021. Need to use 30 minutes and aggregate the second data sample to 30 minutes.
 
-#### 1.4 Setting portfolio limits for Diverse Energy  (6 marks total) 
+#### 1.4 ~~Setting portfolio limits for Diverse Energy  (6 marks total) 
 
-Ahead of the commissioning of AMBER1, Diverse recruited Ms Bec Sharp, an experienced risk manager in the Australian energy sector. Bec Sharp’s immediate role is to establish a governance framework and trading infrastructure for managing the market risk exposures of Diverse Energy and its AMBER1 generation portfolio.
+~~Ahead of the commissioning of AMBER1, Diverse recruited Ms Bec Sharp, an experienced risk manager in the Australian energy sector. Bec Sharp’s immediate role is to establish a governance framework and trading infrastructure for managing the market risk exposures of Diverse Energy and its AMBER1 generation portfolio.
 
-Bec Sharp is conscious that her budget for establishing trading infrastructure and placing human resources in risk and analytical roles is limited. Her experience with acquiring sophisticated energy risk systems is that they are expensive and have a long lead time before they can be successfully delivered into production. She is also aware that skilled human resources will be required to ensure that the inputs and risk parameters of these systems undergo calibration and recalibration.
+~~Bec Sharp is conscious that her budget for establishing trading infrastructure and placing human resources in risk and analytical roles is limited. Her experience with acquiring sophisticated energy risk systems is that they are expensive and have a long lead time before they can be successfully delivered into production. She is also aware that skilled human resources will be required to ensure that the inputs and risk parameters of these systems undergo calibration and recalibration.
 
-As a result, she has decided to propose _N-1_ volume limits as the methodology for AMBER1’s electricity trading portfolio limits.
+~~As a result, she has decided to propose _N-1_ volume limits as the methodology for AMBER1’s electricity trading portfolio limits.
 
-1.  Using the limited data available to Bec, calculate and propose an _N-1_ volume limit for Diverse Energy’s electricity hedging portfolio limit. **(2 marks)** 
+1.  ~~Using the limited data available to Bec, calculate and propose an _N-1_ volume limit for Diverse Energy’s electricity hedging portfolio limit. **(2 marks)** 
 	**Notes**
 	- Diverse Energy case study is the course notes, Topic 2, Lesson 2.5
 	- Debt to equity ratio: 60:40
@@ -102,15 +169,15 @@ As a result, she has decided to propose _N-1_ volume limits as the methodology
 	- Maximum sent-out capacity = (1-0.04) x 0.95 x 750 MW x 1 hour = 684 MWh
 	- 
 	
-1.  Identify two reasons influencing Bec’s decision to select _N-1_ as her preferred initial approach. (2 marks)
+1.  ~~Identify two reasons influencing Bec’s decision to select _N-1_ as her preferred initial approach. (2 marks)
 	**Key points**
 	- N-1 is a simple risk management strategy to understand.
 	- If one unit fails, there is a spare unit to supply the required volume   
-1.  Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
+1.  ~~Identify the issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. (2 marks)
 	**Key points**
-	- There is a location risk assuming that all of the units are behind the same connection point. Still vulnerable to a loss of a transmission line. 
-	- Assuming each unit has 95% reliability in a standard year, continuous use of 3 units has a combined reliability of $0.95^{3} \approx 0.86$. This implies a unit will not be available for 14% of the year, which is the capacity factor of the fourth unit. There is an opportunity cost of 0.86 x  250 MW x 1 hour x 0.4 c.f. x $60/MWh =  $5,160 per hour when the unit is not being used. Over one year, that implies $5,160 per hour x 8760 hours x 0.95 = $42.9M per year.
-	- By contrast, employing four units would imply $0.95^4 \approx 0.81$ availability in a standard year. This implies that electricity would not be supplied by one of the units for 19% of a standard year. This implies an expected cost of 0.96 x 0.19 x 0.4 c.f. x $60/MWh x 250 MW x 1 hour = $1,094 per hour for 1,664.4 hours, which is approximately $1.8M per year. 
-	- There is an expected net cost of $42.9M - $1.8M = $41.1M per year of using the N-1 volume limit. 
-	- A more efficient strategy may be to buy insurance from another supplier that already has a spare unit. Also, at 40% to 50% capacity factor, it is likely that the other units could be ramped up to 83 MW each to cover the outage. 
-	- One caveat is that sourcing from the spot market during a unit outage would likely imply a price higher than $60/MWh since the reduced supply implies a higher spot price. This would reduce the net cost of the N-1 volume limit. 
+	- ~~There is a location risk assuming that all of the units are behind the same connection point. Still vulnerable to a loss of a transmission line. 
+	- ~~Assuming each unit has 95% reliability in a standard year, continuous use of 3 units has a combined reliability of $0.95^{3} \approx 0.86$. This implies a unit will not be available for 14% of the year, which is the capacity factor of the fourth unit. There is an opportunity cost of 0.86 x  250 MW x 1 hour x 0.4 c.f. x $60/MWh =  $5,160 per hour when the unit is not being used. Over one year, that implies $5,160 per hour x 8760 hours x 0.95 = $42.9M per year.
+	- ~~By contrast, employing four units would imply $0.95^4 \approx 0.81$ availability in a standard year. This implies that electricity would not be supplied by one of the units for 19% of a standard year. This implies an expected cost of 0.96 x 0.19 x 0.4 c.f. x $60/MWh x 250 MW x 1 hour = $1,094 per hour for 1,664.4 hours, which is approximately $1.8M per year. 
+	- ~~There is an expected net cost of $42.9M - $1.8M = $41.1M per year of using the N-1 volume limit. 
+	- ~~A more efficient strategy may be to buy insurance from another supplier that already has a spare unit. Also, at 40% to 50% capacity factor, it is likely that the other units could be ramped up to 83 MW each to cover the outage. 
+	- ~~One caveat is that sourcing from the spot market during a unit outage would likely imply a price higher than $60/MWh since the reduced supply implies a higher spot price. This would reduce the net cost of the N-1 volume limit.~~ 

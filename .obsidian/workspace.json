@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Australian-carbon-credit-units.md",
+                "file": "Assignment-questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,51 +54,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0f29f9f50700cfdc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "faabad49861fc373",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "49286f68fc48c5db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 11.48.43.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5cb70d83afc5d9be",
+            "id": "3f511f83dd3105a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Offer Construction Guideline.md",
+                "file": "value-at-risk.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "aea1c9ba0a6e16ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Concept Map - Elements of Electricity System.md"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 11.48.43.excalidraw.md",
+                "file": "value-at-risk.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,46 +167,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49286f68fc48c5db",
+  "active": "3f511f83dd3105a2",
   "lastOpenFiles": [
-    "Excalidraw/Concept Map - Elements of Electricity System.md",
+    "attachments/8A12A100",
+    "attachments/09D99100",
+    "attachments/0FFF7100",
+    "Answer 1.2.1.md",
+    "Assignment-questions.md",
+    "attachments/VAR.xlsx",
+    "attachments/804B6100",
+    "attachments/~$VAR.xlsx",
+    "Answer 1.1.3.md",
+    "Answer 1.1.2.md",
+    "Answer 1.1.1.md",
+    "Australian-carbon-credit-units.md",
+    "Answer 1.1.md",
+    "Excalidraw/Concept Map - Cost Categorisation.md",
+    "Excalidraw/Concept Map - Cost Categorisation.png",
+    "Answer 1.1.4.md",
+    "value-at-risk.md",
+    "market-dynamics.md",
+    "_Welcome.md",
+    "Australian-domestic-coal-market.md",
+    "coordination-failure.md",
+    "inbox/Aurora Energy Research analysis of AEMO’s ISP Part 2 - economics of coal closures.md",
+    "images/Announced closure dates for NEM coal gen.png",
+    "images/Relative size by year.png",
+    "images/NEM Generation capacity 2024.png",
+    "images/Coal generators.png",
+    "Exercises.md",
+    "reliability.md",
+    "Capacity Investment Scheme.md",
+    "inbox/Reliability - AEMC.md",
     "Excalidraw/Offer Construction Guideline.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-03-27 11.48.43.excalidraw.md",
-    "inbox/Offer Construction Guideline.md",
+    "Australian-domestic-gas-market.md",
+    "operational demand.md",
+    "System reliability.md",
+    "forward-contract.md",
+    "financial-risks.md",
+    "images/Chart from AEMOs Draft 2024 ISP.png",
+    "images/Chart from AEMOs Draft 2024 ISP.png.crdownload",
+    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "media/zotero/energymarketsdivisionOfferConstructionGuideline2023/image-19-x34-y196.png",
     "media/zotero/energymarketsdivisionOfferConstructionGuideline2023",
-    "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
-    "Capacity Investment Scheme.md",
-    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "Excalidraw",
-    "Energy Transition.md",
-    "Scope 1 emissions.md",
-    "inbox/The Safeguard Mechanism.md",
-    "financeability.md",
-    "inbox/Finance and financeability.md",
-    "inbox/Federal Government's new $10 billion Capacity Investment Scheme.md",
-    "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
-    "PPA.md",
-    "Systems-thinking.md",
-    "NEM.md",
-    "National-Electricity-Market.md",
-    "Australian-domestic-gas-market.md",
-    "_Welcome.md",
-    "inbox/National Electricity Market (NEM).md",
-    "inbox/EPC and EPCM delivery models - Engineering, Procurement and Construction (EPC) Contracts in the power sector.md",
-    "tolling agreements.md",
-    "SPV.md",
-    "inbox/Pros and Cons of a Special Purpose Vehicle - LegalVision.md",
     "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
-    "inbox/About Us - AEMC.md",
     "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
     "media/zotero/ImplementationDesignPaper",
-    "media/zotero",
-    "media",
-    "inbox",
-    "images/Generation CISA.png",
-    "images",
-    "New folder"
+    "media/zotero"
   ]
 }

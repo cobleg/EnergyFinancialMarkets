@@ -1,0 +1,1 @@
+The reliability of the electricity system is ensured by having adequate electricity supply capacity to meet the expected [[operational demand]].  
