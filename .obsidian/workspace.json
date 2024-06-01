@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment-questions.md",
+                "file": "Answer 1.1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "value-at-risk.md",
+                "file": "Answer 1.1.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f511f83dd3105a2",
+  "active": "604759615caa09a3",
   "lastOpenFiles": [
+    "Assignment-questions.md",
+    "attachments/~$Short Answer Q&A Term 3 2024.xlsx",
     "attachments/5D94C000",
     "attachments/Short Answer Q&A Term 3 2024.xlsx",
     "attachments/D05FB000",
-    "attachments/~$Short Answer Q&A Term 3 2024.xlsx",
     "attachments/8A12A100",
     "attachments/09D99100",
     "attachments/0FFF7100",
     "Answer 1.2.1.md",
-    "Assignment-questions.md",
     "attachments/VAR.xlsx",
     "attachments/804B6100",
     "attachments/~$VAR.xlsx",
@@ -210,7 +211,6 @@
     "forward-contract.md",
     "financial-risks.md",
     "images/Chart from AEMOs Draft 2024 ISP.png",
-    "images/Chart from AEMOs Draft 2024 ISP.png.crdownload",
     "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "media/zotero/energymarketsdivisionOfferConstructionGuideline2023/image-19-x34-y196.png",
     "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
