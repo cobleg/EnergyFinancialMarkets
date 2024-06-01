@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8315da7b13b04963",
+            "id": "604759615caa09a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Australian-carbon-credit-units.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9cf966b1f7dc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop-questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbd00f5baa84ec52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +56,29 @@
             }
           },
           {
-            "id": "fa66d0b6a7120ba6",
+            "id": "faabad49861fc373",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4901d0b2217e901a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment-questions.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "8da3827db69c838d",
@@ -110,8 +144,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment-questions.md",
-                "collapseAll": false,
+                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -138,46 +172,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fa66d0b6a7120ba6",
+  "active": "faabad49861fc373",
   "lastOpenFiles": [
-    "attachments/418A2500",
-    "attachments/~$Short Answer Q&A Term 3 2024.xlsx",
-    "value-at-risk.md",
-    "attachments/Short Answer Q&A Term 3 2024.xlsx",
-    "attachments/02809000",
-    "Assignment-questions.md",
-    "Case-study.md",
-    "inbox/3.5 Prediction intervals - Forecasting - Principles and Practice (2nd ed).md",
-    "swap.md",
-    "Untitled 2.md",
+    "Capacity Investment Scheme.md",
+    "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
     "Untitled.md",
-    "conflict-files-obsidian-git.md",
+    "Excalidraw",
+    "Energy Transition.md",
+    "Scope 1 emissions.md",
+    "inbox/The Safeguard Mechanism.md",
+    "financeability.md",
+    "inbox/Finance and financeability.md",
+    "inbox/Federal Government's new $10 billion Capacity Investment Scheme.md",
+    "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
+    "PPA.md",
+    "Systems-thinking.md",
+    "NEM.md",
+    "National-Electricity-Market.md",
+    "Australian-domestic-gas-market.md",
+    "_Welcome.md",
+    "inbox/National Electricity Market (NEM).md",
+    "inbox/EPC and EPCM delivery models - Engineering, Procurement and Construction (EPC) Contracts in the power sector.md",
+    "tolling agreements.md",
+    "SPV.md",
+    "inbox/Pros and Cons of a Special Purpose Vehicle - LegalVision.md",
+    "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
+    "inbox/About Us - AEMC.md",
+    "P90.md",
+    "AEMC.md",
+    "market-dynamics.md",
     "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
     "media/zotero/ImplementationDesignPaper",
     "media/zotero",
     "media",
-    "inbox/Pros and Cons of a Special Purpose Vehicle - LegalVision.md",
-    "inbox/The Safeguard Mechanism.md",
-    "inbox/Implementation Design Paper - Capacity Investment Scheme.md",
-    "inbox/National Electricity Market (NEM).md",
-    "inbox/Finance and financeability.md",
-    "inbox/Federal Government's new $10 billion Capacity Investment Scheme.md",
-    "inbox/EPC and EPCM delivery models - Engineering, Procurement and Construction (EPC) Contracts in the power sector.md",
-    "inbox/Capacity Investment Scheme - energy.gov.au.md",
-    "inbox/Assessing Australia’s Innovative Capacity in the 21st Century.md",
-    "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
-    "inbox/About Us - AEMC.md",
-    "inbox/A Review on the Degradation Implementation for the Operation of Battery Energy Storage Systems.md",
     "inbox",
     "images/Generation CISA.png",
-    "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
     "images",
-    "financeability.md",
-    "Scope 1 emissions.md",
-    "SPV.md",
-    "PPA.md",
-    "P90.md",
-    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
-    "Excalidraw"
+    "New folder"
   ]
 }

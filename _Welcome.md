@@ -40,7 +40,7 @@ Core issues are:
 2. Unbundling of services such as energy, inertia, frequency services. Fuel-based generators typically provide all three services simultaneously. By constrast, VRE systems only provide energy services. The implication being that both types of electricity generation technologies are needed, but that the combination implies a higher cost electricity system.
 3. VRE systems do not emit carbon dioxide equivalent emissions, nor any other pollutants such as nitrous oxide. By contrast, fuel-based electricity generators do emit these unwanted byproducts - with the exception of hydrogen-based electricity generators.
 
-These core issues are forcing a trade-off between  affordability and reliability. 
+These core issues are forcing a trade-off between  affordability and [[reliability]]. 
 
 ## Energy storage solutions
 Energy storage solutions are an obvious response to VRE, but this further makes achieving the twin goals of affordability and reliability more difficult. Energy storage solutions are typically expensive relative to the incremental cost of continuing fuel-based power systems.

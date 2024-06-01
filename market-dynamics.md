@@ -3,6 +3,6 @@
 
 Since [[markets-are-interconnected]], this can lead to the transmittance of pricing signals to other markets, adding to the complexity of inter-dependent market dynamics. 
 
-# Interdependencies between energy and environmental markets
+# Inter-dependencies between energy and environmental markets
 
 Australian energy market, such as the [[National-Electricity-Market]] are being influenced by the market dynamics in the [[Australian-carbon-markets]]. This interaction is also stimulating changing market dynamics in both the [[Australian-domestic-gas-market]] and the [[Australian-domestic-coal-market]]. 
