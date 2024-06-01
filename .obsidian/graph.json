@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "#CIS ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 107,
-  "scale": 0.25883865621816576,
+  "scale": 0.2588386562181654,
   "close": true
 }

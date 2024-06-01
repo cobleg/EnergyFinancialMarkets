@@ -1,6 +1,10 @@
 ---
-title: {{title}}
-authors: {{authorString}}
-year: {{year}}
+authors:
+  "{ authorString }": 
+year:
+  "{ year }": 
+"": 
+title:
+  "{ title }":
 ---
 {{abstract}}

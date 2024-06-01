@@ -5,8 +5,7 @@ The retirement of coal-fired power stations will likely change electricity spot 
 
 1.  Using credible reference material, establish the number of coal-fired generators in the NEM, noting announced closure dates, their respective capacity (MW), and their size relative to the total generation capacity by year. Present your findings in a chart or table. **(4 marks)**
     #### References
-   .
-    
+      
     [@OpenNEMFacilitiesNEM]
     “OpenNEM Facilities: NEM.” n.d. Accessed November 12, 2022. [https://opennem.org.au](https://opennem.org.au).
 
@@ -16,17 +15,29 @@ The retirement of coal-fired power stations will likely change electricity spot 
 	- New facility investment in renewable electricity generation is growing faster than retirement of old facilities
 	- Demand growth is slowing, in part due to distributed energy resources at load sites reducing grid-sourced electricity demand
 	- Resulting in increased competition when solar and wind energy is abundant.
-	- Coal fuelled generation facilities are not designed for intermittent use, resulting (or risking) increased fuel consumed for given electrical power output. 
+	- Coal fueled generation facilities are not designed for intermittent use, resulting (or risking) increased fuel consumed for given electrical power output. 
 	- Aging facility typically incur higher maintenance costs
-	- Increasing CO2-e would incur high LGC certificate obligations and LGC prices have been trending higher.
+	- Increasing $CO_2$-e would incur high LGC certificate obligations and LGC prices have been trending higher.
 	- Relatively high prices for coal internationally could squeeze domestic coal consumers on the buy side.
-	- Remaining coal fuelled generators could benefit from reduced competition from retiring coal fuelled generators. However, this would be impacted by the other factors listed above.
+	- Remaining coal fueled generators could benefit from reduced competition from retiring coal fueled generators. However, this would be impacted by the other factors listed above.
 	 **References**
-[@edistristanFastErosionCoal2021]
+[@edistristanFastErosionCoal2021] 
 Edis, Tristan, and Johanna Bowyer. 2021. “Fast Erosion of Coal Plant Profits in the National Electricity Market.” GreenMarkets.com.au. [http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf](http://greenmarkets.com.au/images/uploads/Coal-Plant-Profitability-Is-Eroding_February-2021.pdf).
 	
 #### 1.2 Market risk in the NEM (9 marks total)  
 
+##### Term 3 2024
+Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a hedge portfolio consisting solely of 1,000 MW in flat swaps with an average strike price of $130/MWh for Q1 2025 (2,160 hrs). Spark Energy’s risk manager wishes to calculate the value-at-risk (VaR) associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
+
+1. Using prices for [**ASX-listed futures**](https://prolearn.mq.edu.au/mod/page/view.php?id=46635) available on ProLearn to determine the volatility parameter, determine the VaR for the existing hedge portfolio. **(4 marks)** 
+    
+
+2. Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(3 marks)**
+    
+3. Name two ’at risk’ metrics that might be useful to Spark Energy’s risk manager in addition to VaR. What are their respective advantages? **(2 marks)**
+
+
+##### Term 2 2023
 Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has a simple hedge portfolio of 1,000 MW in flat swaps with an average strike price of $60/MWh for the next 12 months (8,760hrs). Spark Energy’s risk manager wishes to calculate the VaR associated with its hedge portfolio for a holding period equal to the time between risk committee meetings (one month).  
 
 1.  Using market research to establish realistic volatility parameters, determine a simple VaR for the existing hedge portfolio **(4 marks)**  

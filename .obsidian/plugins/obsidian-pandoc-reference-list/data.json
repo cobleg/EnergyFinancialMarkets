@@ -1,6 +1,21 @@
 {
   "pathToPandoc": "C:\\Program Files\\Pandoc\\pandoc.EXE",
   "tooltipDelay": 800,
-  "pathToBibliography": "C:\\Users\\User\\Google Drive\\Bibliography\\Bibliography1.bib",
-  "showCitekeyTooltips": true
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1709964568974
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "C:\\Bibliography\\MyLibrary.bib",
+  "showCitekeyTooltips": true,
+  "pullFromZotero": true,
+  "enableCiteKeyCompletion": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date-16th-edition.csl",
+  "cslStylePath": "C:\\Bibliography\\chicago-author-date-16th-edition.csl",
+  "hideLinks": true
 }

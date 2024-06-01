@@ -5,11 +5,11 @@
   "injectThemeCSS": false,
   "customCSSFile": null,
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "text",
+  "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": null,
   "extraArguments": "",
-  "exportFrom": "html"
+  "exportFrom": "md"
 }
