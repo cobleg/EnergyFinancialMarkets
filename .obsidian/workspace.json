@@ -4,22 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "fb1f40a8690c203f",
+        "id": "a7922a359fae3af4",
         "type": "tabs",
         "children": [
-          {
-            "id": "604759615caa09a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Australian-carbon-credit-units.md",
-                "file": "Answer 1.1.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "1f9cf966b1f7dc02",
             "type": "leaf",
@@ -33,7 +20,31 @@
             }
           },
           {
-            "id": "cbd00f5baa84ec52",
+            "id": "db8004ec61a8c39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capacity Investment Scheme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a07765e7a145ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "swap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c46e694bd154044",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,9 +54,16 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0f29f9f50700cfdc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "6201dbebd788d9be",
+            "id": "3f511f83dd3105a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,29 +75,55 @@
             }
           },
           {
-            "id": "faabad49861fc373",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4901d0b2217e901a",
+            "id": "cbd00f5baa84ec52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Answer 1.2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "065dd546565172db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer 1.2.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3ddb04e7ef5d4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditional VaR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3db27e1a08bd027f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "value-at-risk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,19 +162,18 @@
             }
           },
           {
-            "id": "d41383f027c5458d",
+            "id": "142cb47fc385452e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 341.5
   },
   "right": {
     "id": "8da3827db69c838d",
@@ -146,14 +189,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answer 1.1.1.md",
+                "file": "Conditional VaR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -161,23 +204,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "604759615caa09a3",
-  "active": "faabad49861fc373",
+  "active": "f3ddb04e7ef5d4bd",
   "lastOpenFiles": [
+    "value-at-risk.md",
+    "Conditional VaR.md",
+    "Answer 1.2.3.md",
     "Assignment-questions.md",
+    "Answer 1.2.2.md",
+    "attachments/B6788600",
+    "Answer 1.2.1.md",
+    "attachments/BC2B3600",
+    "swap.md",
+    "Workshop-questions.md",
+    "Answer 1.1.1.md",
+    "images/BQH2025 histogram.png",
+    "images/BQH2025 sample data.png",
     "attachments/~$Short Answer Q&A Term 3 2024.xlsx",
     "attachments/5D94C000",
     "attachments/Short Answer Q&A Term 3 2024.xlsx",
@@ -185,19 +239,14 @@
     "attachments/8A12A100",
     "attachments/09D99100",
     "attachments/0FFF7100",
-    "Answer 1.2.1.md",
     "attachments/VAR.xlsx",
-    "attachments/804B6100",
-    "attachments/~$VAR.xlsx",
     "Answer 1.1.3.md",
     "Answer 1.1.2.md",
-    "Answer 1.1.1.md",
     "Australian-carbon-credit-units.md",
     "Answer 1.1.md",
     "Excalidraw/Concept Map - Cost Categorisation.md",
     "Excalidraw/Concept Map - Cost Categorisation.png",
     "Answer 1.1.4.md",
-    "value-at-risk.md",
     "market-dynamics.md",
     "_Welcome.md",
     "Australian-domestic-coal-market.md",
@@ -210,49 +259,11 @@
     "Exercises.md",
     "reliability.md",
     "Capacity Investment Scheme.md",
-    "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.md",
     "inbox/Reliability - AEMC.md",
     "Excalidraw/Offer Construction Guideline.md",
     "Australian-domestic-gas-market.md",
-    "operational demand.md",
-    "System reliability.md",
-    "forward-contract.md",
-    "financial-risks.md",
     "images/Chart from AEMOs Draft 2024 ISP.png",
     "Excalidraw/Drawing 2024-03-15 15.23.56.excalidraw.png",
-    "Untitled.md",
-    "Excalidraw",
-    "Energy Transition.md",
-    "Scope 1 emissions.md",
-    "inbox/The Safeguard Mechanism.md",
-    "financeability.md",
-    "inbox/Finance and financeability.md",
-    "inbox/Federal Government's new $10 billion Capacity Investment Scheme.md",
-    "inbox/A Short Guide to Power Purchase Agreements (PPA) in Australia.md",
-    "PPA.md",
-    "Systems-thinking.md",
-    "NEM.md",
-    "National-Electricity-Market.md",
-    "Australian-domestic-gas-market.md",
-    "_Welcome.md",
-    "inbox/National Electricity Market (NEM).md",
-    "inbox/EPC and EPCM delivery models - Engineering, Procurement and Construction (EPC) Contracts in the power sector.md",
-    "tolling agreements.md",
-    "SPV.md",
-    "inbox/Pros and Cons of a Special Purpose Vehicle - LegalVision.md",
-    "images/Clean Dispatchable CISA revenue underwriting design instrument.png",
-    "inbox/About Us - AEMC.md",
-    "P90.md",
-    "AEMC.md",
-    "market-dynamics.md",
-    "media/zotero/ImplementationDesignPaper/image-6-x56-y511.png",
-    "media/zotero/ImplementationDesignPaper",
-    "media/zotero",
-    "media",
-    "inbox",
-    "images/Generation CISA.png",
-    "images",
-    "New folder"
+    "media/zotero/energymarketsdivisionOfferConstructionGuideline2023/image-19-x34-y196.png"
   ]
 }
