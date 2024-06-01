@@ -11,27 +11,17 @@ Another key disadvantage is that it applies only to market-based risks and is us
 
 However, the benefit of VaR can be carried over to non-market applications such as [[cashflow-at-risk]] and [[gross-margin-at-risk]] metrics.
 
-# Key steps in VaR calculations  
-Consider the following:  
-- Identify the random variable; this is typically a price series such as closing day prices for the underlying commodity being traded.  
-- Obtain the price series; it is usual to obtain the longest series possible. Typically this is a full trading year.  
-- Determine the trading interval (e.g. hourly, daily etc) and the number of trading intervals over a full year.  
-- Calculate the percent change of prices (or the logarithmic ratio) over the trading interval. The result is an array of returns in percent.  
-- Obtain a histogram of the returns.  
-- Determine the expected range of normal variation. Note the truncation points on either side of the histogram that indicate the extent of normal variation. The excluded tails of the histogram indicate the unlikely region. The truncation points are referred to as the risk cut-off parameters.  
-- Determine which tails represent financial loss. This is typically one of the tails of the distribution.  
-- Identify the holding period in which owning the asset will incur risk of loss.  
-- Consider how the random variable changes over time. For a stable distribution or returns, a probability cone (or predication interval) can be calculated. The key question is how far and how fast can returns move over time. See this reference for guidance: 
 # Calculating VaR
 VaR is calculated via this procedure:
 1. Define the holding period ($h$), e.g. 1 month or 1 year
 2. Create a probability density function (can be a simple histogram of historical returns or asset prices) to get a volatility estimate $\sigma$ 
-3. Use the volatility estimate and the chosen probability density function to determine the confidence interval $z$. Determine the downside cut-off probability as a quantile (e.g. 1 % or 5%). For the normal distribution, the 95% confidence interval is $z=1.645$. For non-normal distributions, it is usual to conduct a [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method) to estimate the probability density function.
+3. Use the volatility estimate and the chosen probability density function to determine the confidence interval (or distance) $z$. Determine the downside cut-off probability as a quantile (e.g. 1 % or 5%). For the normal distribution, the 95% confidence interval is $z=1.645$. For non-normal distributions, it is usual to conduct a [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method) to estimate the probability density function.
 4. Calculate the holding period volatility ($HPV$) = $\sqrt{h/T} \times \sigma$ where $T$ is the total number of time intervals over a standard period, typically one year.
 5. Multiply the face value of contracts ($FV$) that embody the adverse risk by the $HPV$ and $z$. That is, $VaR=FV \times HPV \times z$. In words, this calculation determines the change in value of an at-risk-asset given a credible worst case scenario. 
 
 
 # Worked examples
+
 ## Worked example - estimating
 In estimation, we make simplifying assumptions:
 1. The variation is random which is captured by the [Normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp).
