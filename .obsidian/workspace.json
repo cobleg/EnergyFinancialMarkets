@@ -59,9 +59,11 @@
             "id": "faabad49861fc373",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md"
+                "file": "Assignment-questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -69,12 +71,8 @@
             "id": "4901d0b2217e901a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-27 09.11.10.excalidraw.md",
+                "file": "Assignment-questions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
