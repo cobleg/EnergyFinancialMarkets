@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "af4e15cba60093fa",
+            "id": "f18595b396d9ba56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OTC.md",
+                "file": "Assignment-questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,6 +42,25 @@
                 "source": false
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d64e2ae730fe3d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af4e15cba60093fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer 1.3.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "0e84e32b3515b172",
@@ -49,14 +68,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment-questions.md",
+                "file": "Answer 1.4.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eaebc59e5ce588e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer 1.4.4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d0b97ded76b9d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer 1.4.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe4a53b293ddd19c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer 1.4.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c72f36114a7aa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N-1 volume limits.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9a31c2ea0cc443c6",
@@ -122,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OTC.md",
+                "file": "Assignment-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,27 +217,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af4e15cba60093fa",
+  "active": "f18595b396d9ba56",
   "lastOpenFiles": [
-    "Answer 1.3.2.md",
-    "OTC.md",
-    "ASX.md",
-    "inbox/ASX - About us.md",
-    "ASX electricity derivatives.md",
-    "inbox/Australian Electricity Futures and Options - Contract Specifications.md",
+    "Answer 1.2.2.md",
     "Assignment-questions.md",
+    "Answer 1.3.3.md",
+    "Answer 1.4.1.md",
+    "Answer 1.4.4.md",
+    "Answer 1.4.2.md",
+    "Answer 1.4.3.md",
+    "N-1 volume limits.md",
+    "ASX.md",
+    "inbox/Power system security concepts and principles – Strengthening Power System Security in Kyrgyzstan - A Roadmap – Analysis.md",
+    "FCAS.md",
+    "inbox/Let’s talk about FCAS.md",
     "Answer 1.3.1.md",
+    "Answer 1.3.2.md",
+    "cap.md",
+    "ASX electricity derivatives.md",
+    "OTC.md",
+    "inbox/OTC Markets and Securities - Charles Schwab.md",
+    "inbox/ASX - About us.md",
+    "inbox/Australian Electricity Futures and Options - Contract Specifications.md",
     "square root of time.md",
     "volatility.md",
     "inbox/Volatility (finance).md",
     "inbox/Square Root of Time Rule.md",
     "Conditional VaR.md",
-    "inbox/Conditional Value at Risk (CVaR) – MATLAB and Simulink.md",
-    "Answer 1.2.3.md",
-    "Answer 1.2.2.md",
-    "gross-margin-at-risk.md",
-    "cashflow-at-risk.md",
-    "value-at-risk.md",
-    "Answer 1.2.1.md"
+    "inbox/Conditional Value at Risk (CVaR) – MATLAB and Simulink.md"
   ]
 }

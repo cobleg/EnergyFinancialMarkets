@@ -49,14 +49,18 @@ Ahead of the commissioning of AMBER1, Diverse recruited Ms Bec Sharp, an experie
 
 Bec Sharp is conscious that her budget for establishing trading infrastructure and placing human resources in risk and analytical roles is limited. Her experience with acquiring sophisticated energy risk systems is that they are expensive and have a long lead time before they can be successfully delivered into production. She is also aware that skilled human resources will be required to ensure that the inputs and risk parameters of these systems undergo calibration and recalibration.
 
-As a result, she has decided to propose N-1 volume limits as the methodology for AMBER1’s electricity trading portfolio limits.
+As a result, she has decided to propose [[N-1 volume limits]] as the methodology for AMBER1’s electricity trading portfolio limits.
 
 1. Using the limited data available to Bec, calculate an N-1 volume limit for Diverse Energy’s electricity hedging portfolio limit. **(3 marks)**
-2. Identify two reasons influencing Bec’s decision to select N-1 as her preferred initial approach. **(2 marks)   
-3. Identify one pro and one con of a N-1 vs. a N-2 volume limit. **(2 marks) 
+[[Answer 1.4.1]] 
+2. Identify two reasons influencing Bec’s decision to select N-1 as her preferred initial approach. **(2 marks)**   
+[[Answer 1.4.2]] 
+3. Identify one pro and one con of a N-1 vs. a N-2 volume limit. **(2 marks)**
+[[Answer 1.4.3]]
 4. Identify two issues with volume limit use, with specific reference to the business plan and market risks of Diverse Energy. **(2 marks)**
+[[Answer 1.4.4]] 
 
-
+## Case study questions
 
 
 
