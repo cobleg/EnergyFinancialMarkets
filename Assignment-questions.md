@@ -30,8 +30,9 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 1. Using prices for [**ASX-listed futures**](https://prolearn.mq.edu.au/mod/page/view.php?id=46635) available on ProLearn to determine the volatility parameter, determine the VaR ([value-at-risk](value-at-risk.md)) for the existing hedge portfolio. **(4 marks)** 
 [[Answer 1.2.1]] 
 2. Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(3 marks)**
+[[Answer 1.2.2]] 
 3. Name two ’at risk’ metrics that might be useful to Spark Energy’s risk manager in addition to VaR. What are their respective advantages? **(2 marks)**      
-
+[[Answer 1.2.3]] 
 #### 1.3 Price and volume risk faced by renewables (8 marks total)
 
 In February 2024, Neoen signed a 70MW flat swap with BHP, starting 01 July 2025. This swap will be defended by Neoen’s Goyder South Stage 1 wind farm (203MW) coupled with its Blyth battery storage facility (200MW, 2hr). This is reportedly the first renewables transaction where a non-generation following hedge has been used.
