@@ -1,0 +1,4 @@
+Issues defending the 70 MW swap on a windless day:
+- defending a 70 MW swap requires hedging on price and volume. The hedging could be financial or physical. Financial hedges could include futures and options. These can be traded via [[OTC]] markets or via the [[ASX]]. 
+- The NEM dispatches in merit order with generators dispatched in ascending order of cost. Given this, a windless day implies a reduction in low marginal cost generation capacity, which implies an higher cost of electricity generation. 
+- The volume risk is $70 \text{ MW} \times Q_t \text{ h}$ where price and $h$ is the number of hours. The price risk is the wholesale spot price during the outage. 

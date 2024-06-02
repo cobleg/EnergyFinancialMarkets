@@ -12,7 +12,7 @@ The resulting returns histogram is as shown in the chart:
 
 The sample mean settle price is $110.93 / MWh. 
 
-The standard deviation summary statistics for the returns are $\mu = -0.03\%$, $\sigma = 1.37\%$. The VaR cut-off (lower) is $\mu + \sigma z = 0 - 1.4\% \times 1.645 = -2.28\%$. The upper cut-off statistic is $2.23\%$. 
+The standard deviation summary statistics for the returns are $\mu = -0.03\%$, $\sigma = 1.37\%$. The VaR cut-off (lower) is $\mu + \sigma z = 0 - 1.37\% \times 1.645 = -2.28\%$. The upper cut-off statistic is $2.23\%$. 
 
 The holding period is 30 days, so the cut-off statistic needs to be scaled to monthly. This requires multiplying by the square root 30 days. This is $-2.28\% \times \sqrt{30} = -7.54\%$; $2.23 \% \times \sqrt{30} = 7.48\%$.
 

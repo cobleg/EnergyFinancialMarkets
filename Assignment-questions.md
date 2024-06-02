@@ -31,16 +31,18 @@ Spark Energy has 1,500 MW of coal and gas-powered generation in QLD. It also has
 [[Answer 1.2.1]] 
 2. Spark Energy’s risk manager does not feel that VaR gives the full picture of Spark Energy’s exposure to electricity price risk. The risk manager is considering using simple sensitivity analysis with parallel shifts in electricity spot and forward prices. What advantages and disadvantages does this sensitivity analysis have relative to the previous VaR analysis? **(3 marks)**
 [[Answer 1.2.2]] 
-3. Name two ’at risk’ metrics that might be useful to Spark Energy’s risk manager in addition to VaR. What are their respective advantages? **(2 marks)**      
+3. Name two ’at risk’ metrics that might be useful to Spark Energy’s risk manager in addition to VaR.  What are their respective advantages? **(2 marks)**      
 [[Answer 1.2.3]] 
 #### 1.3 Price and volume risk faced by renewables (8 marks total)
 
 In February 2024, Neoen signed a 70MW flat swap with BHP, starting 01 July 2025. This swap will be defended by Neoen’s Goyder South Stage 1 wind farm (203MW) coupled with its Blyth battery storage facility (200MW, 2hr). This is reportedly the first renewables transaction where a non-generation following hedge has been used.
 
 1. Why would variable renewable energy projects be reluctant to sell flat swaps or flat caps? What about load-following contracts? **(3 marks)** 
+[[Answer 1.3.1]]
 2. Consider the following hypothetical example: 03 July 2025 is an unexpectedly still day in the Goyder region of South Australia. Goyder South’s output is therefore 0MW. How would Neoen seek to defend its 70MW flat swap? What price and volume risks would it face in doing so? **(3 marks)** 
+[[Answer 1.3.2]]
 3. Historically, battery storage projects have also been reluctant to sell firm swaps or caps. Why? **(2 marks)**
-
+[[Answer 1.3.3]]
 #### 1.4 Setting portfolio limits for Diverse Energy  (9 marks total) 
 
 Ahead of the commissioning of AMBER1, Diverse recruited Ms Bec Sharp, an experienced risk manager in the Australian energy sector. Bec Sharp’s immediate role is to establish a governance framework and trading infrastructure for managing the market risk exposures of Diverse Energy and its AMBER1 generation portfolio.
