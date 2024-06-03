@@ -61,7 +61,99 @@ As a result, she has decided to propose [[N-1 volume limits]] as the methodology
 [[Answer 1.4.4]] 
 
 ## Case study questions
+#### Part One (Total: 25 marks)
 
+##### 1.1 Trading Principles  (10 marks) 
+
+You have recently been appointed the trading manager for a private company called Mcap Pty Ltd, which is the owner and operator of a brown coal-fired power station with three 250 MW generation units in Victoria. Given its inflexibility, it has only sold flat swaps, 750MW in total for CY2024, at a strike price of $90/MWh. As trading manager, you are responsible for the development and implementation of spot and hedge strategies for the Mcap electricity portfolio.  
+
+1. During a given five-minute dispatch interval on 01 September 2024, the spot price spikes to $16,600/MWh, with the plant continuing to operate all three units at its maximum output. Calculate and explain the financial impact of this price spike on Mcap's spot market and contract position individually and collectively. **(6 marks)**    
+[[Answer Case Study Part 1 Q1.1.1.]]  
+    
+2. In another dispatch interval, the spot price again spiked to $16,600/MWh due to hot weather-induced increase in demand. This hot weather also resulted in an outage on one of Mcap's units. How (if at all) does your answer to Question 1 change given this? **(4 marks)**  
+[[Answer Case Study Part 1 Q1.1.2.]] 
+
+1.2  Analysing risks faced in the NEM (6 marks)    
+
+Mike is managing the energy trading team at Green Energy, a new-entrant innovative retailer with stated green credentials. Green Energy has retail customers on load-following contracts, with total expected load of 100GWh over CY2024. It has also just bought a PPA with a large wind farm that is expected to generate 100GWh over CY2024. As the PPA volume equals the expected load volume, Mike’s energy trading team is asking him if this means Green Energy is perfectly hedged for CY2024.
+
+1. Assuming its customers’ loads are around-the-clock, what risks does Green Energy face under its PPA? **(2 marks)**   
+[[Answer Case Study Part 1 Q1.2.1.]]  
+    
+2. Green Energy needs to measure, manage and limit its risk exposures. Identify two (2) limits and reporting tools that are available for the management of the following risks: 
+	1. Market-based risks **(2 marks)**
+	2. Credit-based risks. **(2 marks)** 
+[[Answer Case Study Part 1 Q1.2.2.]]
+##### 1.3  Using electricity derivatives to manage risk (9 marks)  
+
+ABC Energy is an electricity retailer. ABC Energy has an efficient transfer pricing process that helps ensure all offers made to prospective retail customers are based upon the current wholesale market electricity forward curve. Johnnie, ABC Energy’s retail customer sales manager, has just informed their senior trader, Susan, that he has offered his favourite customer a two-year load-following retail contract based on today’s transfer price plus a 5% retail margin. However, Johnnie points out that the client’s board does not meet for another month and he will therefore not know whether they have accepted his binding offer until then. 
+
+Susan immediately identifies some risks and starts to consider what wholesale market strategy will best mitigate them. 
+
+1. Explain briefly the nature of the main risk the sales manager’s actions have created and identify the best financial product/transaction for hedging that risk. **(3 marks)**    
+[[Answer Case Study Part 1 Q1.3.1.]]  
+    
+2. Explain the methodology you would use to calculate the price of this product and the key factors impacting its price. **(3 marks)**   
+ [[Answer Case Study Part 1 Q1.3.2.]]   
+3. Identify what residual risks remain for ABC Energy even after the proposed hedge strategy is undertaken. **(3 marks)**   
+[[Answer Case Study Part 1 Q1.3.3.]] 
+### Part two (Total: 25 marks)  
+
+##### 2.1 LGC market (10 marks )  
+
+Consider this diagram from Lesson 3.1:  
+
+![LGC forward prices](LGC%20forward%20prices.png)
+
+Using the [Quarterly Carbon Market Report December Quarter 2023 - Clean Energy Regulator](Quarterly%20Carbon%20Market%20Report%20December%20Quarter%202023%20-%20Clean%20Energy%20Regulator.md) and your other desktop research, answer the following questions: 
+
+1. Why is the above LGC forward curve in [[backwardation]]? Discuss both demand and supply factors **(2 marks)**
+[[Answer Case Study Part 2 Q2.1.1.]] 
+2. What demand and supply factors led to the fluctuation in spot LGC prices over the year to September 2023? **(3 marks)**
+[[Answer Case Study Part 2 Q2.1.2.]] 
+3. Why are forward LGC prices above zero if the LRET has already been achieved (i.e., if regulatory demand is already satisfied)? **(3 marks)**
+[[Answer Case Study Part 2 Q2.1.3.]] 
+4. You are an arbitrageur with an existing zero position in LGCs. You consider Cal26 forwards to be under-priced relative to Cal24 forwards. Explain a simple arbitrage trading strategy to profit from this **(2 marks)** 
+
+_Try to be as specific as you can in answering i.e., don’t just say “LGC demand increased or LGC supply decreased” etc.  Instead, talk about the underlying market drivers (e.g., WHY did LGC demand increase?)_
+
+2.2 Australia's East Coast gas market (10 marks)    
+
+Consider the following diagram from Lesson 3.2:
+
+![Diagram from Lesson 3.2](Diagram%20from%20Lesson%203.2.png)
+
+Utilising the above diagram and some desktop research (e.g., [ACCC’s Gas Inquiry reports](https://www.accc.gov.au/about-us/publications/serial-publications/gas-inquiry-2017-30-reports)), answer the following questions:
+
+1. Why did domestic gas prices decouple from ACCC netback prices between October 2021 and May 2022? **(2 marks)**
+
+2. Why did domestic gas prices decouple from netback prices between August 2022 and March 2023? **(2 marks)**
+
+3. Why have netback prices fallen since October 2022 (hint: consider global factors)? **(2 marks)**
+
+4. Is the ACCC netback forward curve (as shown [here](https://www.accc.gov.au/inquiries-and-consultations/gas-inquiry-2017-30/lng-netback-price-series)) in contango or backwardation? Why? **(2 marks)**
+
+5. As noted in Lesson 3.2, the Australian Government’s $12/GJ price cap does not apply to the DWGM or the GSH. But, as per the above graph, why have prices in these markets trended down to $12 or lower? **(2 marks)**
+
+##### 2.3 Australia's East Coast gas derivates market (5 marks) 
+
+This question requires you to determine the market liquidity of physically- and cash-settled gas derivatives over CY2021 and CY2022. Utilise the following sources to calculate the liquidity ratio for East Coast (excl. Northern Territory) gas derivatives:  
+  
+
+1. [Data provided on ProLearn](https://prolearn.mq.edu.au/mod/page/view.php?id=46635) on ASX-listed gas derivatives.  
+      
+    
+2. Sections 2.2 – 2.3 from [ACCC Gas Inquiry Dec 2023 report](https://www.accc.gov.au/system/files/Gas%20Inquiry%202017-2030%20-%20December%202023_0.pdf), for data on physically-settled gas derivatives.  
+      
+    
+3. Data on domestic gas production from [AER State of the Energy Market 2023](https://www.aer.gov.au/system/files/2023-10/State%20of%20the%20energy%20market%202023%20-%20Full%20report_1.pdf).
+
+**Using these sources:**
+
+  
+
+- Calculate and tabulate the liquidity ratio, calculating the ratio separately for ASX-listed derivatives vs. physically-settled derivatives. Is the liquidity ratio higher for ASX-listed or physically-settled derivatives?
+- Explain any changes in this ratio from CY2021 to CY2022.
 
 
 

@@ -1,0 +1,1 @@
+The LGC forward curve is said to be in backwardation because the spot price is greater than the futures prices.

@@ -1,1 +1,1 @@
-The storage duration in battery storage projects have been short. Selling firm swaps or caps would require keeping the energy stored in case of being exercised. This would come at a high opportunity cost given the high premiums being received in the [[FCAS]] market. 
+The storage duration in battery storage projects have been short (i.e. only a few hours). Selling firm swaps or caps would require  keeping the energy stored in case of being exercised. This would come at a high opportunity cost given the high premiums being received in the [[FCAS]] market. 
