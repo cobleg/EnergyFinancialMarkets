@@ -1,0 +1,1 @@
+A simple arbitrage trading strategy would be to sell Cal24 and buy Cal26 contracts.

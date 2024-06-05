@@ -10,7 +10,7 @@ The retirement of coal-fired power stations is one of the key fundamental change
 [[Answer 1.1.2]] 
 
 Consider the following chart (source: [Figure 1 from AEMO’s Draft 2024 ISP](https://aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2023/draft-2024-isp-consultation/draft-2024-isp.pdf)):
-![Chart from AEMOs Draft 2024 ISP](Chart%20from%20AEMOs%20Draft%202024%20ISP.png)
+![AEMO generation capacity by year -  Draft ISP 2023](AEMO%20generation%20capacity%20by%20year%20-%20%20Draft%20ISP%202023.png)
 Use this chart and some desktop research to answer the following questions: 
 3. Explain the two sets of changes from “Announced retirements (Draft 2022 ISP)” to “Announced retirements (Draft 2024 ISP)
            (i)               the shift up, between 2029-30 and 2032-33. **(2 marks)**
@@ -114,10 +114,10 @@ Using the [Quarterly Carbon Market Report December Quarter 2023 - Clean Energy R
 3. Why are forward LGC prices above zero if the LRET has already been achieved (i.e., if regulatory demand is already satisfied)? **(3 marks)**
 [[Answer Case Study Part 2 Q2.1.3.]] 
 4. You are an arbitrageur with an existing zero position in LGCs. You consider Cal26 forwards to be under-priced relative to Cal24 forwards. Explain a simple arbitrage trading strategy to profit from this **(2 marks)** 
-
+[[Answer Case Study Part 2 Q2.1.4.]] 
 _Try to be as specific as you can in answering i.e., don’t just say “LGC demand increased or LGC supply decreased” etc.  Instead, talk about the underlying market drivers (e.g., WHY did LGC demand increase?)_
 
-2.2 Australia's East Coast gas market (10 marks)    
+##### 2.2 Australia's East Coast gas market (10 marks)    
 
 Consider the following diagram from Lesson 3.2:
 
@@ -126,7 +126,7 @@ Consider the following diagram from Lesson 3.2:
 Utilising the above diagram and some desktop research (e.g., [ACCC’s Gas Inquiry reports](https://www.accc.gov.au/about-us/publications/serial-publications/gas-inquiry-2017-30-reports)), answer the following questions:
 
 1. Why did domestic gas prices decouple from ACCC netback prices between October 2021 and May 2022? **(2 marks)**
-
+[[Answer Case Study Part 2 Q2.2.1.]] 
 2. Why did domestic gas prices decouple from netback prices between August 2022 and March 2023? **(2 marks)**
 
 3. Why have netback prices fallen since October 2022 (hint: consider global factors)? **(2 marks)**
@@ -135,7 +135,7 @@ Utilising the above diagram and some desktop research (e.g., [ACCC’s Gas Inqu
 
 5. As noted in Lesson 3.2, the Australian Government’s $12/GJ price cap does not apply to the DWGM or the GSH. But, as per the above graph, why have prices in these markets trended down to $12 or lower? **(2 marks)**
 
-##### 2.3 Australia's East Coast gas derivates market (5 marks) 
+##### 2.3 Australia's East Coast gas derivatives market (5 marks) 
 
 This question requires you to determine the market liquidity of physically- and cash-settled gas derivatives over CY2021 and CY2022. Utilise the following sources to calculate the liquidity ratio for East Coast (excl. Northern Territory) gas derivatives:  
   

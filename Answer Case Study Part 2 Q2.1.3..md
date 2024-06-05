@@ -1,0 +1,3 @@
+The [large-scale-generation-certificates](large-scale-generation-certificates.md) prices to be greater than zero when the LRET has already been satisfied suggests that there is excess demand for the certificates beyond the regulatory requirement. 
+
+This could be due to the ESG investor movement as the certificates are one of a few programs that are considered credible efforts to reduce $CO_2-e$ emissions in the production sector of the economy.
