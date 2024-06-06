@@ -128,30 +128,21 @@ Utilising the above diagram and some desktop research (e.g., [ACCC’s Gas Inqu
 1. Why did domestic gas prices decouple from ACCC netback prices between October 2021 and May 2022? **(2 marks)**
 [[Answer Case Study Part 2 Q2.2.1.]] 
 2. Why did domestic gas prices decouple from netback prices between August 2022 and March 2023? **(2 marks)**
-
+[[Answer Case Study Part 2 Q2.2.2.]] 
 3. Why have netback prices fallen since October 2022 (hint: consider global factors)? **(2 marks)**
-
+[[Answer Case Study Part 2 Q2.2.3.]] 
 4. Is the ACCC netback forward curve (as shown [here](https://www.accc.gov.au/inquiries-and-consultations/gas-inquiry-2017-30/lng-netback-price-series)) in contango or backwardation? Why? **(2 marks)**
-
+[[Answer Case Study Part 2 Q2.2.4.]] 
 5. As noted in Lesson 3.2, the Australian Government’s $12/GJ price cap does not apply to the DWGM or the GSH. But, as per the above graph, why have prices in these markets trended down to $12 or lower? **(2 marks)**
-
+[[Answer Case Study Part 2 Q2.2.5.]] 
 ##### 2.3 Australia's East Coast gas derivatives market (5 marks) 
-
 This question requires you to determine the market liquidity of physically- and cash-settled gas derivatives over CY2021 and CY2022. Utilise the following sources to calculate the liquidity ratio for East Coast (excl. Northern Territory) gas derivatives:  
-  
 
 1. [Data provided on ProLearn](https://prolearn.mq.edu.au/mod/page/view.php?id=46635) on ASX-listed gas derivatives.  
-      
-    
-2. Sections 2.2 – 2.3 from [ACCC Gas Inquiry Dec 2023 report](https://www.accc.gov.au/system/files/Gas%20Inquiry%202017-2030%20-%20December%202023_0.pdf), for data on physically-settled gas derivatives.  
-      
-    
+2. Sections 2.2 – 2.3 from [ACCC Gas Inquiry Dec 2023 report](https://www.accc.gov.au/system/files/Gas%20Inquiry%202017-2030%20-%20December%202023_0.pdf), for data on physically-settled gas derivatives.   
 3. Data on domestic gas production from [AER State of the Energy Market 2023](https://www.aer.gov.au/system/files/2023-10/State%20of%20the%20energy%20market%202023%20-%20Full%20report_1.pdf).
 
 **Using these sources:**
-
-  
-
 - Calculate and tabulate the liquidity ratio, calculating the ratio separately for ASX-listed derivatives vs. physically-settled derivatives. Is the liquidity ratio higher for ASX-listed or physically-settled derivatives?
 - Explain any changes in this ratio from CY2021 to CY2022.
 
