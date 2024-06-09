@@ -1,4 +1,5 @@
-![Gas markets Australia - liquidity ratio](Gas%20markets%20Australia%20-%20liquidity%20ratio.png)
+![Gas markets Australia - liquidity ratio](images/Gas%20markets%20Australia%20-%20liquidity%20ratio.png)
+
 The [[liquidity]] ratio is defined as the volume of futures contracts over physical delivery. [[Liquidity]] is a measure of market efficiency with higher liquidity implying easier trading conditions in which the act of buying and selling a commodity yields lower price change.
 
 The [[liquidity]] ratio is a measure of trading intensity. There are two calculations with different interpretations:
