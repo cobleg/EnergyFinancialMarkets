@@ -32,6 +32,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "58d17d8c428b5789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c48ffdf846d68a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer Case Study Part 2 Q2.3..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fc76f506e71c7d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer Case Study Part 2 Q2.3..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment-questions.md",
+                "file": "Answer Case Study Part 2 Q2.3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,10 +157,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cbaee0b65038fe1",
+  "active": "5fc76f506e71c7d3",
   "lastOpenFiles": [
-    "Answer Case Study Part 2 Q2.2.5..md",
+    "inbox/Australian and New Zealand Natural Gas Futures - Contract Specifications.md",
+    "inbox/State of the energy market 2023 - Australian Energy Regulator (AER).md",
+    "media/zotero/StateEnergyMarket2023/image-32-x23-y109.png",
+    "media/zotero/StateEnergyMarket2023/image-31-x12-y384.png",
+    "media/zotero/StateEnergyMarket2023/image-167-x22-y195.png",
+    "media/zotero/StateEnergyMarket2023/image-177-x7-y440.png",
+    "media/zotero/StateEnergyMarket2023/image-164-x7-y417.png",
+    "media/zotero/StateEnergyMarket2023/image-160-x8-y413.png",
+    "media/zotero/StateEnergyMarket2023/image-158-x13-y500.png",
+    "media/zotero/StateEnergyMarket2023",
+    "inbox/State of the energy market 2022 - Australian Energy Regulator (AER).md",
+    "attachments/AER Gas production Table 5.2.png",
+    "attachments/ASX gas futures codes.png",
     "Assignment-questions.md",
+    "Answer Case Study Part 2 Q2.3..md",
+    "images/ASX cash futures contracts.png",
+    "Liquidity.md",
+    "attachments/DD2B8100",
+    "images/ASX Australian and New Zealand Gas Futures - Contract Specifications - M....pdf",
+    "images/ASX Australian and New Zealand Gas Futures - Contract Specifications - M....pdf.crdownload",
+    "attachments/C5400100",
+    "attachments/5D73D000",
+    "attachments/~$Case Study Q&A Term 3 2024.xlsx",
+    "Answer 1.4.4.md",
+    "Answer Case Study Part 2 Q2.2.5..md",
     "Answer Case Study Part 2 Q2.2.3..md",
     "inbox/Global LNG supplies and natural gas stocks will likely meet demand this winter 2023–24, but risks remain.md",
     "inbox/Gas Wholesale Market Update.md",
@@ -137,7 +191,6 @@
     "backwardation.md",
     "Answer Case Study Part 2 Q2.2.2..md",
     "inbox/Gas inquiry June 2023 interim report.md",
-    "media/zotero/commissionGasInquiryJune2023/image-10-x33-y276.png",
     "media/zotero/commissionGasInquiryJune2023",
     "N-1 volume limits.md",
     "Answer 1.4.3.md",
@@ -150,25 +203,7 @@
     "Answer Case Study Part 2 Q2.1.1..md",
     "Answer Case Study Part 1 Q1.3.2..md",
     "Answer Case Study Part 2 Q2.1.3..md",
-    "Answer Case Study Part 2 Q2.1.4..md",
-    "Answer 1.3.3.md",
-    "Answer 1.4.4.md",
-    "Answer Case Study Part 2 Q2.2.1..md",
-    "inbox/Gas Inquiry 2017-2025 interim report - January 2022.md",
-    "images/LNG netback price bands versus domestic gas offers.png",
-    "images/AEMO generation capacity by year -  Draft ISP 2023.png",
-    "Answer Case Study Part 2 Q2.1.2..md",
-    "images/Diagram from Lesson 3.2.png",
     "images/Diagram from Lesson 3.2.png.crdownload",
-    "images/Backwardation and contango.png",
-    "images/LGC forward prices.png",
-    "attachments/D2A77F00",
-    "attachments/3C4B6F00",
-    "attachments/8E386F00",
-    "attachments/47A66F00",
-    "attachments/FD926F00",
-    "attachments/Case Study Q&A Term 3 2024.xlsx",
-    "attachments/B5006F00",
-    "attachments/~$Case Study Q&A Term 3 2024.xlsx"
+    "attachments/D2A77F00"
   ]
 }

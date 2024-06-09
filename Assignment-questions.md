@@ -145,7 +145,7 @@ This question requires you to determine the market liquidity of physically- and 
 **Using these sources:**
 - Calculate and tabulate the liquidity ratio, calculating the ratio separately for ASX-listed derivatives vs. physically-settled derivatives. Is the liquidity ratio higher for ASX-listed or physically-settled derivatives?
 - Explain any changes in this ratio from CY2021 to CY2022.
-
+[[Answer Case Study Part 2 Q2.3.]]
 
 
 
