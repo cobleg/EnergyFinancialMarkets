@@ -1,15 +1,15 @@
 ![Gas markets Australia - liquidity ratio](images/Gas%20markets%20Australia%20-%20liquidity%20ratio.png)
 
-The [[liquidity]] ratio is defined as the volume of futures contracts over physical delivery. [[Liquidity]] is a measure of market efficiency with higher liquidity implying easier trading conditions in which the act of buying and selling a commodity yields lower price change.
+The [liquidity](liqudity.md) ratio is defined as the volume of futures contracts over physical delivery. [liquidity](liqudity.md)  is a measure of market efficiency with higher liquidity implying easier trading conditions in which the act of buying and selling a commodity yields lower price change.
 
-The [[liquidity]] ratio is a measure of trading intensity. There are two calculations with different interpretations:
+The [liquidity](liqudity.md)  ratio is a measure of trading intensity. There are two calculations with different interpretations:
 
-1. **[[Liquidity]] ratio in the period**. That is, volume traded in futures contracts across all maturities in a given period (e.g. a year) over the underlying physically delivered for that period. In this interpretation, the liquidity ratio indicates the relative liquidity of trading between future periods relative to current demand. A low ratio (less than one) could indicate that the futures market is not very liquid with most buyers wanting physical delivery and secure deliveries via 'off-screen' trading. 
-2. **[[Liquidity]] ratio for the period**. That is, volume traded across all futures contract maturities within a given period of physical delivery. This interpretation provides an indication of the relative liquidity of future contract periods to the current period. A low ratio (less than one) could indicate 'price discovery' activities occurring in the futures market without full commitment to physical delivery ahead of time.
+1. **[liquidity](liqudity.md)  ratio in the period**. That is, volume traded in futures contracts across all maturities in a given period (e.g. a year) over the underlying physically delivered for that period. In this interpretation, the liquidity ratio indicates the relative liquidity of trading between future periods relative to current demand. A low ratio (less than one) could indicate that the futures market is not very liquid with most buyers wanting physical delivery and secure deliveries via 'off-screen' trading. 
+2. **[liquidity](liqudity.md)  ratio for the period**. That is, volume traded across all futures contract maturities within a given period of physical delivery. This interpretation provides an indication of the relative liquidity of future contract periods to the current period. A low ratio (less than one) could indicate 'price discovery' activities occurring in the futures market without full commitment to physical delivery ahead of time.
 
-The [[liquidity]] ratios shown in the table above show both interpretations.
-- [[Liquidity]] ratio (all contracts traded in year). The liquidity ratio are less than one, which indicates that futures trading has a lower volume than physical delivery. The decrease in the ratio from 2021 to 2022 reflects reduced demand as gas prices were expected to decline following a large upward price spike during 2022.
-- [[Liquidity]] ratio (all contracts for year). While still less than one, the liquidity ratio increased substantially in 2022. This likely reflects the need to lock-in the price ahead of time given the gas price shock. Also note the reduced underlying demand for gas in 2022 compared to 2021. 
+The [liquidity](liqudity.md)  ratios shown in the table above show both interpretations.
+- [liquidity](liqudity.md)  ratio (all contracts traded in year). The liquidity ratio are less than one, which indicates that futures trading has a lower volume than physical delivery. The decrease in the ratio from 2021 to 2022 reflects reduced demand as gas prices were expected to decline following a large upward price spike during 2022.
+- [liquidity](liqudity.md)  ratio (all contracts for year). While still less than one, the liquidity ratio increased substantially in 2022. This likely reflects the need to lock-in the price ahead of time given the gas price shock. Also note the reduced underlying demand for gas in 2022 compared to 2021. 
 
 ## How the liquidity ratio is calculated
 There are several steps to calculating the liquidity ratio in this case:

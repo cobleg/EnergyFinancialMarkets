@@ -1,5 +1,5 @@
 There are several gas markets operating in Australia, including the:
-- [[DWGM]]
-- [[GSH]]
-- [[STTM]] 
+- [DWGM](DWGM.md)
+- [GSH](GSH.md)
+- [STTM](STTM.md) 
 - [WAGBB](WAGBB.md) 
