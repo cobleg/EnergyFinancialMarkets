@@ -1,6 +1,6 @@
 The futures price curve is said to be in contango when the `expected spot price` is less than the forward price. Also, futures prices are higher than the `current spot price`.
 
-![Backwardation and contango](Backwardation%20and%20contango.png)
+![Backwardation and contango](images/Backwardation%20and%20contango.png)
 ## Indicators of contango
 - The `expected spot price` is more than the `futures price` for a given future expiry date for the same asset. 
 - Upward sloping forward price curve beginning from the `current spot price`. Each successive `futures price` is greater than the previous `futures price`.
