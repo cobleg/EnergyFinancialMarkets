@@ -8,7 +8,7 @@ Wholesale electricity trading implies exposure to highly volatile spot prices. S
 
 A simple physical strategy would be to store electrical energy in batteries, charging the batteries from the electricity grid when prices are low and discharging from the batteries when prices are high. However, batteries and other forms of energy storage are still expensive and impractical for most electricity users. Indeed, despite the price volatility, the electricity grid still offers great value over self-supply most of the time. 
 
-Most hedging strategies will seek to [[swap]] the volatile cashflow associated with wholesale market trading with less volatile cashflow. This makes it easier to ensure sufficient cash is available to operate a business and maintain a continuous service of electrical power.
+Most hedging strategies will seek to [swap](swap.md) the volatile cashflow associated with wholesale market trading with less volatile cashflow. This makes it easier to ensure sufficient cash is available to operate a business and maintain a continuous service of electrical power.
 
 There are a variety of hedging instruments available, both over-the-counter as well as via securities exchanges such as the Australian Securities Exchange. 
 
