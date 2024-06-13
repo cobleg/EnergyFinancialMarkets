@@ -54,4 +54,4 @@ This pricing structure indicates a backwardation market because the spot price (
 Backwardation reflects the market's expectations of future price movements and influences various trading and risk management strategies. Understanding backwardation is crucial for market participants involved in commodities, financial derivatives, and other assets where futures contracts are used.
 
 ## References
-[What is Backwardation and Contango in Futures Markets](What%20is%20Backwardation%20and%20Contango%20in%20Futures%20Markets.md)
+[What is Backwardation and Contango in Futures Markets](inbox/What%20is%20Backwardation%20and%20Contango%20in%20Futures%20Markets.md)
