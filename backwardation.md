@@ -1,19 +1,19 @@
-**Backwardation** is a market condition where the current price of an asset (spot price) is higher than the prices for futures contracts of the same asset. In other words, futures prices decrease with longer maturities. This situation is typically contrasted with **[[contango]]**, where futures prices are higher than the current spot price.
+**Backwardation** is a market condition where the `current price` of an asset (`current spot price`) is higher than the prices for futures contracts of the same asset. In other words, futures prices decrease with longer maturities. This situation is typically contrasted with **[contango](contango.md)**, where futures prices are higher than the `current spot price`.
 
-Another way of looking at this is to consider the **expected future spot price**. In this case, the futures price is less than the expected future spot price.
+Another way of looking at this is to consider the `expected future spot price`. In this case, the futures price is less than the expected future spot price.
 
-![Backwardation and contango](Backwardation%20and%20contango.png) 
+![Backwardation and contango](images/Backwardation%20and%20contango.png) 
 
 ### Key Characteristics of Backwardation
 
 1. **Spot Price > Futures Price**
-   - The current price of the commodity or asset is higher than the price agreed for future delivery.
+   - The `current price` of the commodity or asset is higher than the price agreed for future delivery.
 
 2. **Downward Sloping Forward Curve**
    - The futures price curve slopes downward as you move further into the future. This means that futures prices decrease as the contract maturity increases.
 
 3. **Market Expectations**
-   - Backwardation often occurs when the market expects the price of the asset to decrease over time. This can be due to various reasons such as anticipated increases in supply, decreases in demand, or seasonal factors.
+   - Backwardation often occurs when the market `expects` the price of the asset to decrease over time. This can be due to various reasons such as anticipated increases in supply, decreases in demand, or seasonal factors.
 
 ### Example
 
@@ -41,7 +41,7 @@ This pricing structure indicates a backwardation market because the spot price (
 ### Implications of Backwardation
 
 1. **Profit Opportunities for Arbitrageurs**
-   - Arbitrageurs can potentially profit from buying the asset at the spot price and selling futures contracts, expecting to deliver the asset at the future date for a higher spot price.
+   - Arbitrageurs can potentially profit from buying the asset at the spot price and selling futures contracts, expecting to deliver the asset at a future date for a higher spot price.
 
 2. **Inventory Management**
    - Producers and consumers of commodities might adjust their inventory management strategies based on the expectation of lower future prices.
