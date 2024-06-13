@@ -9,4 +9,4 @@ The ASX (Australian Securities Exchange) is an integrated exchange offering:
 - post-trade services.
 
 # References
-[ASX | About us](ASX%20-%20About%20us.md)
+[ASX | About us](inbox/ASX%20-%20About%20us.md)
