@@ -1,5 +1,5 @@
 # Overview
-A swap is a [forward-contract](forward-contract. md) with fixed volumes. In the electricity industry, fixed-volume forward contracts are referred to as `contracts-for-difference`, otherwise known as swaps.
+A swap is a [forward-contract](forward-contract.md) with fixed volumes. In the electricity industry, fixed-volume forward contracts are referred to as `contracts-for-difference`, otherwise known as swaps.
 
 A swap is a financial agreement where the seller agrees to pay the buyer an amount equal to the difference between the spot price at a predetermined market interval and a predetermined fixed price multiplied by a predetermined quantity. This results in the exchange of a floating revenue stream for a fixed revenue stream.
 
