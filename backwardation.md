@@ -1,6 +1,6 @@
 **Backwardation** is a market condition where the `current price` of an asset (`current spot price`) is higher than the prices for futures contracts of the same asset. In other words, futures prices decrease with longer maturities. This situation is typically contrasted with **[contango](contango.md)**, where futures prices are higher than the `current spot price`.
 
-Another way of looking at this is to consider the `expected future spot price`. In this case, the futures price is less than the expected future spot price.
+Another way of looking at this is to consider the `expected future spot price`. In this case, the futures price is less than the `expected spot price`.
 
 ![Backwardation and contango](images/Backwardation%20and%20contango.png) 
 
