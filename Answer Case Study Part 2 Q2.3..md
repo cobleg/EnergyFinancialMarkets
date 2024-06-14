@@ -1,4 +1,9 @@
+## ASX futures 
 ![Gas markets Australia - liquidity ratio](images/Gas%20markets%20Australia%20-%20liquidity%20ratio.png)
+## Physically settled
+![Physical gas deliveries liquidity ratio](images/Physical%20gas%20deliveries%20liquidity%20ratio.png)
+The liquidity ratio for physically settled gas transactions is larger than the futures cash settled contracts. Both sets of liquidity ratios are low. This suggests that trading gas can move the price with most trading likely to be via Gas Supply Agreements (GSAs).  
+
 
 The [liquidity](liquidity.md) ratio is defined as the volume of futures contracts over physical delivery. [liquidity](liquidity.md)  is a measure of market efficiency with higher liquidity implying easier trading conditions in which the act of buying and selling a commodity yields lower price change.
 
@@ -19,11 +24,14 @@ There are several steps to calculating the liquidity ratio in this case:
 	- across maturity dates for each period (e.g. a year)
 	- within each maturity date over time.
 
-### Analytical data sets
+#### Analytical data sets
 ![ASX cash futures contracts](images/ASX%20cash%20futures%20contracts.png)
 The gas futures data is shown in the image above. The Code provides information identifying the trading hub (i.e. Victoria or Wallumbilla), time to maturity (i.e. month, quarter or year) and maturity year (e.g. 2020, 2021, 2022). The quantity represented by each contract is calculated and presented in petajoule quantities.
 ![ASX gas futures codes](images/ASX%20gas%20futures%20codes.png)
-The physical delivery data is obtained from reports published by the Australian Energy Regulator (see example below).
+The physical delivery data is obtained from reports published by the Australian Competition and Consumer Commission (see example below).
+![Physical gas delivery - Gas Inquiry](images/Physical%20gas%20delivery%20-%20Gas%20Inquiry.png)
+
+Total Eastern Australian gas production shown below is sourced from the Australian Energy Regulator report.
 
 ![AER Gas production Table 5.2](images/AER%20Gas%20production%20Table%205.2.png)
 

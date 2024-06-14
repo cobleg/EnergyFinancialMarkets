@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c48ffdf846d68a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Answer Case Study Part 2 Q2.3..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc76f506e71c7d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Answer Case Study Part 2 Q2.3..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba2547aecc11bbfa",
             "type": "leaf",
             "state": {
@@ -42,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ba6fe46e8a6a6d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment-questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 342.5
   },
   "right": {
     "id": "9a31c2ea0cc443c6",
@@ -141,6 +128,13 @@
   },
   "active": "ba2547aecc11bbfa",
   "lastOpenFiles": [
+    "attachments/165D1500",
+    "Assignment-questions.md",
+    "Answer Case Study Part 2 Q2.3..md",
+    "images/Physical gas deliveries liquidity ratio.png",
+    "attachments/B0201500",
+    "images/Physical gas delivery - Gas Inquiry.png",
+    "attachments/~$Case Study Q&A Term 3 2024.xlsx",
     "Answer Case Study Part 2 Q2.2.5..md",
     "Answer Case Study Part 2 Q2.2.4..md",
     "Answer Case Study Part 2 Q2.2.3..md",
@@ -157,7 +151,6 @@
     "Answer Case Study Part 1 Q1.2.1..md",
     "Answer Case Study Part 1 Q1.1.2..md",
     "Answer Case Study Part 1 Q1.1.1..md",
-    "Answer Case Study Part 2 Q2.3..md",
     "Answer 1.1.2.md",
     "Answer 1.4.4.md",
     "Answer 1.4.3.md",
@@ -165,8 +158,6 @@
     "Answer 1.4.1.md",
     "Answer 1.3.3.md",
     "Answer 1.3.2.md",
-    "Answer 1.3.1.md",
-    "Answer 1.2.3.md",
     "images/AER Gas production Table 5.2.png",
     "images/ASX gas futures codes.png",
     "images/WA gas pipeline map.png",
@@ -175,17 +166,13 @@
     "media/zotero/StateEnergyMarket2023/image-32-x23-y109.png",
     "media/zotero/StateEnergyMarket2023/image-31-x12-y384.png",
     "media/zotero/StateEnergyMarket2023/image-167-x22-y195.png",
-    "media/zotero/StateEnergyMarket2023/image-177-x7-y440.png",
-    "media/zotero/StateEnergyMarket2023/image-164-x7-y417.png",
     "media/zotero/StateEnergyMarket2023",
     "attachments/DD2B8100",
     "images/ASX Australian and New Zealand Gas Futures - Contract Specifications - M....pdf",
     "images/ASX Australian and New Zealand Gas Futures - Contract Specifications - M....pdf.crdownload",
     "attachments/C5400100",
     "attachments/5D73D000",
-    "attachments/~$Case Study Q&A Term 3 2024.xlsx",
     "media/zotero/commissionGasInquiryJune2023",
-    "images/Diagram from Lesson 3.2.png.crdownload",
-    "attachments/D2A77F00"
+    "images/Diagram from Lesson 3.2.png.crdownload"
   ]
 }
