@@ -39,7 +39,8 @@ This is the VaR result assuming a holding period of just one hour. For 1 busines
 $$ -266.49 \times \sqrt{24} = -266.49 \times 4.898979 = -$1,305.53 $$
 However, there is a [[spot-price-floor]] imposed in the [[National-Electricity-Market]] [wholesale market price floor of -$1,000](https://aemo.com.au/-/media/Files/Electricity/NEM/National-Electricity-Market-Fact-Sheet.pdf) so this is the worst possible case, not the answer we calculated.
 
-
+### Why square-root of time?
+See this note: [square-root-of-time](square-root-of-time.md)
 ## Worked example - calculating using a PDF
 The use of the 95% probability cut-off threshold was a little arbitrary. On occasion, risk managers may want to use a different cut-off threshold. This example shows how to calculate the value directly from the [Probability Density Function (PDF)](https://en.wikipedia.org/wiki/Probability_density_function). 
 
