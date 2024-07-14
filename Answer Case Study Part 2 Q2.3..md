@@ -35,7 +35,7 @@ Total Eastern Australian gas production shown below is sourced from the Australi
 
 ![AER Gas production Table 5.2](images/AER%20Gas%20production%20Table%205.2.png)
 
-The futures contracts are summed across the gas trading hubs to align with the Eastern Australia total shown in the gas production table.
+The futures contracts are summed across the gas trading hubs to align with the Eastern Australia total shown in the gas production table. 
 
 The conditional sums for each year are calculated in Excel: 
 - All contracts traded in year according to`=SUMIFS(Table1[Quantity (PJ)],Table1[Year],2021)`. Note that the year column is obtained from the trading date.
